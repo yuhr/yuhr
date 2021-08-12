@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Ruby         5 hrs 17 mins   ███████░░░░░░░░░░░░░░░░░░   28.48 % 
+Rulerᴹᴸ      5 hrs 17 mins   ███████░░░░░░░░░░░░░░░░░░   28.48 % 
 TypeScript   4 hrs 19 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.29 % 
 Other        2 hrs 48 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 % 
 JavaScript   1 hr 56 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
