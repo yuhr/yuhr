@@ -67,7 +67,3 @@
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 
 - [matt1/deno-nameserver](https://github.com/matt1/deno-nameserver) - A DNS server written in Deno
-
-### [WakaTime](https://wakatime.com) Weekly Metrics
-
-
