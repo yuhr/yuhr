@@ -23,16 +23,15 @@ jobs:
           template: README.gtpl
           writeTo: README.md
 
+      - name: Commit README
+        uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commit_message: "chore: update README.md"
+
       - name: Populate Wakatime Weekly Metrics
         uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          COMMIT_MESSAGE: "chore: update README.md"
-
-      # The step above (WakaTime) does commit, so we don't need this?
-      # - name: Commit README
-      #   uses: stefanzweifel/git-auto-commit-action@v4
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      #   with:
-      #     commit_message: "chore: update README.md"
+          COMMIT_MESSAGE: "chore: update WakaTime metrics in README.md"
