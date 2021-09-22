@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "files.removeFinalNewlines": true,
+  "files.associations": {
+    "*.gtpl": "markdown"
+  }
+}

@@ -1,6 +1,7 @@
-name: Waka Readme
+name: Update Readme
 
 on:
+  push:
   workflow_dispatch:
   schedule:
     # Runs at 12am UTC
@@ -8,9 +9,30 @@ on:
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update README.md
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate README
+        uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_PERSONAL_ACCESS_TOKEN }}
+        with:
+          template: README.gtpl
+          writeTo: README.md
+
+      - name: Populate Wakatime Weekly Metrics
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          COMMIT_MESSAGE: "chore: update README.md"
+
+      # The step above (WakaTime) does commit, so we don't need this?
+      # - name: Commit README
+      #   uses: stefanzweifel/git-auto-commit-action@v4
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      #   with:
+      #     commit_message: "chore: update README.md"

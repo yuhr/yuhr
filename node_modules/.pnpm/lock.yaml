@@ -1,0 +1,21 @@
+lockfileVersion: 5.3
+
+specifiers:
+  prettier: npm:@yuhr/prettier@^2.3.2
+  prettier-plugin-md-nocjsp: ^1.2.0
+
+devDependencies:
+  prettier: /@yuhr/prettier/2.3.2
+  prettier-plugin-md-nocjsp: 1.2.0
+
+packages:
+
+  /@yuhr/prettier/2.3.2:
+    resolution: {integrity: sha512-HVh71UrgAZbZg8kW7yBtXE0lCFMaUJj2JUYG9FZDBteRqUEZIWJh5L/9IMO3eXVF9e1xiCObRFdoG/izJVkE0Q==}
+    engines: {node: '>=10.13.0'}
+    hasBin: true
+    dev: true
+
+  /prettier-plugin-md-nocjsp/1.2.0:
+    resolution: {integrity: sha512-ShX2dd8XoE6bi1zlY3U4yKJl/MN5LIdMDjVr//n/Dy6vWOWZdMqSFYeA7qcETTfUj6bTP4VfULDcQbgaJcgJKg==}
+    dev: true

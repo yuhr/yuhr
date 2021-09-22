@@ -1,0 +1,6 @@
+{
+	"devDependencies": {
+		"prettier": "npm:@yuhr/prettier@^2.3.2",
+		"prettier-plugin-md-nocjsp": "^1.2.0"
+	}
+}
