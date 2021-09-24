@@ -58,12 +58,12 @@
 
 
 
+- [Minigugus/zx-deno](https://github.com/Minigugus/zx-deno) - A tool for writing better scripts
+
+- [estools/esquery](https://github.com/estools/esquery) - ECMAScript AST query library.
+
 - [cmorten/deno-rollup](https://github.com/cmorten/deno-rollup) - Next-generation ES module bundler ported for Deno
 
 - [panva/node-oidc-provider](https://github.com/panva/node-oidc-provider) - OpenID Certified™ OAuth 2.0 Authorization Server implementation for Node.js
 
 - [TomokiMiyauci/registerable](https://github.com/TomokiMiyauci/registerable) - Check if it can be registered as a package name or domain name
-
-- [swift-embedded/swift-embedded](https://github.com/swift-embedded/swift-embedded) - Swift for Embedded Systems ✨
-
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
