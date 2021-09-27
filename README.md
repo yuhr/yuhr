@@ -30,6 +30,8 @@
 
 
 
+- [keichi/binary-parser](https://github.com/keichi/binary-parser) [`v2.0.0`](https://github.com/keichi/binary-parser/releases/tag/v2.0.0) - A blazing-fast declarative parser builder for binary data
+
 - [pelotom/runtypes](https://github.com/pelotom/runtypes) [`v6.4.1`](https://github.com/pelotom/runtypes/releases/tag/v6.4.1) - Runtime validation for static types
 
 - [sindresorhus/pupa](https://github.com/sindresorhus/pupa) [`v3.1.0`](https://github.com/sindresorhus/pupa/releases/tag/v3.1.0) - Simple micro templating
@@ -37,8 +39,6 @@
 - [yuhr/callable-deferred-promise](https://github.com/yuhr/callable-deferred-promise) [`v1.0.0`](https://github.com/yuhr/callable-deferred-promise/releases/tag/v1.0.0) - A thin wrapper class to create a callable deferred `Promise`.
 
 - [yuhr/use-await-data](https://github.com/yuhr/use-await-data) [`v1.0.5`](https://github.com/yuhr/use-await-data/releases/tag/v1.0.5) - A React hook that executes an async task to populate the desired data.
-
-- [keichi/binary-parser](https://github.com/keichi/binary-parser) [`v1.9.2`](https://github.com/keichi/binary-parser/releases/tag/v1.9.2) - A blazing-fast declarative parser builder for binary data
 
 ### 🌱 My latest projects
 
@@ -58,6 +58,8 @@
 
 
 
+- [EdJoPaTo/deno-semver-redirect](https://github.com/EdJoPaTo/deno-semver-redirect) - Redirect Deno dependencies from semantic versions to the newest fitting version on deno.land/x
+
 - [babylonhealth/Bento](https://github.com/babylonhealth/Bento) - Swift library for building component-based interfaces on top of UITableView and UICollectionView 🍱
 
 - [anweiss/cddl](https://github.com/anweiss/cddl) - Concise data definition language (RFC 8610) implementation and JSON and CBOR validator in Rust
@@ -65,5 +67,3 @@
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 
 - [TomokiMiyauci/curry](https://github.com/TomokiMiyauci/curry) - TypeScript-first curry function without upcast
-
-- [Minigugus/zx-deno](https://github.com/Minigugus/zx-deno) - A tool for writing better scripts
