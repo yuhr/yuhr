@@ -58,6 +58,8 @@
 
 
 
+- [klesun/ts-browser](https://github.com/klesun/ts-browser) - Run typescript files with imports on the fly. Like ts-node, but for browser
+
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 
 - [philipl/pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!
@@ -65,5 +67,3 @@
 - [Munksgaard/session-types](https://github.com/Munksgaard/session-types) - 
 
 - [guybedford/es-module-shims](https://github.com/guybedford/es-module-shims) - Shims for new ES modules features on basic modules support in browsers
-
-- [EdJoPaTo/deno-semver-redirect](https://github.com/EdJoPaTo/deno-semver-redirect) - Redirect Deno dependencies from semantic versions to the newest fitting version on deno.land/x
