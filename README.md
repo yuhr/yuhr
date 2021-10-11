@@ -58,12 +58,12 @@
 
 
 
+- [LeviBorodenko/primify](https://github.com/LeviBorodenko/primify) - Embed any image into a prime number.
+
+- [Daninet/hash-wasm](https://github.com/Daninet/hash-wasm) - Lightning fast hash functions using hand-tuned WebAssembly binaries
+
 - [panva/jose](https://github.com/panva/jose) - Universal &#34;JSON Web Almost Everything&#34; - JWA, JWS, JWE, JWT, JWK with no dependencies
 
 - [deno-libs/ipfs](https://github.com/deno-libs/ipfs) - 🦕🟦 Lightweight Deno HTTP client library for IPFS
 
 - [preconstruct/preconstruct](https://github.com/preconstruct/preconstruct) - 🎁 Dev and build your code painlessly in monorepos
-
-- [mizchi/swdev](https://github.com/mizchi/swdev) - No bundle frontend by service-worker
-
-- [probe-rs/probe-rs](https://github.com/probe-rs/probe-rs) - A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host
