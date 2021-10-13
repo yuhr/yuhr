@@ -58,12 +58,12 @@
 
 
 
+- [leudz/shipyard](https://github.com/leudz/shipyard) - Entity Component System focused on usability and speed.
+
+- [hermitcore/libhermit-rs](https://github.com/hermitcore/libhermit-rs) - libhermit-rs: A Rust-based library operating system
+
+- [fosscord/fosscord-server](https://github.com/fosscord/fosscord-server) - Fosscord Server (selfhostable open source discord server) (contains api &#43; cdn &#43; gateway &#43; dashboard &#43; voice)
+
+- [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
+
 - [LeviBorodenko/primify](https://github.com/LeviBorodenko/primify) - Embed any image into a prime number.
-
-- [Daninet/hash-wasm](https://github.com/Daninet/hash-wasm) - Lightning fast hash functions using hand-tuned WebAssembly binaries
-
-- [panva/jose](https://github.com/panva/jose) - Universal &#34;JSON Web Almost Everything&#34; - JWA, JWS, JWE, JWT, JWK with no dependencies
-
-- [deno-libs/ipfs](https://github.com/deno-libs/ipfs) - 🦕🟦 Lightweight Deno HTTP client library for IPFS
-
-- [preconstruct/preconstruct](https://github.com/preconstruct/preconstruct) - 🎁 Dev and build your code painlessly in monorepos
