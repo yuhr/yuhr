@@ -58,6 +58,8 @@
 
 
 
+- [zandaqo/structurae](https://github.com/zandaqo/structurae) - Data structures for high-performance JavaScript applications.
+
 - [preactjs/wmr](https://github.com/preactjs/wmr) - 👩‍🚀 The tiny all-in-one development tool for modern web apps.
 
 - [securekey/oauth-xyz-nodejs](https://github.com/securekey/oauth-xyz-nodejs) - A NodeJS of the OAuthXYZ developing specification
@@ -65,5 +67,3 @@
 - [interop-alliance/gnap-client-js](https://github.com/interop-alliance/gnap-client-js) - Authentication client for the GNAP (previously: OAuth.xyz) protocol for in-browser Javascript and Node.js
 
 - [leudz/shipyard](https://github.com/leudz/shipyard) - Entity Component System focused on usability and speed.
-
-- [hermitcore/libhermit-rs](https://github.com/hermitcore/libhermit-rs) - libhermit-rs: A Rust-based library operating system
