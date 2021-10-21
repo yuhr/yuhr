@@ -58,12 +58,12 @@
 
 
 
+- [johanholmerin/tscm](https://github.com/johanholmerin/tscm) - TypeScript Compiler Macros - function-like macros for TypeScript with IDE &amp; type-checking support
+
+- [duart38/Thread](https://github.com/duart38/Thread) - type safe multi-threading made easier
+
 - [cmorten/luath](https://github.com/cmorten/luath) - Fast front-end development tooling in Deno.
 
 - [zandaqo/structurae](https://github.com/zandaqo/structurae) - Data structures for high-performance JavaScript applications.
 
 - [preactjs/wmr](https://github.com/preactjs/wmr) - 👩‍🚀 The tiny all-in-one development tool for modern web apps.
-
-- [securekey/oauth-xyz-nodejs](https://github.com/securekey/oauth-xyz-nodejs) - A NodeJS of the OAuthXYZ developing specification
-
-- [interop-alliance/gnap-client-js](https://github.com/interop-alliance/gnap-client-js) - Authentication client for the GNAP (previously: OAuth.xyz) protocol for in-browser Javascript and Node.js
