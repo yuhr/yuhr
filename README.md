@@ -58,6 +58,8 @@
 
 
 
+- [Ben-G/Validated](https://github.com/Ben-G/Validated) - A Swift μ-Library for Somewhat Dependent Types
+
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 
 - [dragonsblade/enigma-server](https://github.com/dragonsblade/enigma-server) - Open source backend server for Keybase. 
@@ -65,5 +67,3 @@
 - [johanholmerin/tscm](https://github.com/johanholmerin/tscm) - TypeScript Compiler Macros - function-like macros for TypeScript with IDE &amp; type-checking support
 
 - [duart38/Thread](https://github.com/duart38/Thread) - type safe multi-threading made easier
-
-- [cmorten/luath](https://github.com/cmorten/luath) - Fast front-end development tooling in Deno.
