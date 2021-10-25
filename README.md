@@ -58,12 +58,12 @@
 
 
 
+- [guedou/cargo-strip](https://github.com/guedou/cargo-strip) - Strip Rust binaries created with cargo
+
+- [momotaro98/gorillang](https://github.com/momotaro98/gorillang) - ウホゥホウホッッホゥ ウホゥホウホ！！ゥゥ ウホゥホウホ！！オホ ウホ？ゥゥオホ！！ ウホうほホッウウウッホ ウホウォホホウウウホ ウホホホウォ ウホゥホウホォ！ウウ ウホゥホウホウッホッ！ ウホゥホウホッッホッ ウホホッウォウォ？
+
 - [Ben-G/Validated](https://github.com/Ben-G/Validated) - A Swift μ-Library for Somewhat Dependent Types
 
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 
 - [dragonsblade/enigma-server](https://github.com/dragonsblade/enigma-server) - Open source backend server for Keybase. 
-
-- [johanholmerin/tscm](https://github.com/johanholmerin/tscm) - TypeScript Compiler Macros - function-like macros for TypeScript with IDE &amp; type-checking support
-
-- [duart38/Thread](https://github.com/duart38/Thread) - type safe multi-threading made easier
