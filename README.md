@@ -30,9 +30,9 @@
 
 
 
-- [keichi/binary-parser](https://github.com/keichi/binary-parser) [`v2.0.1`](https://github.com/keichi/binary-parser/releases/tag/v2.0.1) - A blazing-fast declarative parser builder for binary data
+- [pelotom/runtypes](https://github.com/pelotom/runtypes) [`v6.5.0`](https://github.com/pelotom/runtypes/releases/tag/v6.5.0) - Runtime validation for static types
 
-- [pelotom/runtypes](https://github.com/pelotom/runtypes) [`v6.4.1`](https://github.com/pelotom/runtypes/releases/tag/v6.4.1) - Runtime validation for static types
+- [keichi/binary-parser](https://github.com/keichi/binary-parser) [`v2.0.1`](https://github.com/keichi/binary-parser/releases/tag/v2.0.1) - A blazing-fast declarative parser builder for binary data
 
 - [sindresorhus/pupa](https://github.com/sindresorhus/pupa) [`v3.1.0`](https://github.com/sindresorhus/pupa/releases/tag/v3.1.0) - Simple micro templating
 
@@ -48,15 +48,17 @@
 
 - [yuhr/use-await-data](https://github.com/yuhr/use-await-data) - A React hook that executes an async task to populate the desired data.
 
-- [yuhr/otm-json](https://github.com/yuhr/otm-json) - OTM-JSON specifications &amp; schemata
-
 - [yuhr/satysfi-fonts-charis-sil](https://github.com/yuhr/satysfi-fonts-charis-sil) - SATySFi Font Package for Charis SIL
 
 - [yuhr/kimetsu-to-oumu](https://github.com/yuhr/kimetsu-to-oumu) - オウム真理教を国教に。
 
+- [yuhr/yuhr.org](https://github.com/yuhr/yuhr.org) - My personal website
+
 ### ⭐ Recent Stars
 
 
+
+- [moltar/typescript-runtime-type-benchmarks](https://github.com/moltar/typescript-runtime-type-benchmarks) - Benchmark Comparison of Packages with Runtime Validation and TypeScript Support
 
 - [unjs/unstorage](https://github.com/unjs/unstorage) - 🌍 💾 Universal Storage Layer
 
@@ -65,5 +67,3 @@
 - [momotaro98/gorillang](https://github.com/momotaro98/gorillang) - ウホゥホウホッッホゥ ウホゥホウホ！！ゥゥ ウホゥホウホ！！オホ ウホ？ゥゥオホ！！ ウホうほホッウウウッホ ウホウォホホウウウホ ウホホホウォ ウホゥホウホォ！ウウ ウホゥホウホウッホッ！ ウホゥホウホッッホッ ウホホッウォウォ？
 
 - [Ben-G/Validated](https://github.com/Ben-G/Validated) - A Swift μ-Library for Somewhat Dependent Types
-
-- [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
