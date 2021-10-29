@@ -16,6 +16,8 @@
 
 
 
+- [Upgrade `typescript` to `4.4.4`](https://github.com/pelotom/runtypes/pull/288) on [pelotom/runtypes](https://github.com/pelotom/runtypes)
+
 - [Add helper function `when` for top-level `match` function](https://github.com/pelotom/runtypes/pull/285) on [pelotom/runtypes](https://github.com/pelotom/runtypes)
 
 - [Fix return type of top-level `match` function](https://github.com/pelotom/runtypes/pull/283) on [pelotom/runtypes](https://github.com/pelotom/runtypes)
@@ -23,8 +25,6 @@
 - [Enable static types of `Optional` in `Dictionary`](https://github.com/pelotom/runtypes/pull/281) on [pelotom/runtypes](https://github.com/pelotom/runtypes)
 
 - [Add `Template` runtype](https://github.com/pelotom/runtypes/pull/279) on [pelotom/runtypes](https://github.com/pelotom/runtypes)
-
-- [Use `globalThis` instead of `global`](https://github.com/pelotom/runtypes/pull/273) on [pelotom/runtypes](https://github.com/pelotom/runtypes)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -58,12 +58,12 @@
 
 
 
+- [denosaurs/plug](https://github.com/denosaurs/plug) - 🔌 Deno plugin management library
+
+- [cdisselkoen/llvm-ir](https://github.com/cdisselkoen/llvm-ir) - LLVM IR in natural Rust data structures
+
+- [cschleiden/jest-github-actions-reporter](https://github.com/cschleiden/jest-github-actions-reporter) - Jest reporter to create annotations when running tests in GitHub Actions
+
+- [heistak/your-code-displays-japanese-wrong](https://github.com/heistak/your-code-displays-japanese-wrong) - A static website to link to when someone&#39;s code is displaying Japanese wrong.
+
 - [moltar/typescript-runtime-type-benchmarks](https://github.com/moltar/typescript-runtime-type-benchmarks) - Benchmark Comparison of Packages with Runtime Validation and TypeScript Support
-
-- [unjs/unstorage](https://github.com/unjs/unstorage) - 🌍 💾 Universal Storage Layer
-
-- [guedou/cargo-strip](https://github.com/guedou/cargo-strip) - Strip Rust binaries created with cargo
-
-- [momotaro98/gorillang](https://github.com/momotaro98/gorillang) - ウホゥホウホッッホゥ ウホゥホウホ！！ゥゥ ウホゥホウホ！！オホ ウホ？ゥゥオホ！！ ウホうほホッウウウッホ ウホウォホホウウウホ ウホホホウォ ウホゥホウホォ！ウウ ウホゥホウホウッホッ！ ウホゥホウホッッホッ ウホホッウォウォ？
-
-- [Ben-G/Validated](https://github.com/Ben-G/Validated) - A Swift μ-Library for Somewhat Dependent Types
