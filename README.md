@@ -58,6 +58,8 @@
 
 
 
+- [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
+
 - [gfngfn/Sesterl](https://github.com/gfngfn/Sesterl) - An ML-inspired statically-typed Erlang
 
 - [denosaurs/plug](https://github.com/denosaurs/plug) - 🔌 Deno plugin management library
@@ -65,5 +67,3 @@
 - [cdisselkoen/llvm-ir](https://github.com/cdisselkoen/llvm-ir) - LLVM IR in natural Rust data structures
 
 - [cschleiden/jest-github-actions-reporter](https://github.com/cschleiden/jest-github-actions-reporter) - Jest reporter to create annotations when running tests in GitHub Actions
-
-- [heistak/your-code-displays-japanese-wrong](https://github.com/heistak/your-code-displays-japanese-wrong) - A static website to link to when someone&#39;s code is displaying Japanese wrong.
