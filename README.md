@@ -58,12 +58,12 @@
 
 
 
+- [rust-embedded/cross](https://github.com/rust-embedded/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
+
+- [messense/homebrew-macos-cross-toolchains](https://github.com/messense/homebrew-macos-cross-toolchains) - macOS cross compiler toolchains
+
+- [alrra/browser-logos](https://github.com/alrra/browser-logos) - 🗂 High resolution web browser logos
+
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
 
 - [gfngfn/Sesterl](https://github.com/gfngfn/Sesterl) - An ML-inspired statically-typed Erlang
-
-- [denosaurs/plug](https://github.com/denosaurs/plug) - 🔌 Deno plugin management library
-
-- [cdisselkoen/llvm-ir](https://github.com/cdisselkoen/llvm-ir) - LLVM IR in natural Rust data structures
-
-- [cschleiden/jest-github-actions-reporter](https://github.com/cschleiden/jest-github-actions-reporter) - Jest reporter to create annotations when running tests in GitHub Actions
