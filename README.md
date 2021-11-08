@@ -58,12 +58,12 @@
 
 
 
+- [lucacasonato/fresh](https://github.com/lucacasonato/fresh) - Preact, but super edgy
+
+- [monaqa/todome](https://github.com/monaqa/todome) - Text-based to-do management CLI &amp; language server
+
+- [eva3/Evangelion--3.0-Translation](https://github.com/eva3/Evangelion--3.0-Translation) - Evangelion: 3.0 You Can (Not) Redo. (ヱヴァンゲリヲン新劇場版：Q) translation
+
 - [rs-ipfs/rust-ipfs](https://github.com/rs-ipfs/rust-ipfs) - The InterPlanetary File System (IPFS), implemented in Rust.
 
 - [est31/cargo-udeps](https://github.com/est31/cargo-udeps) - Find unused dependencies in Cargo.toml
-
-- [rust-embedded/cross](https://github.com/rust-embedded/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
-
-- [messense/homebrew-macos-cross-toolchains](https://github.com/messense/homebrew-macos-cross-toolchains) - macOS cross compiler toolchains
-
-- [alrra/browser-logos](https://github.com/alrra/browser-logos) - 🗂 High resolution web browser logos
