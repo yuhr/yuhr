@@ -58,12 +58,12 @@
 
 
 
+- [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. 
+
+- [nandorojo/moti](https://github.com/nandorojo/moti) - 🐼  The React Native (&#43; Web) animation library, powered by Reanimated 2.
+
 - [lucacasonato/fresh](https://github.com/lucacasonato/fresh) - Preact, but super edgy
 
 - [monaqa/todome](https://github.com/monaqa/todome) - Text-based to-do management CLI &amp; language server
 
 - [eva3/Evangelion--3.0-Translation](https://github.com/eva3/Evangelion--3.0-Translation) - Evangelion: 3.0 You Can (Not) Redo. (ヱヴァンゲリヲン新劇場版：Q) translation
-
-- [rs-ipfs/rust-ipfs](https://github.com/rs-ipfs/rust-ipfs) - The InterPlanetary File System (IPFS), implemented in Rust.
-
-- [est31/cargo-udeps](https://github.com/est31/cargo-udeps) - Find unused dependencies in Cargo.toml
