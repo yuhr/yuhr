@@ -58,6 +58,8 @@
 
 
 
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+
 - [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
@@ -65,5 +67,3 @@
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. 
 
 - [nandorojo/moti](https://github.com/nandorojo/moti) - 🐼  The React Native (&#43; Web) animation library, powered by Reanimated 2.
-
-- [lucacasonato/fresh](https://github.com/lucacasonato/fresh) - Preact, but super edgy
