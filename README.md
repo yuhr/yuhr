@@ -58,6 +58,8 @@
 
 
 
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
+
 - [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
 
 - [martty/vuk](https://github.com/martty/vuk) - vuk - A rendergraph-based abstraction for Vulkan
@@ -65,5 +67,3 @@
 - [vivliostyle/vfm](https://github.com/vivliostyle/vfm) - ⬇️ Open and extendable Markdown syntax and toolchain.
 
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-
-- [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
