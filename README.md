@@ -58,12 +58,12 @@
 
 
 
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
+
+- [SecretShangri-La/SecretShangri-La](https://github.com/SecretShangri-La/SecretShangri-La) - 〜異常者独身男性〜それっておふがおと同類ってコト！？
+
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 
 - [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
 
 - [martty/vuk](https://github.com/martty/vuk) - vuk - A rendergraph-based abstraction for Vulkan
-
-- [vivliostyle/vfm](https://github.com/vivliostyle/vfm) - ⬇️ Open and extendable Markdown syntax and toolchain.
-
-- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
