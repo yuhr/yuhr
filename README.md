@@ -30,11 +30,11 @@
 
 
 
+- [keichi/binary-parser](https://github.com/keichi/binary-parser) [`v2.0.2`](https://github.com/keichi/binary-parser/releases/tag/v2.0.2) - A blazing-fast declarative parser builder for binary data
+
 - [yuhr/fncmd](https://github.com/yuhr/fncmd) [`v1.0.0`](https://github.com/yuhr/fncmd/releases/tag/v1.0.0) - Command line interface as a function.
 
 - [pelotom/runtypes](https://github.com/pelotom/runtypes) [`v6.5.0`](https://github.com/pelotom/runtypes/releases/tag/v6.5.0) - Runtime validation for static types
-
-- [keichi/binary-parser](https://github.com/keichi/binary-parser) [`v2.0.1`](https://github.com/keichi/binary-parser/releases/tag/v2.0.1) - A blazing-fast declarative parser builder for binary data
 
 - [sindresorhus/pupa](https://github.com/sindresorhus/pupa) [`v3.1.0`](https://github.com/sindresorhus/pupa/releases/tag/v3.1.0) - Simple micro templating
 
@@ -58,6 +58,8 @@
 
 
 
+- [crate-ci/cargo-release](https://github.com/crate-ci/cargo-release) - Cargo subcommand `release`: everything about releasing a rust crate.
+
 - [yuhr/fncmd](https://github.com/yuhr/fncmd) - Command line interface as a function.
 
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -65,5 +67,3 @@
 - [SecretShangri-La/SecretShangri-La](https://github.com/SecretShangri-La/SecretShangri-La) - 〜異常者独身男性〜それっておふがおと同類ってコト！？
 
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-
-- [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
