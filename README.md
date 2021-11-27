@@ -58,6 +58,8 @@
 
 
 
+- [rust-embedded/embedded-hal](https://github.com/rust-embedded/embedded-hal) - A Hardware Abstraction Layer (HAL) for embedded systems
+
 - [rp-rs/rp-hal](https://github.com/rp-rs/rp-hal) - A Rust Embedded-HAL for the rp series microcontrollers
 
 - [crate-ci/cargo-release](https://github.com/crate-ci/cargo-release) - Cargo subcommand `release`: everything about releasing a rust crate.
@@ -65,5 +67,3 @@
 - [yuhr/fncmd](https://github.com/yuhr/fncmd) - Command line interface as a function.
 
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-
-- [SecretShangri-La/SecretShangri-La](https://github.com/SecretShangri-La/SecretShangri-La) - 〜異常者独身男性〜それっておふがおと同類ってコト！？
