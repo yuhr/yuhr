@@ -16,15 +16,15 @@
 
 
 
+- [fix: assert attached function name to be `main`](https://github.com/yuhr/fncmd/pull/4) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+
+- [docs: update readme](https://github.com/yuhr/fncmd/pull/3) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+
+- [refactor: remove unused dependency](https://github.com/yuhr/fncmd/pull/2) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+
+- [refactor: remove unnecessary unstable feature flags](https://github.com/yuhr/fncmd/pull/1) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+
 - [Upgrade `typescript` to `4.4.4`](https://github.com/pelotom/runtypes/pull/288) on [pelotom/runtypes](https://github.com/pelotom/runtypes)
-
-- [Add helper function `when` for top-level `match` function](https://github.com/pelotom/runtypes/pull/285) on [pelotom/runtypes](https://github.com/pelotom/runtypes)
-
-- [Fix return type of top-level `match` function](https://github.com/pelotom/runtypes/pull/283) on [pelotom/runtypes](https://github.com/pelotom/runtypes)
-
-- [Enable static types of `Optional` in `Dictionary`](https://github.com/pelotom/runtypes/pull/281) on [pelotom/runtypes](https://github.com/pelotom/runtypes)
-
-- [Add `Template` runtype](https://github.com/pelotom/runtypes/pull/279) on [pelotom/runtypes](https://github.com/pelotom/runtypes)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -58,12 +58,12 @@
 
 
 
+- [convco/convco](https://github.com/convco/convco) - Conventional commits, changelog, versioning, validation
+
+- [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
+
+- [ZupIT/ritchie-cli](https://github.com/ZupIT/ritchie-cli) - Ritchie CLI is an open-source tool that allows to create, store and share any kind of automation, executing them through command lines, to run operations or start workflows ⚙️ 🖥 💡
+
 - [rust-embedded/embedded-hal](https://github.com/rust-embedded/embedded-hal) - A Hardware Abstraction Layer (HAL) for embedded systems
 
 - [rp-rs/rp-hal](https://github.com/rp-rs/rp-hal) - A Rust Embedded-HAL for the rp series microcontrollers
-
-- [crate-ci/cargo-release](https://github.com/crate-ci/cargo-release) - Cargo subcommand `release`: everything about releasing a rust crate.
-
-- [yuhr/fncmd](https://github.com/yuhr/fncmd) - Command line interface as a function.
-
-- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
