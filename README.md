@@ -16,23 +16,23 @@
 
 
 
-- [fix: assert attached function name to be `main`](https://github.com/yuhr/fncmd/pull/4) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+- [docs: add useful links to badges](https://github.com/yuhr/fncmd/pull/8) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
-- [docs: update readme](https://github.com/yuhr/fncmd/pull/3) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+- [Enable coverage report](https://github.com/yuhr/runtypes/pull/2) on [yuhr/runtypes](https://github.com/yuhr/runtypes)
 
-- [refactor: remove unused dependency](https://github.com/yuhr/fncmd/pull/2) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+- [Enable coverage report](https://github.com/pelotom/runtypes/pull/293) on [pelotom/runtypes](https://github.com/pelotom/runtypes)
 
-- [refactor: remove unnecessary unstable feature flags](https://github.com/yuhr/fncmd/pull/1) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+- [Test PR for CI](https://github.com/yuhr/runtypes/pull/1) on [yuhr/runtypes](https://github.com/yuhr/runtypes)
 
-- [Upgrade `typescript` to `4.4.4`](https://github.com/pelotom/runtypes/pull/288) on [pelotom/runtypes](https://github.com/pelotom/runtypes)
+- [Setup workflow for testing](https://github.com/pelotom/runtypes/pull/292) on [pelotom/runtypes](https://github.com/pelotom/runtypes)
 
 ### 🔭 Latest releases I've contributed to
 
 
 
-- [keichi/binary-parser](https://github.com/keichi/binary-parser) [`v2.0.2`](https://github.com/keichi/binary-parser/releases/tag/v2.0.2) - A blazing-fast declarative parser builder for binary data
+- [yuhr/fncmd](https://github.com/yuhr/fncmd) [`v1.0.1`](https://github.com/yuhr/fncmd/releases/tag/v1.0.1) - Command line interface as a function.
 
-- [yuhr/fncmd](https://github.com/yuhr/fncmd) [`v1.0.0`](https://github.com/yuhr/fncmd/releases/tag/v1.0.0) - Command line interface as a function.
+- [keichi/binary-parser](https://github.com/keichi/binary-parser) [`v2.0.2`](https://github.com/keichi/binary-parser/releases/tag/v2.0.2) - A blazing-fast declarative parser builder for binary data
 
 - [pelotom/runtypes](https://github.com/pelotom/runtypes) [`v6.5.0`](https://github.com/pelotom/runtypes/releases/tag/v6.5.0) - Runtime validation for static types
 
@@ -58,12 +58,12 @@
 
 
 
+- [kawarimidoll/deno-dex](https://github.com/kawarimidoll/deno-dex) - 🦕 A dexterous deno executor
+
+- [bytecodealliance/wai-bindgen](https://github.com/bytecodealliance/wai-bindgen) - A language binding generator for WebAssembly interface types
+
+- [nonara/ts-patch](https://github.com/nonara/ts-patch) - Augment the TypeScript compiler to support extended functionality
+
+- [rylandg/shrun](https://github.com/rylandg/shrun) - Test CLI commands in isolated containers
+
 - [convco/convco](https://github.com/convco/convco) - Conventional commits, changelog, versioning, validation
-
-- [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
-
-- [ZupIT/ritchie-cli](https://github.com/ZupIT/ritchie-cli) - Ritchie CLI is an open-source tool that allows to create, store and share any kind of automation, executing them through command lines, to run operations or start workflows ⚙️ 🖥 💡
-
-- [rust-embedded/embedded-hal](https://github.com/rust-embedded/embedded-hal) - A Hardware Abstraction Layer (HAL) for embedded systems
-
-- [rp-rs/rp-hal](https://github.com/rp-rs/rp-hal) - A Rust Embedded-HAL for the rp series microcontrollers
