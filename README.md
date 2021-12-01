@@ -58,12 +58,12 @@
 
 
 
+- [evenorog/undo](https://github.com/evenorog/undo) - A undo-redo library.
+
+- [zesterer/chumsky](https://github.com/zesterer/chumsky) - A friendly parser combinator crate
+
+- [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics &amp; error reporting crate
+
 - [kawarimidoll/deno-dex](https://github.com/kawarimidoll/deno-dex) - 🦕 A dexterous deno executor
 
 - [bytecodealliance/wai-bindgen](https://github.com/bytecodealliance/wai-bindgen) - A language binding generator for WebAssembly interface types
-
-- [nonara/ts-patch](https://github.com/nonara/ts-patch) - Augment the TypeScript compiler to support extended functionality
-
-- [rylandg/shrun](https://github.com/rylandg/shrun) - Test CLI commands in isolated containers
-
-- [convco/convco](https://github.com/convco/convco) - Conventional commits, changelog, versioning, validation
