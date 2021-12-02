@@ -66,4 +66,4 @@
 
 - [kawarimidoll/deno-dex](https://github.com/kawarimidoll/deno-dex) - 🦕 A dexterous deno executor
 
-- [bytecodealliance/wai-bindgen](https://github.com/bytecodealliance/wai-bindgen) - A language binding generator for WebAssembly interface types
+- [bytecodealliance/wit-bindgen](https://github.com/bytecodealliance/wit-bindgen) - A language binding generator for WebAssembly interface types
