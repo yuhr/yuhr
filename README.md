@@ -58,6 +58,8 @@
 
 
 
+- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
+
 - [TomokiMiyauci/unitest](https://github.com/TomokiMiyauci/unitest) - 🦕 🌎 🃏 Deno-first universal unit testing framework
 
 - [Gadiguibou/rdapcheck](https://github.com/Gadiguibou/rdapcheck) - A simple RDAP library and command-line tool to check domain name availability in bulk. https://deno.land/x/rdapcheck
@@ -65,5 +67,3 @@
 - [evenorog/undo](https://github.com/evenorog/undo) - A undo-redo library.
 
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - A friendly parser combinator crate
-
-- [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics &amp; error reporting crate
