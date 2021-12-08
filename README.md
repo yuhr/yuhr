@@ -6,11 +6,11 @@
 
 - [pelotom/runtypes](https://github.com/pelotom/runtypes) - Runtime validation for static types
 
+- [yuhr/distree](https://github.com/yuhr/distree) - 
+
 - [yuhr/NIL](https://github.com/yuhr/NIL) - Native Information License
 
 - [yuhr/use-await-data](https://github.com/yuhr/use-await-data) - A React hook that executes an async task to populate the desired data.
-
-- [yuhr/callable-deferred-promise](https://github.com/yuhr/callable-deferred-promise) - A thin wrapper class to create a callable deferred `Promise`.
 
 ### 🔨 My recent Pull Requests
 
@@ -44,6 +44,8 @@
 
 
 
+- [yuhr/distree](https://github.com/yuhr/distree) - 
+
 - [yuhr/fncmd](https://github.com/yuhr/fncmd) - Command line interface as a function.
 
 - [yuhr/callable-deferred-promise](https://github.com/yuhr/callable-deferred-promise) - A thin wrapper class to create a callable deferred `Promise`.
@@ -51,8 +53,6 @@
 - [yuhr/use-await-data](https://github.com/yuhr/use-await-data) - A React hook that executes an async task to populate the desired data.
 
 - [yuhr/satysfi-fonts-charis-sil](https://github.com/yuhr/satysfi-fonts-charis-sil) - SATySFi Font Package for Charis SIL
-
-- [yuhr/kimetsu-to-oumu](https://github.com/yuhr/kimetsu-to-oumu) - オウム真理教を国教に。
 
 ### ⭐ Recent Stars
 
