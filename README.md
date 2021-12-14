@@ -58,12 +58,12 @@
 
 
 
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
+
+- [nmattia/niv](https://github.com/nmattia/niv) - Easy dependency management for Nix projects
+
+- [lilyball/nix-env.fish](https://github.com/lilyball/nix-env.fish) - Nix environment setup for the fish shell
+
 - [YfryTchsGD/Log4jAttackSurface](https://github.com/YfryTchsGD/Log4jAttackSurface) - 
 
 - [yuhr/distree](https://github.com/yuhr/distree) - Directory structure trees upon plain objects.
-
-- [rust-embedded/cortex-m](https://github.com/rust-embedded/cortex-m) - Low level access to Cortex-M processors
-
-- [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
-
-- [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more. 
