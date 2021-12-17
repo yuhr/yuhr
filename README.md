@@ -2,9 +2,9 @@
 
 
 
-- [evenorog/undo](https://github.com/evenorog/undo) - A undo-redo library.
-
 - [yuhr/fncmd](https://github.com/yuhr/fncmd) - Command line interface as a function.
+
+- [evenorog/undo](https://github.com/evenorog/undo) - A undo-redo library.
 
 - [pelotom/runtypes](https://github.com/pelotom/runtypes) - Runtime validation for static types
 
@@ -16,6 +16,8 @@
 
 
 
+- [fix: pin `clap` version to exact one](https://github.com/yuhr/fncmd/pull/10) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+
 - [feat: add blanket implementation of `Action` for `DerefMut`](https://github.com/evenorog/undo/pull/14) on [evenorog/undo](https://github.com/evenorog/undo)
 
 - [docs: add useful links to badges](https://github.com/yuhr/fncmd/pull/8) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
@@ -24,15 +26,13 @@
 
 - [Enable coverage report](https://github.com/pelotom/runtypes/pull/293) on [pelotom/runtypes](https://github.com/pelotom/runtypes)
 
-- [Test PR for CI](https://github.com/yuhr/runtypes/pull/1) on [yuhr/runtypes](https://github.com/yuhr/runtypes)
-
 ### 🔭 Latest releases I've contributed to
 
 
 
-- [yuhr/distree](https://github.com/yuhr/distree) [`v1.0.0`](https://github.com/yuhr/distree/releases/tag/v1.0.0) - Directory structure trees upon plain objects.
+- [yuhr/fncmd](https://github.com/yuhr/fncmd) [`v1.0.2`](https://github.com/yuhr/fncmd/releases/tag/v1.0.2) - Command line interface as a function.
 
-- [yuhr/fncmd](https://github.com/yuhr/fncmd) [`v1.0.1`](https://github.com/yuhr/fncmd/releases/tag/v1.0.1) - Command line interface as a function.
+- [yuhr/distree](https://github.com/yuhr/distree) [`v1.0.0`](https://github.com/yuhr/distree/releases/tag/v1.0.0) - Directory structure trees upon plain objects.
 
 - [keichi/binary-parser](https://github.com/keichi/binary-parser) [`v2.0.2`](https://github.com/keichi/binary-parser/releases/tag/v2.0.2) - A blazing-fast declarative parser builder for binary data
 
@@ -58,12 +58,12 @@
 
 
 
+- [yuhr/fncmd](https://github.com/yuhr/fncmd) - Command line interface as a function.
+
+- [spencertipping/jit-tutorial](https://github.com/spencertipping/jit-tutorial) - How to write a very simple JIT compiler
+
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 
 - [nmattia/niv](https://github.com/nmattia/niv) - Easy dependency management for Nix projects
 
 - [lilyball/nix-env.fish](https://github.com/lilyball/nix-env.fish) - Nix environment setup for the fish shell
-
-- [YfryTchsGD/Log4jAttackSurface](https://github.com/YfryTchsGD/Log4jAttackSurface) - 
-
-- [yuhr/distree](https://github.com/yuhr/distree) - Directory structure trees upon plain objects.
