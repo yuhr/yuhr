@@ -58,12 +58,12 @@
 
 
 
+- [hoprnet/hoprnet](https://github.com/hoprnet/hoprnet) - HOPR is an open incentivized mixnet which enables privacy-preserving point-to-point data exchange. HOPR is similar to Tor but actually private, decentralized and economically sustainable.
+
+- [DavidBuchanan314/ambiguous-png-packer](https://github.com/DavidBuchanan314/ambiguous-png-packer) - Craft PNG files that appear completely different in Apple software
+
+- [legalforce-research/daachorse](https://github.com/legalforce-research/daachorse) - 🐎 A fast implementation of the Aho-Corasick algorithm using the compact double-array data structure.
+
+- [addtobasic/addtobasic.github.io](https://github.com/addtobasic/addtobasic.github.io) - CUI Portfolio like ubuntu terminal.
+
 - [yuhr/fncmd](https://github.com/yuhr/fncmd) - Command line interface as a function.
-
-- [spencertipping/jit-tutorial](https://github.com/spencertipping/jit-tutorial) - How to write a very simple JIT compiler
-
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
-
-- [nmattia/niv](https://github.com/nmattia/niv) - Easy dependency management for Nix projects
-
-- [lilyball/nix-env.fish](https://github.com/lilyball/nix-env.fish) - Nix environment setup for the fish shell
