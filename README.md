@@ -58,12 +58,12 @@
 
 
 
-- [tokio-rs/console](https://github.com/tokio-rs/console) - a debugger for async rust!
+- [puripuri2100/SATySFi-ruby](https://github.com/puripuri2100/SATySFi-ruby) - Japanese-style ruby in SATySFi
 
-- [Tsuku43/zoomg](https://github.com/Tsuku43/zoomg) - Restoring room images from virtual background images
+- [davewasmer/devcert](https://github.com/davewasmer/devcert) - Local HTTPS development made easy
 
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
+- [jiftechnify/valq](https://github.com/jiftechnify/valq) - macros for querying and extracting value from structured data by JavaScript-like syntax
 
-- [Ralith/hecs](https://github.com/Ralith/hecs) - A handy ECS
+- [rtic-rs/cortex-m-rtic](https://github.com/rtic-rs/cortex-m-rtic) - Real-Time Interrupt-driven Concurrency (RTIC) framework for ARM Cortex-M microcontrollers
 
-- [hoprnet/hoprnet](https://github.com/hoprnet/hoprnet) - HOPR is an open incentivized mixnet which enables privacy-preserving point-to-point data exchange. HOPR is similar to Tor but actually private, decentralized and economically sustainable.
+- [probe-rs/cargo-flash](https://github.com/probe-rs/cargo-flash) - a cargo extension for programming microcontrollers
