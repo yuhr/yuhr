@@ -58,6 +58,8 @@
 
 
 
+- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
+
 - [puripuri2100/SATySFi-ruby](https://github.com/puripuri2100/SATySFi-ruby) - Japanese-style ruby in SATySFi
 
 - [davewasmer/devcert](https://github.com/davewasmer/devcert) - Local HTTPS development made easy
@@ -65,5 +67,3 @@
 - [jiftechnify/valq](https://github.com/jiftechnify/valq) - macros for querying and extracting value from structured data by JavaScript-like syntax
 
 - [rtic-rs/cortex-m-rtic](https://github.com/rtic-rs/cortex-m-rtic) - Real-Time Interrupt-driven Concurrency (RTIC) framework for ARM Cortex-M microcontrollers
-
-- [probe-rs/cargo-flash](https://github.com/probe-rs/cargo-flash) - a cargo extension for programming microcontrollers
