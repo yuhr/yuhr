@@ -58,12 +58,12 @@
 
 
 
+- [DoumanAsh/xxhash-rust](https://github.com/DoumanAsh/xxhash-rust) - Rust implementation of xxhash
+
+- [rust-crdt/rust-crdt](https://github.com/rust-crdt/rust-crdt) - a collection of well-tested, serializable CRDTs for Rust
+
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 
 - [puripuri2100/SATySFi-ruby](https://github.com/puripuri2100/SATySFi-ruby) - Japanese-style ruby in SATySFi
 
 - [davewasmer/devcert](https://github.com/davewasmer/devcert) - Local HTTPS development made easy
-
-- [jiftechnify/valq](https://github.com/jiftechnify/valq) - macros for querying and extracting value from structured data by JavaScript-like syntax
-
-- [rtic-rs/cortex-m-rtic](https://github.com/rtic-rs/cortex-m-rtic) - Real-Time Interrupt-driven Concurrency (RTIC) framework for ARM Cortex-M microcontrollers
