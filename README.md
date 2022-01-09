@@ -58,12 +58,12 @@
 
 
 
+- [dada-lang/dada](https://github.com/dada-lang/dada) - I speak only of myself since I do not wish to convince, I have no right to drag others into my river, I oblige no one to follow me and everybody practices his art in his own way.
+
+- [usagi/rust-memory-container-cs](https://github.com/usagi/rust-memory-container-cs) - Rust Memory Container Cheat-sheet
+
 - [DoumanAsh/xxhash-rust](https://github.com/DoumanAsh/xxhash-rust) - Rust implementation of xxhash
 
 - [rust-crdt/rust-crdt](https://github.com/rust-crdt/rust-crdt) - a collection of well-tested, serializable CRDTs for Rust
 
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
-
-- [puripuri2100/SATySFi-ruby](https://github.com/puripuri2100/SATySFi-ruby) - Japanese-style ruby in SATySFi
-
-- [davewasmer/devcert](https://github.com/davewasmer/devcert) - Local HTTPS development made easy
