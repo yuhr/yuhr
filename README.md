@@ -58,12 +58,12 @@
 
 
 
+- [tov/weak-table-rs](https://github.com/tov/weak-table-rs) - Weak hash tables for Rust
+
+- [withoutboats/pin-cell](https://github.com/withoutboats/pin-cell) - pin-safe interior mutability
+
 - [dada-lang/dada](https://github.com/dada-lang/dada) - I speak only of myself since I do not wish to convince, I have no right to drag others into my river, I oblige no one to follow me and everybody practices his art in his own way.
 
 - [usagi/rust-memory-container-cs](https://github.com/usagi/rust-memory-container-cs) - Rust Memory Container Cheat-sheet
 
 - [DoumanAsh/xxhash-rust](https://github.com/DoumanAsh/xxhash-rust) - Rust implementation of xxhash
-
-- [rust-crdt/rust-crdt](https://github.com/rust-crdt/rust-crdt) - a collection of well-tested, serializable CRDTs for Rust
-
-- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
