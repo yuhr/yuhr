@@ -58,6 +58,8 @@
 
 
 
+- [orlp/slotmap](https://github.com/orlp/slotmap) - Slotmap data structure for Rust
+
 - [satya164/react-native-tab-view](https://github.com/satya164/react-native-tab-view) - A cross-platform Tab View component for React Native
 
 - [tov/weak-table-rs](https://github.com/tov/weak-table-rs) - Weak hash tables for Rust
@@ -65,5 +67,3 @@
 - [withoutboats/pin-cell](https://github.com/withoutboats/pin-cell) - pin-safe interior mutability
 
 - [dada-lang/dada](https://github.com/dada-lang/dada) - I speak only of myself since I do not wish to convince, I have no right to drag others into my river, I oblige no one to follow me and everybody practices his art in his own way.
-
-- [usagi/rust-memory-container-cs](https://github.com/usagi/rust-memory-container-cs) - Rust Memory Container Cheat-sheet
