@@ -16,21 +16,21 @@
 
 
 
+- [build: exclude `justfile`](https://github.com/yuhr/fncmd/pull/17) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+
+- [fix: fix lack of doc comment when exotic attribute macro is used](https://github.com/yuhr/fncmd/pull/16) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+
 - [chore: update release replacement](https://github.com/yuhr/fncmd/pull/15) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
 - [fix: make subcommands optional](https://github.com/yuhr/fncmd/pull/14) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
 - [fix: pin `clap` version to exact one](https://github.com/yuhr/fncmd/pull/10) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
-- [feat: add blanket implementation of `Action` for `DerefMut`](https://github.com/evenorog/undo/pull/14) on [evenorog/undo](https://github.com/evenorog/undo)
-
-- [docs: add useful links to badges](https://github.com/yuhr/fncmd/pull/8) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
-
 ### 🔭 Latest releases I've contributed to
 
 
 
-- [yuhr/fncmd](https://github.com/yuhr/fncmd) [`v1.1.0`](https://github.com/yuhr/fncmd/releases/tag/v1.1.0) - Command line interface as a function.
+- [yuhr/fncmd](https://github.com/yuhr/fncmd) [`v1.1.1`](https://github.com/yuhr/fncmd/releases/tag/v1.1.1) - Command line interface as a function.
 
 - [yuhr/distree](https://github.com/yuhr/distree) [`v1.0.0`](https://github.com/yuhr/distree/releases/tag/v1.0.0) - Directory structure trees upon plain objects.
 
