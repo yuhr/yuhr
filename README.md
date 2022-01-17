@@ -58,12 +58,12 @@
 
 
 
-- [silvanshade/lspower](https://github.com/silvanshade/lspower) - Tower-based Rust crate for the Language Server Protocol
+- [plasma-umass/coz](https://github.com/plasma-umass/coz) - Coz: Causal Profiling
 
-- [orlp/slotmap](https://github.com/orlp/slotmap) - Slotmap data structure for Rust
+- [nnethercote/counts](https://github.com/nnethercote/counts) - A tool for ad hoc profiling
 
-- [satya164/react-native-tab-view](https://github.com/satya164/react-native-tab-view) - A cross-platform Tab View component for React Native
+- [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
 
-- [tov/weak-table-rs](https://github.com/tov/weak-table-rs) - Weak hash tables for Rust
+- [bitvecto-rs/bitvec](https://github.com/bitvecto-rs/bitvec) - A crate for managing memory bit by bit
 
-- [withoutboats/pin-cell](https://github.com/withoutboats/pin-cell) - pin-safe interior mutability
+- [MFEK/glif](https://github.com/MFEK/glif) - A stand-alone glyph viewer and editor (UFO .glif). (ꞵ quality)
