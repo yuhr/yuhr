@@ -30,7 +30,7 @@
 
 
 
-- [yuhr/fncmd](https://github.com/yuhr/fncmd) [`v1.1.1`](https://github.com/yuhr/fncmd/releases/tag/v1.1.1) - Command line interface as a function.
+- [yuhr/fncmd](https://github.com/yuhr/fncmd) [`v1.2.0`](https://github.com/yuhr/fncmd/releases/tag/v1.2.0) - Command line interface as a function.
 
 - [yuhr/distree](https://github.com/yuhr/distree) [`v1.0.0`](https://github.com/yuhr/distree/releases/tag/v1.0.0) - Directory structure trees upon plain objects.
 
@@ -58,6 +58,8 @@
 
 
 
+- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
+
 - [plasma-umass/coz](https://github.com/plasma-umass/coz) - Coz: Causal Profiling
 
 - [nnethercote/counts](https://github.com/nnethercote/counts) - A tool for ad hoc profiling
@@ -65,5 +67,3 @@
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
 
 - [bitvecto-rs/bitvec](https://github.com/bitvecto-rs/bitvec) - A crate for managing memory bit by bit
-
-- [MFEK/glif](https://github.com/MFEK/glif) - A stand-alone glyph viewer and editor (UFO .glif). (ꞵ quality)
