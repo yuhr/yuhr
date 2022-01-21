@@ -58,6 +58,8 @@
 
 
 
+- [rust-lang/chalk](https://github.com/rust-lang/chalk) - An implementation and definition of the Rust trait system using a PROLOG-like logic solver
+
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
@@ -65,5 +67,3 @@
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 
 - [plasma-umass/coz](https://github.com/plasma-umass/coz) - Coz: Causal Profiling
-
-- [nnethercote/counts](https://github.com/nnethercote/counts) - A tool for ad hoc profiling
