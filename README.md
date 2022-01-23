@@ -16,6 +16,8 @@
 
 
 
+- [fix: suppress unused attributes warning for subcommands](https://github.com/yuhr/fncmd/pull/19) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+
 - [build: exclude `justfile`](https://github.com/yuhr/fncmd/pull/17) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
 - [fix: fix lack of doc comment when exotic attribute macro is used](https://github.com/yuhr/fncmd/pull/16) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
@@ -23,8 +25,6 @@
 - [chore: update release replacement](https://github.com/yuhr/fncmd/pull/15) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
 - [fix: make subcommands optional](https://github.com/yuhr/fncmd/pull/14) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
-
-- [fix: pin `clap` version to exact one](https://github.com/yuhr/fncmd/pull/10) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
 ### 🔭 Latest releases I've contributed to
 
