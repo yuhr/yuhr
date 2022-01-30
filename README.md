@@ -58,12 +58,12 @@
 
 
 
+- [woodruffw/mollusc](https://github.com/woodruffw/mollusc) - Pure-Rust libraries for parsing, interpreting, and analyzing LLVM
+
+- [Brooooooklyn/swc-node](https://github.com/Brooooooklyn/swc-node) - Faster ts-node without typecheck
+
 - [charpeni/react-native-url-polyfill](https://github.com/charpeni/react-native-url-polyfill) - 🔗A lightweight and trustworthy URL polyfill for React Native.
 
 - [kathuriyarajat/react-native-cron-job](https://github.com/kathuriyarajat/react-native-cron-job) - 
 
 - [lynn/hello-wordl](https://github.com/lynn/hello-wordl) - Wordle clone you can play forever
-
-- [SnO2WMaN/bd_gfngfnify](https://github.com/SnO2WMaN/bd_gfngfnify) - https://shindanmaker.com/946798
-
-- [rust-lang/chalk](https://github.com/rust-lang/chalk) - An implementation and definition of the Rust trait system using a PROLOG-like logic solver
