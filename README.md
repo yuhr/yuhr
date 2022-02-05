@@ -58,6 +58,8 @@
 
 
 
+- [brendanzab/codespan](https://github.com/brendanzab/codespan) - Beautiful diagnostic reporting for text-based programming languages.
+
 - [Kindelia/Kindelia](https://github.com/Kindelia/Kindelia) - A minimal decentralized computer.
 
 - [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
@@ -65,5 +67,3 @@
 - [Foremark/Foremark](https://github.com/Foremark/Foremark) - Foremark is an easy way to write a sharable, stylized text document.
 
 - [woodruffw/mollusc](https://github.com/woodruffw/mollusc) - Pure-Rust libraries for parsing, interpreting, and analyzing LLVM
-
-- [Brooooooklyn/swc-node](https://github.com/Brooooooklyn/swc-node) - Faster ts-node without typecheck
