@@ -58,6 +58,8 @@
 
 
 
+- [dtolnay/case-studies](https://github.com/dtolnay/case-studies) - Analysis of various tricky Rust code
+
 - [brendanzab/codespan](https://github.com/brendanzab/codespan) - Beautiful diagnostic reporting for text-based programming languages.
 
 - [Kindelia/Kindelia](https://github.com/Kindelia/Kindelia) - A minimal decentralized computer.
@@ -65,5 +67,3 @@
 - [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
 
 - [Foremark/Foremark](https://github.com/Foremark/Foremark) - Foremark is an easy way to write a sharable, stylized text document.
-
-- [woodruffw/mollusc](https://github.com/woodruffw/mollusc) - Pure-Rust libraries for parsing, interpreting, and analyzing LLVM
