@@ -16,21 +16,21 @@
 
 
 
+- [fix: fix condition to collect subcommands with fully qualified macro path](https://github.com/yuhr/fncmd/pull/23) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+
+- [fix: use fully qualified macro path for recursive macroexpansion](https://github.com/yuhr/fncmd/pull/22) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+
+- [refactor: make code clean](https://github.com/yuhr/fncmd/pull/21) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+
+- [fix: make Rust keywords available as command names](https://github.com/yuhr/fncmd/pull/20) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+
 - [fix: suppress unused attributes warning for subcommands](https://github.com/yuhr/fncmd/pull/19) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
-
-- [build: exclude `justfile`](https://github.com/yuhr/fncmd/pull/17) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
-
-- [fix: fix lack of doc comment when exotic attribute macro is used](https://github.com/yuhr/fncmd/pull/16) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
-
-- [chore: update release replacement](https://github.com/yuhr/fncmd/pull/15) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
-
-- [fix: make subcommands optional](https://github.com/yuhr/fncmd/pull/14) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
 ### 🔭 Latest releases I've contributed to
 
 
 
-- [yuhr/fncmd](https://github.com/yuhr/fncmd) [`v1.2.0`](https://github.com/yuhr/fncmd/releases/tag/v1.2.0) - Command line interface as a function.
+- [yuhr/fncmd](https://github.com/yuhr/fncmd) [`v1.2.2`](https://github.com/yuhr/fncmd/releases/tag/v1.2.2) - Command line interface as a function.
 
 - [yuhr/distree](https://github.com/yuhr/distree) [`v1.0.0`](https://github.com/yuhr/distree/releases/tag/v1.0.0) - Directory structure trees upon plain objects.
 
@@ -58,6 +58,8 @@
 
 
 
+- [smol-rs/async-channel](https://github.com/smol-rs/async-channel) - Async multi-producer multi-consumer channel
+
 - [dtolnay/case-studies](https://github.com/dtolnay/case-studies) - Analysis of various tricky Rust code
 
 - [brendanzab/codespan](https://github.com/brendanzab/codespan) - Beautiful diagnostic reporting for text-based programming languages.
@@ -65,5 +67,3 @@
 - [Kindelia/Kindelia](https://github.com/Kindelia/Kindelia) - A minimal decentralized computer.
 
 - [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
-
-- [Foremark/Foremark](https://github.com/Foremark/Foremark) - Foremark is an easy way to write a sharable, stylized text document.
