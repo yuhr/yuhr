@@ -58,12 +58,12 @@
 
 
 
+- [ngneat/falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs 🙂
+
+- [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
+
 - [smol-rs/async-channel](https://github.com/smol-rs/async-channel) - Async multi-producer multi-consumer channel
 
 - [dtolnay/case-studies](https://github.com/dtolnay/case-studies) - Analysis of various tricky Rust code
 
 - [brendanzab/codespan](https://github.com/brendanzab/codespan) - Beautiful diagnostic reporting for text-based programming languages.
-
-- [kindelia-archive/Kindelia](https://github.com/kindelia-archive/Kindelia) - A minimal decentralized computer.
-
-- [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
