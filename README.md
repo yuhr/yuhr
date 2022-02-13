@@ -58,12 +58,12 @@
 
 
 
+- [ebkalderon/tower-lsp](https://github.com/ebkalderon/tower-lsp) - Language Server Protocol implementation written in Rust
+
+- [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client &amp; server implementation with async/await support.
+
+- [dtolnay/trybuild](https://github.com/dtolnay/trybuild) - Test harness for ui tests of compiler diagnostics
+
 - [ngneat/falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs 🙂
 
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
-
-- [smol-rs/async-channel](https://github.com/smol-rs/async-channel) - Async multi-producer multi-consumer channel
-
-- [dtolnay/case-studies](https://github.com/dtolnay/case-studies) - Analysis of various tricky Rust code
-
-- [brendanzab/codespan](https://github.com/brendanzab/codespan) - Beautiful diagnostic reporting for text-based programming languages.
