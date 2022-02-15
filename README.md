@@ -58,12 +58,12 @@
 
 
 
+- [jfroelich/eslint-plugin-comment-reflow](https://github.com/jfroelich/eslint-plugin-comment-reflow) - Automatically wrap comments that are too long
+
+- [swc-project/jest](https://github.com/swc-project/jest) - Super-fast alternative for babel-jest or ts-jest without type checking
+
 - [ebkalderon/tower-lsp](https://github.com/ebkalderon/tower-lsp) - Language Server Protocol implementation written in Rust
 
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client &amp; server implementation with async/await support.
 
 - [dtolnay/trybuild](https://github.com/dtolnay/trybuild) - Test harness for ui tests of compiler diagnostics
-
-- [ngneat/falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs 🙂
-
-- [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
