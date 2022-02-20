@@ -58,6 +58,8 @@
 
 
 
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
+
 - [lukaslueg/railroad](https://github.com/lukaslueg/railroad) - A library to produce syntax diagrams as Scalable Vector Graphics
 
 - [jakedeichert/mask](https://github.com/jakedeichert/mask) - 🎭 A CLI task runner defined by a simple markdown file
@@ -65,5 +67,3 @@
 - [tennashi/lsp_spec_ja](https://github.com/tennashi/lsp_spec_ja) - LSP 仕様の日本語訳
 
 - [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
-
-- [MaulingMonkey/cargo-local-install](https://github.com/MaulingMonkey/cargo-local-install) - Wraps `cargo install` for better local, non-conflicting installation
