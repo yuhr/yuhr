@@ -2,13 +2,13 @@
 
 
 
+- [pelotom/runtypes](https://github.com/pelotom/runtypes) - Runtime validation for static types
+
 - [yuhr/fncmd](https://github.com/yuhr/fncmd) - Command line interface as a function.
 
 - [yuhr/lthash](https://github.com/yuhr/lthash) - LtHash implementation in pure JavaScript.
 
 - [evenorog/undo](https://github.com/evenorog/undo) - A undo-redo library.
-
-- [pelotom/runtypes](https://github.com/pelotom/runtypes) - Runtime validation for static types
 
 - [yuhr/distree](https://github.com/yuhr/distree) - Directory structure trees upon plain objects.
 
@@ -30,6 +30,8 @@
 
 
 
+- [pelotom/runtypes](https://github.com/pelotom/runtypes) [`v6.5.1`](https://github.com/pelotom/runtypes/releases/tag/v6.5.1) - Runtime validation for static types
+
 - [yuhr/lthash](https://github.com/yuhr/lthash) [`v1.1.0`](https://github.com/yuhr/lthash/releases/tag/v1.1.0) - LtHash implementation in pure JavaScript.
 
 - [yuhr/fncmd](https://github.com/yuhr/fncmd) [`v1.2.4`](https://github.com/yuhr/fncmd/releases/tag/v1.2.4) - Command line interface as a function.
@@ -37,8 +39,6 @@
 - [yuhr/distree](https://github.com/yuhr/distree) [`v1.0.0`](https://github.com/yuhr/distree/releases/tag/v1.0.0) - Directory structure trees upon plain objects.
 
 - [keichi/binary-parser](https://github.com/keichi/binary-parser) [`v2.0.2`](https://github.com/keichi/binary-parser/releases/tag/v2.0.2) - A blazing-fast declarative parser builder for binary data
-
-- [pelotom/runtypes](https://github.com/pelotom/runtypes) [`v6.5.0`](https://github.com/pelotom/runtypes/releases/tag/v6.5.0) - Runtime validation for static types
 
 ### 🌱 My latest projects
 
@@ -58,12 +58,12 @@
 
 
 
+- [matthieu-m/ghost-cell](https://github.com/matthieu-m/ghost-cell) - An implementation of Joshua Yanovski&#39;s Ghost Cell paper.
+
+- [VOICEVOX/voicevox_engine](https://github.com/VOICEVOX/voicevox_engine) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXの音声合成エンジン
+
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 
 - [lukaslueg/railroad](https://github.com/lukaslueg/railroad) - A library to produce syntax diagrams as Scalable Vector Graphics
 
 - [jakedeichert/mask](https://github.com/jakedeichert/mask) - 🎭 A CLI task runner defined by a simple markdown file
-
-- [tennashi/lsp_spec_ja](https://github.com/tennashi/lsp_spec_ja) - LSP 仕様の日本語訳
-
-- [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
