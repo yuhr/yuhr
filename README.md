@@ -58,12 +58,12 @@
 
 
 
+- [fnando/vscode-linter](https://github.com/fnando/vscode-linter) - Extension for code linting, all in one package. New linters can be easily added through an extension framework.
+
+- [aelsabbahy/goss](https://github.com/aelsabbahy/goss) - Quick and Easy server testing/validation
+
+- [nvzqz/static-assertions-rs](https://github.com/nvzqz/static-assertions-rs) - Ensure correct assumptions about constants, types, and more in Rust
+
 - [matthieu-m/ghost-cell](https://github.com/matthieu-m/ghost-cell) - An implementation of Joshua Yanovski&#39;s Ghost Cell paper.
 
 - [VOICEVOX/voicevox_engine](https://github.com/VOICEVOX/voicevox_engine) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXの音声合成エンジン
-
-- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
-
-- [lukaslueg/railroad](https://github.com/lukaslueg/railroad) - A library to produce syntax diagrams as Scalable Vector Graphics
-
-- [jakedeichert/mask](https://github.com/jakedeichert/mask) - 🎭 A CLI task runner defined by a simple markdown file
