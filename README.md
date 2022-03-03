@@ -58,12 +58,12 @@
 
 
 
+- [arijit79/minus](https://github.com/arijit79/minus) - A small, asynchronous paging library for Rust
+
+- [Xudong-Huang/may](https://github.com/Xudong-Huang/may) - rust stackful coroutine library
+
+- [webonnx/wonnx](https://github.com/webonnx/wonnx) - A GPU-accelerated ONNX inference run-time written 100% in Rust, ready for the web
+
+- [VOICEVOX/voicevox_core](https://github.com/VOICEVOX/voicevox_core) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのコア
+
 - [github/stack-graphs](https://github.com/github/stack-graphs) - Rust implementation of stack graphs
-
-- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
-
-- [mitsuhiko/similar](https://github.com/mitsuhiko/similar) - A high level diffing library for rust based on diffs
-
-- [johannhof/difference.rs](https://github.com/johannhof/difference.rs) - Rust text diffing and assertion library
-
-- [fnando/vscode-linter](https://github.com/fnando/vscode-linter) - Extension for code linting, all in one package. New linters can be easily added through an extension framework.
