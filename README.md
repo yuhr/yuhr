@@ -58,6 +58,8 @@
 
 
 
+- [matthieu-m/static-rc](https://github.com/matthieu-m/static-rc) - Compile-time reference counting
+
 - [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust
 
 - [mattn/awesome-twitter-communities](https://github.com/mattn/awesome-twitter-communities) - Awesome Twitter Communities for Engineers
@@ -65,5 +67,3 @@
 - [arijit79/minus](https://github.com/arijit79/minus) - A small, asynchronous paging library for Rust
 
 - [Xudong-Huang/may](https://github.com/Xudong-Huang/may) - rust stackful coroutine library
-
-- [webonnx/wonnx](https://github.com/webonnx/wonnx) - A GPU-accelerated ONNX inference run-time written 100% in Rust, ready for the web
