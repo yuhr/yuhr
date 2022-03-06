@@ -58,12 +58,12 @@
 
 
 
-- [matthieu-m/static-rc](https://github.com/matthieu-m/static-rc) - Compile-time reference counting
+- [projectfluent/fluent-rs](https://github.com/projectfluent/fluent-rs) - Rust implementation of Project Fluent
 
-- [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust
+- [timothee-haudebourg/iref](https://github.com/timothee-haudebourg/iref) - Rust implementation of Internationalized Resource Identifiers (IRIs) and References, borrowed and owned.
 
-- [mattn/awesome-twitter-communities](https://github.com/mattn/awesome-twitter-communities) - Awesome Twitter Communities for Engineers
+- [PLSysSec/haybale](https://github.com/PLSysSec/haybale) - Symbolic execution of LLVM IR with an engine written in Rust
 
-- [arijit79/minus](https://github.com/arijit79/minus) - A small, asynchronous paging library for Rust
+- [kornelski/rust-rgb](https://github.com/kornelski/rust-rgb) - struct RGB for sharing pixels between crates
 
-- [Xudong-Huang/may](https://github.com/Xudong-Huang/may) - rust stackful coroutine library
+- [blackle/blamscamp](https://github.com/blackle/blamscamp) - create a bandcamp-style audio player for selling albums on itch.io
