@@ -58,6 +58,8 @@
 
 
 
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
+
 - [arash16/bisetmap](https://github.com/arash16/bisetmap) - BisetMap is a fast and thread-safe two-way hash map of sets for Rust.
 
 - [uhyo/eslint-plugin-var-length](https://github.com/uhyo/eslint-plugin-var-length) - 
@@ -65,5 +67,3 @@
 - [yoanlcq/vek](https://github.com/yoanlcq/vek) - Generic 2D-3D math swiss army knife for game engines, with SIMD support and focus on convenience.
 
 - [projectfluent/fluent-rs](https://github.com/projectfluent/fluent-rs) - Rust implementation of Project Fluent
-
-- [timothee-haudebourg/iref](https://github.com/timothee-haudebourg/iref) - Rust implementation of Internationalized Resource Identifiers (IRIs) and References, borrowed and owned.
