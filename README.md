@@ -58,12 +58,12 @@
 
 
 
+- [lakwet/voracious_sort](https://github.com/lakwet/voracious_sort) - Voracious radix sort
+
+- [mohrezaei/thincollections](https://github.com/mohrezaei/thincollections) - Alternate implementations of vector/map/set for Rust
+
 - [dcchut/async-recursion](https://github.com/dcchut/async-recursion) - Procedural macro for recursive async functions
 
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 
 - [arash16/bisetmap](https://github.com/arash16/bisetmap) - BisetMap is a fast and thread-safe two-way hash map of sets for Rust.
-
-- [uhyo/eslint-plugin-var-length](https://github.com/uhyo/eslint-plugin-var-length) - 
-
-- [yoanlcq/vek](https://github.com/yoanlcq/vek) - Generic 2D-3D math swiss army knife for game engines, with SIMD support and focus on convenience.
