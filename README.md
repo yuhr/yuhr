@@ -58,12 +58,12 @@
 
 
 
-- [jonhoo/griddle](https://github.com/jonhoo/griddle) - A HashMap variant that spreads resize load across inserts
+- [mccolljr/segvec](https://github.com/mccolljr/segvec) - SegVec data structure for rust. Similar to Vec, but allocates memory in chunks of increasing size.
 
-- [lakwet/voracious_sort](https://github.com/lakwet/voracious_sort) - Voracious radix sort
+- [jonhoo/atone](https://github.com/jonhoo/atone) - A `VecDeque` (and `Vec`) variant that spreads resize load across pushes.
 
-- [mohrezaei/thincollections](https://github.com/mohrezaei/thincollections) - Alternate implementations of vector/map/set for Rust
+- [EmbarkStudios/texture-synthesis](https://github.com/EmbarkStudios/texture-synthesis) - 🎨 Example-based texture synthesis written in Rust 🦀
 
-- [dcchut/async-recursion](https://github.com/dcchut/async-recursion) - Procedural macro for recursive async functions
+- [amethyst/bracket-lib](https://github.com/amethyst/bracket-lib) - The Roguelike Toolkit (RLTK), implemented for Rust.
 
-- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
+- [rklaehn/vec-collections](https://github.com/rklaehn/vec-collections) - A set of collection data types for rust that are simple wrappers around vectors
