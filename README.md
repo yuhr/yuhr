@@ -58,12 +58,12 @@
 
 
 
+- [becheran/grid](https://github.com/becheran/grid) - Two dimensional grid data structure
+
+- [gunvirranu/block-grid](https://github.com/gunvirranu/block-grid) - 🏁 A quick, cache-conscious, blocked 2D array for Rust
+
+- [p-avital/vec-map-rs](https://github.com/p-avital/vec-map-rs) - VecMap&lt;K, V&gt;: The Map API for Vec&lt;(K, V)&gt; (Rust)
+
+- [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo) - A fast bump allocation arena for Rust
+
 - [mccolljr/segvec](https://github.com/mccolljr/segvec) - SegVec data structure for rust. Similar to Vec, but allocates memory in chunks of increasing size.
-
-- [jonhoo/atone](https://github.com/jonhoo/atone) - A `VecDeque` (and `Vec`) variant that spreads resize load across pushes.
-
-- [EmbarkStudios/texture-synthesis](https://github.com/EmbarkStudios/texture-synthesis) - 🎨 Example-based texture synthesis written in Rust 🦀
-
-- [amethyst/bracket-lib](https://github.com/amethyst/bracket-lib) - The Roguelike Toolkit (RLTK), implemented for Rust.
-
-- [rklaehn/vec-collections](https://github.com/rklaehn/vec-collections) - A set of collection data types for rust that are simple wrappers around vectors
