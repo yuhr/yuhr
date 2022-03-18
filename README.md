@@ -58,6 +58,8 @@
 
 
 
+- [toaq/zugai](https://github.com/toaq/zugai) - A Prolog library/program for parsing and interpreting Toaq
+
 - [becheran/grid](https://github.com/becheran/grid) - Two dimensional grid data structure
 
 - [gunvirranu/block-grid](https://github.com/gunvirranu/block-grid) - 🏁 A quick, cache-conscious, blocked 2D array for Rust
@@ -65,5 +67,3 @@
 - [p-avital/vec-map-rs](https://github.com/p-avital/vec-map-rs) - VecMap&lt;K, V&gt;: The Map API for Vec&lt;(K, V)&gt; (Rust)
 
 - [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo) - A fast bump allocation arena for Rust
-
-- [mccolljr/segvec](https://github.com/mccolljr/segvec) - SegVec data structure for rust. Similar to Vec, but allocates memory in chunks of increasing size.
