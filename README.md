@@ -38,7 +38,7 @@
 
 - [yuhr/distree](https://github.com/yuhr/distree) [`v1.0.0`](https://github.com/yuhr/distree/releases/tag/v1.0.0) - Directory structure trees upon plain objects.
 
-- [keichi/binary-parser](https://github.com/keichi/binary-parser) [`v2.0.2`](https://github.com/keichi/binary-parser/releases/tag/v2.0.2) - A blazing-fast declarative parser builder for binary data
+- [sindresorhus/pupa](https://github.com/sindresorhus/pupa) [`v3.1.0`](https://github.com/sindresorhus/pupa/releases/tag/v3.1.0) - Simple micro templating
 
 ### 🌱 My latest projects
 
@@ -58,6 +58,8 @@
 
 
 
+- [twitterdev/twitter-api-typescript-sdk](https://github.com/twitterdev/twitter-api-typescript-sdk) - A TypeScript SDK for the Twitter API
+
 - [toaq/zugai](https://github.com/toaq/zugai) - A Prolog library/program for parsing and interpreting Toaq
 
 - [becheran/grid](https://github.com/becheran/grid) - Two dimensional grid data structure
@@ -65,5 +67,3 @@
 - [gunvirranu/block-grid](https://github.com/gunvirranu/block-grid) - 🏁 A quick, cache-conscious, blocked 2D array for Rust
 
 - [p-avital/vec-map-rs](https://github.com/p-avital/vec-map-rs) - VecMap&lt;K, V&gt;: The Map API for Vec&lt;(K, V)&gt; (Rust)
-
-- [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo) - A fast bump allocation arena for Rust
