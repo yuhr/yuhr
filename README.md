@@ -58,6 +58,8 @@
 
 
 
+- [secretlint/secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent committing credential.
+
 - [CTCaer/hekate](https://github.com/CTCaer/hekate) - hekate - A GUI based Nintendo Switch Bootloader
 
 - [yt8492/SeihekiAnalyzer](https://github.com/yt8492/SeihekiAnalyzer) - DLsiteの購入履歴からあなたの性癖暴きます
@@ -65,5 +67,3 @@
 - [twitterdev/twitter-api-typescript-sdk](https://github.com/twitterdev/twitter-api-typescript-sdk) - A TypeScript SDK for the Twitter API
 
 - [toaq/zugai](https://github.com/toaq/zugai) - A Prolog library/program for parsing and interpreting Toaq
-
-- [becheran/grid](https://github.com/becheran/grid) - Two dimensional grid data structure
