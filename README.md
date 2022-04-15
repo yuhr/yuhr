@@ -2,9 +2,9 @@
 
 
 
-- [pelotom/runtypes](https://github.com/pelotom/runtypes) - Runtime validation for static types
-
 - [yuhr/fncmd](https://github.com/yuhr/fncmd) - Command line interface as a function.
+
+- [pelotom/runtypes](https://github.com/pelotom/runtypes) - Runtime validation for static types
 
 - [yuhr/lthash](https://github.com/yuhr/lthash) - LtHash implementation in pure JavaScript.
 
@@ -30,11 +30,11 @@
 
 
 
+- [yuhr/fncmd](https://github.com/yuhr/fncmd) [`v1.2.5`](https://github.com/yuhr/fncmd/releases/tag/v1.2.5) - Command line interface as a function.
+
 - [pelotom/runtypes](https://github.com/pelotom/runtypes) [`v6.5.1`](https://github.com/pelotom/runtypes/releases/tag/v6.5.1) - Runtime validation for static types
 
 - [yuhr/lthash](https://github.com/yuhr/lthash) [`v1.1.0`](https://github.com/yuhr/lthash/releases/tag/v1.1.0) - LtHash implementation in pure JavaScript.
-
-- [yuhr/fncmd](https://github.com/yuhr/fncmd) [`v1.2.4`](https://github.com/yuhr/fncmd/releases/tag/v1.2.4) - Command line interface as a function.
 
 - [yuhr/distree](https://github.com/yuhr/distree) [`v1.0.0`](https://github.com/yuhr/distree/releases/tag/v1.0.0) - Directory structure trees upon plain objects.
 
