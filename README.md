@@ -2,9 +2,9 @@
 
 
 
-- [yuhr/fncmd](https://github.com/yuhr/fncmd) - Command line interface as a function.
-
 - [pelotom/runtypes](https://github.com/pelotom/runtypes) - Runtime validation for static types
+
+- [yuhr/fncmd](https://github.com/yuhr/fncmd) - Command line interface as a function.
 
 - [yuhr/lthash](https://github.com/yuhr/lthash) - LtHash implementation in pure JavaScript.
 
@@ -16,6 +16,8 @@
 
 
 
+- [chore: configure Corepack](https://github.com/pelotom/runtypes/pull/304) on [pelotom/runtypes](https://github.com/pelotom/runtypes)
+
 - [feat: support add and remove of another instance](https://github.com/yuhr/lthash/pull/1) on [yuhr/lthash](https://github.com/yuhr/lthash)
 
 - [fix: follow upstream change of `std::process::Termination`](https://github.com/yuhr/fncmd/pull/26) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
@@ -23,8 +25,6 @@
 - [fix: fully qualify hidden traits](https://github.com/yuhr/fncmd/pull/25) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
 - [fix: handle exotic main macros correctly](https://github.com/yuhr/fncmd/pull/24) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
-
-- [fix: fix condition to collect subcommands with fully qualified macro path](https://github.com/yuhr/fncmd/pull/23) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
 ### 🔭 Latest releases I've contributed to
 
