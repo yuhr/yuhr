@@ -2,6 +2,8 @@
 
 
 
+- [yuhr/uriware](https://github.com/yuhr/uriware) - Yet another RFC3986-aware URI utilities.
+
 - [yuhr/fncmd](https://github.com/yuhr/fncmd) - Command line interface as a function.
 
 - [pelotom/runtypes](https://github.com/pelotom/runtypes) - Runtime validation for static types
@@ -9,8 +11,6 @@
 - [yuhr/lthash](https://github.com/yuhr/lthash) - LtHash implementation in pure JavaScript.
 
 - [evenorog/undo](https://github.com/evenorog/undo) - A undo-redo library.
-
-- [yuhr/distree](https://github.com/yuhr/distree) - Directory structure trees upon plain objects.
 
 ### 🔨 My recent Pull Requests
 
@@ -30,6 +30,8 @@
 
 
 
+- [yuhr/uriware](https://github.com/yuhr/uriware) [`v0.0.0`](https://github.com/yuhr/uriware/releases/tag/v0.0.0) - Yet another RFC3986-aware URI utilities.
+
 - [yuhr/fncmd](https://github.com/yuhr/fncmd) [`v1.2.5`](https://github.com/yuhr/fncmd/releases/tag/v1.2.5) - Command line interface as a function.
 
 - [pelotom/runtypes](https://github.com/pelotom/runtypes) [`v6.5.1`](https://github.com/pelotom/runtypes/releases/tag/v6.5.1) - Runtime validation for static types
@@ -38,11 +40,11 @@
 
 - [yuhr/distree](https://github.com/yuhr/distree) [`v1.0.0`](https://github.com/yuhr/distree/releases/tag/v1.0.0) - Directory structure trees upon plain objects.
 
-- [sindresorhus/pupa](https://github.com/sindresorhus/pupa) [`v3.1.0`](https://github.com/sindresorhus/pupa/releases/tag/v3.1.0) - Simple micro templating
-
 ### 🌱 My latest projects
 
 
+
+- [yuhr/uriware](https://github.com/yuhr/uriware) - Yet another RFC3986-aware URI utilities.
 
 - [yuhr/lthash](https://github.com/yuhr/lthash) - LtHash implementation in pure JavaScript.
 
@@ -51,8 +53,6 @@
 - [yuhr/fncmd](https://github.com/yuhr/fncmd) - Command line interface as a function.
 
 - [yuhr/callable-deferred-promise](https://github.com/yuhr/callable-deferred-promise) - A thin wrapper class to create a callable deferred `Promise`.
-
-- [yuhr/use-await-data](https://github.com/yuhr/use-await-data) - A React hook that executes an async task to populate the desired data.
 
 ### ⭐ Recent Stars
 
