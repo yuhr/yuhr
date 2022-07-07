@@ -30,7 +30,7 @@
 
 
 
-- [yuhr/uriware](https://github.com/yuhr/uriware) [`v0.0.0`](https://github.com/yuhr/uriware/releases/tag/v0.0.0) - Yet another RFC3986-aware URI utilities.
+- [yuhr/uriware](https://github.com/yuhr/uriware) [`v0.0.2`](https://github.com/yuhr/uriware/releases/tag/v0.0.2) - Yet another RFC3986-aware URI utilities.
 
 - [yuhr/fncmd](https://github.com/yuhr/fncmd) [`v1.2.5`](https://github.com/yuhr/fncmd/releases/tag/v1.2.5) - Command line interface as a function.
 
