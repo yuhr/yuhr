@@ -58,12 +58,12 @@
 
 
 
+- [martypapa/debug-tree](https://github.com/martypapa/debug-tree) - Visualise recursive functions and tree structures.
+
+- [zhiburt/tabled](https://github.com/zhiburt/tabled) - An easy to use library for pretty print tables of Rust structs and enums.
+
 - [twitter/TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) - A standalone, flexible API that provides a full-featured rich text editor for iOS applications.
 
 - [denoland/dnt](https://github.com/denoland/dnt) - Deno to npm package build tool.
 
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
-
-- [jiro4989/ojosama](https://github.com/jiro4989/ojosama) - テキストを壱百満天原サロメお嬢様風の口調に変換します
-
-- [egison/egison](https://github.com/egison/egison) - The Egison Programming Language
