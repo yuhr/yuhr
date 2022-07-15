@@ -58,6 +58,8 @@
 
 
 
+- [panva/oauth4webapi](https://github.com/panva/oauth4webapi) - OAuth 2 / OpenID Connect for Web Platform API JavaScript runtimes
+
 - [software-mansion/react-freeze](https://github.com/software-mansion/react-freeze) - 
 
 - [jamiebuilds/unstated-next](https://github.com/jamiebuilds/unstated-next) - 200 bytes to never think about React state management libraries ever again
@@ -65,5 +67,3 @@
 - [knurling-rs/probe-run](https://github.com/knurling-rs/probe-run) - Run embedded programs just like native ones
 
 - [dwango/nicolive-kubernetes-migration-handbook-2022](https://github.com/dwango/nicolive-kubernetes-migration-handbook-2022) - ニコニコ生放送をDocker SwarmからKubernetesへ移行した内容をハンドブックとして公開中。
-
-- [martypapa/debug-tree](https://github.com/martypapa/debug-tree) - Visualise recursive functions and tree structures.
