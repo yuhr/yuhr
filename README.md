@@ -2,13 +2,13 @@
 
 
 
+- [yuhr/lthash](https://github.com/yuhr/lthash) - LtHash implementation in pure JavaScript.
+
 - [yuhr/uriware](https://github.com/yuhr/uriware) - Yet another RFC3986-aware URI utilities.
 
 - [yuhr/fncmd](https://github.com/yuhr/fncmd) - Command line interface as a function.
 
 - [pelotom/runtypes](https://github.com/pelotom/runtypes) - Runtime validation for static types
-
-- [yuhr/lthash](https://github.com/yuhr/lthash) - LtHash implementation in pure JavaScript.
 
 - [evenorog/undo](https://github.com/evenorog/undo) - A undo-redo library.
 
@@ -16,27 +16,27 @@
 
 
 
-- [docs: remove stale information about nightly usage](https://github.com/yuhr/fncmd/pull/29) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+- [style: swap assertion targets in tests and examples](https://github.com/yuhr/lthash/pull/8) on [yuhr/lthash](https://github.com/yuhr/lthash)
 
-- [chore: configure Corepack](https://github.com/pelotom/runtypes/pull/304) on [pelotom/runtypes](https://github.com/pelotom/runtypes)
+- [docs: update usage to use fully qualified import specifiers](https://github.com/yuhr/lthash/pull/7) on [yuhr/lthash](https://github.com/yuhr/lthash)
 
-- [feat: support add and remove of another instance](https://github.com/yuhr/lthash/pull/1) on [yuhr/lthash](https://github.com/yuhr/lthash)
+- [style: rename module to match its content](https://github.com/yuhr/lthash/pull/6) on [yuhr/lthash](https://github.com/yuhr/lthash)
 
-- [fix: follow upstream change of `std::process::Termination`](https://github.com/yuhr/fncmd/pull/26) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+- [build: upgrade dependencies](https://github.com/yuhr/lthash/pull/5) on [yuhr/lthash](https://github.com/yuhr/lthash)
 
-- [fix: fully qualify hidden traits](https://github.com/yuhr/fncmd/pull/25) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+- [chore: update formatting configurations](https://github.com/yuhr/lthash/pull/4) on [yuhr/lthash](https://github.com/yuhr/lthash)
 
 ### 🔭 Latest releases I've contributed to
 
 
+
+- [yuhr/lthash](https://github.com/yuhr/lthash) [`v2.0.0`](https://github.com/yuhr/lthash/releases/tag/v2.0.0) - LtHash implementation in pure JavaScript.
 
 - [yuhr/uriware](https://github.com/yuhr/uriware) [`v0.0.2`](https://github.com/yuhr/uriware/releases/tag/v0.0.2) - Yet another RFC3986-aware URI utilities.
 
 - [yuhr/fncmd](https://github.com/yuhr/fncmd) [`v1.2.5`](https://github.com/yuhr/fncmd/releases/tag/v1.2.5) - Command line interface as a function.
 
 - [pelotom/runtypes](https://github.com/pelotom/runtypes) [`v6.5.1`](https://github.com/pelotom/runtypes/releases/tag/v6.5.1) - Runtime validation for static types
-
-- [yuhr/lthash](https://github.com/yuhr/lthash) [`v1.1.0`](https://github.com/yuhr/lthash/releases/tag/v1.1.0) - LtHash implementation in pure JavaScript.
 
 - [yuhr/distree](https://github.com/yuhr/distree) [`v1.0.0`](https://github.com/yuhr/distree/releases/tag/v1.0.0) - Directory structure trees upon plain objects.
 
