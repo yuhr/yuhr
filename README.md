@@ -58,6 +58,8 @@
 
 
 
+- [wantedly/hi18n](https://github.com/wantedly/hi18n) - message internationalization meets immutability and type-safety
+
 - [markhildreth/test-context](https://github.com/markhildreth/test-context) - A Rust library to allow for easy setup/teardown implementations for tests
 
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
@@ -65,5 +67,3 @@
 - [joshua-maros/ouroboros](https://github.com/joshua-maros/ouroboros) - Easy self-referential struct generation for Rust.
 
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
-
-- [Jxck/structured-field-values](https://github.com/Jxck/structured-field-values) - This is a implementation of a RFC 8941: Structured Field Values for HTTP in JavaScript.
