@@ -58,6 +58,8 @@
 
 
 
+- [rustonaut/vec1](https://github.com/rustonaut/vec1) - Rust `Vec&lt;T&gt;` wrapper that gurantees to contain at least 1 element
+
 - [sunfishcode/wasm-reference-manual](https://github.com/sunfishcode/wasm-reference-manual) - WebAssembly Reference Manual
 
 - [wantedly/hi18n](https://github.com/wantedly/hi18n) - message internationalization meets immutability and type-safety
@@ -65,5 +67,3 @@
 - [markhildreth/test-context](https://github.com/markhildreth/test-context) - A Rust library to allow for easy setup/teardown implementations for tests
 
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
-
-- [joshua-maros/ouroboros](https://github.com/joshua-maros/ouroboros) - Easy self-referential struct generation for Rust.
