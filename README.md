@@ -58,12 +58,12 @@
 
 
 
+- [erg-lang/erg](https://github.com/erg-lang/erg) - A Python-compatible statically typed language
+
+- [ndd7xv/heh](https://github.com/ndd7xv/heh) - A terminal UI to edit bytes by the nibble.
+
 - [Manishearth/elsa](https://github.com/Manishearth/elsa) - Append-only collections for Rust where borrows to entries can outlive insertions
 
 - [ipfs-cluster/ipfs-cluster](https://github.com/ipfs-cluster/ipfs-cluster) - Pinset orchestration for IPFS
 
 - [rustonaut/vec1](https://github.com/rustonaut/vec1) - Rust `Vec&lt;T&gt;` wrapper that gurantees to contain at least 1 element
-
-- [sunfishcode/wasm-reference-manual](https://github.com/sunfishcode/wasm-reference-manual) - WebAssembly Reference Manual
-
-- [wantedly/hi18n](https://github.com/wantedly/hi18n) - message internationalization meets immutability and type-safety
