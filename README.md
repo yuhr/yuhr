@@ -58,6 +58,8 @@
 
 
 
+- [droundy/append-only-vec](https://github.com/droundy/append-only-vec) - 
+
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A Python-compatible statically typed language
 
 - [ndd7xv/heh](https://github.com/ndd7xv/heh) - A terminal UI to edit bytes by the nibble.
@@ -65,5 +67,3 @@
 - [Manishearth/elsa](https://github.com/Manishearth/elsa) - Append-only collections for Rust where borrows to entries can outlive insertions
 
 - [ipfs-cluster/ipfs-cluster](https://github.com/ipfs-cluster/ipfs-cluster) - Pinset orchestration for IPFS
-
-- [rustonaut/vec1](https://github.com/rustonaut/vec1) - Rust `Vec&lt;T&gt;` wrapper that gurantees to contain at least 1 element
