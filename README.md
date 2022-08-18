@@ -58,12 +58,12 @@
 
 
 
+- [alexcrichton/tar-rs](https://github.com/alexcrichton/tar-rs) - Tar file reading/writing for Rust
+
+- [BenHall-7/diff-struct](https://github.com/BenHall-7/diff-struct) - Rust trait for diffing and applying diffs between data structures
+
 - [rustwasm/walrus](https://github.com/rustwasm/walrus) - Walrus is a WebAssembly transformation library 🌊🐘
 
 - [fpgaminer/rust-lzma](https://github.com/fpgaminer/rust-lzma) - A Rust crate that provides a simple interface for LZMA compression and decompression.
 
 - [droundy/append-only-vec](https://github.com/droundy/append-only-vec) - 
-
-- [erg-lang/erg](https://github.com/erg-lang/erg) - A Python-compatible statically typed language
-
-- [ndd7xv/heh](https://github.com/ndd7xv/heh) - A terminal UI to edit bytes by the nibble.
