@@ -2,6 +2,8 @@
 
 
 
+- [softprops/treeline](https://github.com/softprops/treeline) - rust in trees
+
 - [pelotom/runtypes](https://github.com/pelotom/runtypes) - Runtime validation for static types
 
 - [yuhr/lthash](https://github.com/yuhr/lthash) - LtHash implementation in pure JavaScript.
@@ -10,11 +12,11 @@
 
 - [yuhr/fncmd](https://github.com/yuhr/fncmd) - Command line interface as a function.
 
-- [evenorog/undo](https://github.com/evenorog/undo) - A undo-redo library.
-
 ### 🔨 My recent Pull Requests
 
 
+
+- [fix: use correct character for vertical line](https://github.com/softprops/treeline/pull/8) on [softprops/treeline](https://github.com/softprops/treeline)
 
 - [docs: add section about error information](https://github.com/pelotom/runtypes/pull/309) on [pelotom/runtypes](https://github.com/pelotom/runtypes)
 
@@ -23,8 +25,6 @@
 - [docs: update usage to use fully qualified import specifiers](https://github.com/yuhr/lthash/pull/7) on [yuhr/lthash](https://github.com/yuhr/lthash)
 
 - [style: rename module to match its content](https://github.com/yuhr/lthash/pull/6) on [yuhr/lthash](https://github.com/yuhr/lthash)
-
-- [build: upgrade dependencies](https://github.com/yuhr/lthash/pull/5) on [yuhr/lthash](https://github.com/yuhr/lthash)
 
 ### 🔭 Latest releases I've contributed to
 
