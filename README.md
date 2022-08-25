@@ -58,12 +58,12 @@
 
 
 
+- [jaemk/cached](https://github.com/jaemk/cached) - Rust cache structures and easy function memoization
+
+- [dermesser/memoize](https://github.com/dermesser/memoize) - Macro for auto-memoizing Rust functions.
+
 - [audunhalland/entrait](https://github.com/audunhalland/entrait) - Loosely coupled Rust application design made easy
 
 - [alexcrichton/tar-rs](https://github.com/alexcrichton/tar-rs) - Tar file reading/writing for Rust
 
 - [BenHall-7/diff-struct](https://github.com/BenHall-7/diff-struct) - Rust trait for diffing and applying diffs between data structures
-
-- [rustwasm/walrus](https://github.com/rustwasm/walrus) - Walrus is a WebAssembly transformation library 🌊🐘
-
-- [fpgaminer/rust-lzma](https://github.com/fpgaminer/rust-lzma) - A Rust crate that provides a simple interface for LZMA compression and decompression.
