@@ -58,12 +58,12 @@
 
 
 
+- [jam1garner/owo-colors](https://github.com/jam1garner/owo-colors) - A zero-allocation no_std-compatible zero-cost way to add color to your Rust terminal
+
+- [nicholas-miklaucic/scarlet](https://github.com/nicholas-miklaucic/scarlet) - Colors and color spaces made simple, for Rustaceans.
+
+- [dtolnay/colorous](https://github.com/dtolnay/colorous) - Color schemes for charts and maps
+
+- [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram 
+
 - [jaemk/cached](https://github.com/jaemk/cached) - Rust cache structures and easy function memoization
-
-- [dermesser/memoize](https://github.com/dermesser/memoize) - Macro for auto-memoizing Rust functions.
-
-- [audunhalland/entrait](https://github.com/audunhalland/entrait) - Loosely coupled Rust application design made easy
-
-- [alexcrichton/tar-rs](https://github.com/alexcrichton/tar-rs) - Tar file reading/writing for Rust
-
-- [BenHall-7/diff-struct](https://github.com/BenHall-7/diff-struct) - Rust trait for diffing and applying diffs between data structures
