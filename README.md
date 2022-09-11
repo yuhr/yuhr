@@ -58,6 +58,8 @@
 
 
 
+- [denzp/rustc-llvm-proxy](https://github.com/denzp/rustc-llvm-proxy) - Proxy LLVM calls into Rust own shared library in runtime
+
 - [bluss/scopeguard](https://github.com/bluss/scopeguard) - Rust crate for a convenient RAII scope guard.
 
 - [ritelabs/failpoints](https://github.com/ritelabs/failpoints) - Failpoints for rust derived from tikv/fail-rs.
@@ -65,5 +67,3 @@
 - [innative-sdk/innative](https://github.com/innative-sdk/innative) - A native non-web embedding of WebAssembly for Windows/Linux
 
 - [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
-
-- [jam1garner/owo-colors](https://github.com/jam1garner/owo-colors) - A zero-allocation no_std-compatible zero-cost way to add color to your Rust terminal
