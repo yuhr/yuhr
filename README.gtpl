@@ -14,22 +14,6 @@
 
 {{- end }}
 
-### 🔭 Latest releases I've contributed to
-
-{{ range recentReleases 5 }}
-
-- [{{ .Name }}]({{ .URL }}) [`{{ .LastRelease.TagName }}`]({{ .LastRelease.URL }}) - {{.Description}}
-
-{{- end }}
-
-### 🌱 My latest projects
-
-{{ range recentRepos 5 }}
-
-- [{{ .Name }}]({{ .URL }}) - {{ .Description }}
-
-{{- end }}
-
 ### ⭐ Recent Stars
 
 {{ range recentStars 5 }}
