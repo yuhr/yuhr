@@ -30,6 +30,8 @@
 
 
 
+- [scala-native/scala-native](https://github.com/scala-native/scala-native) - Your favorite language gets closer to bare metal.
+
 - [mattconte/tlsf](https://github.com/mattconte/tlsf) - Two-Level Segregated Fit memory allocator implementation.
 
 - [eclipsesource/jsonforms](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
@@ -37,5 +39,3 @@
 - [denzp/rustc-llvm-proxy](https://github.com/denzp/rustc-llvm-proxy) - Proxy LLVM calls into Rust own shared library in runtime
 
 - [bluss/scopeguard](https://github.com/bluss/scopeguard) - Rust crate for a convenient RAII scope guard.
-
-- [ritelabs/failpoints](https://github.com/ritelabs/failpoints) - Failpoints for rust derived from tikv/fail-rs.
