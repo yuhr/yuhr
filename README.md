@@ -30,6 +30,8 @@
 
 
 
+- [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Holistic visual testing for your Frontend 🖼 First class integration with Storybook, Ladle &amp; other frontend libraries.
+
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more.
 
 - [raviqqe/melior](https://github.com/raviqqe/melior) - The rustic MLIR bindings in Rust
@@ -37,5 +39,3 @@
 - [scala-native/scala-native](https://github.com/scala-native/scala-native) - Your favorite language gets closer to bare metal.
 
 - [mattconte/tlsf](https://github.com/mattconte/tlsf) - Two-Level Segregated Fit memory allocator implementation.
-
-- [eclipsesource/jsonforms](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
