@@ -2,13 +2,13 @@
 
 
 
+- [yuhr/uriware](https://github.com/yuhr/uriware) - Yet another RFC3986-aware URI utilities.
+
 - [softprops/treeline](https://github.com/softprops/treeline) - rust in trees
 
 - [pelotom/runtypes](https://github.com/pelotom/runtypes) - Runtime validation for static types
 
 - [yuhr/lthash](https://github.com/yuhr/lthash) - LtHash implementation in pure JavaScript.
-
-- [yuhr/uriware](https://github.com/yuhr/uriware) - Yet another RFC3986-aware URI utilities.
 
 - [yuhr/fncmd](https://github.com/yuhr/fncmd) - Command line interface as a function.
 
