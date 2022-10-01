@@ -30,6 +30,8 @@
 
 
 
+- [buttplugio/buttplug](https://github.com/buttplugio/buttplug) - Rust Implementation of the Buttplug Sex Toy Control Protocol
+
 - [sile/pixcil](https://github.com/sile/pixcil) - Pixel art editor
 
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -37,5 +39,3 @@
 - [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Holistic visual testing for your Frontend 🖼 First class integration with Storybook, Ladle &amp; other frontend libraries.
 
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more.
-
-- [raviqqe/melior](https://github.com/raviqqe/melior) - The rustic MLIR bindings in Rust
