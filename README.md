@@ -30,6 +30,8 @@
 
 
 
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
+
 - [danbooru/danbooru](https://github.com/danbooru/danbooru) - A taggable image board written in Rails.
 
 - [CompVis/latent-diffusion](https://github.com/CompVis/latent-diffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
@@ -37,5 +39,3 @@
 - [buttplugio/buttplug](https://github.com/buttplugio/buttplug) - Rust Implementation of the Buttplug Sex Toy Control Protocol
 
 - [sile/pixcil](https://github.com/sile/pixcil) - Pixel art editor
-
-- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
