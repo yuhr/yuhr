@@ -30,6 +30,8 @@
 
 
 
+- [verse-lang/verse](https://github.com/verse-lang/verse) - The Verse Programming Language
+
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 
 - [UpsettingBoy/gpgpu-rs](https://github.com/UpsettingBoy/gpgpu-rs) - Simple experimental async GPGPU framework for Rust
@@ -37,5 +39,3 @@
 - [iomentum/cargo-breaking](https://github.com/iomentum/cargo-breaking) - 
 
 - [alecdotninja/tailcall](https://github.com/alecdotninja/tailcall) - Safe, zero-cost tail recursion for stable Rust
-
-- [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
