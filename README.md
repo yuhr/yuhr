@@ -30,12 +30,12 @@
 
 
 
+- [WebAssembly/wasi-libc](https://github.com/WebAssembly/wasi-libc) - WASI libc implementation for WebAssembly
+
+- [WebAssembly/wasi-sdk](https://github.com/WebAssembly/wasi-sdk) - WASI-enabled WebAssembly C/C&#43;&#43; toolchain
+
 - [verse-lang/verse](https://github.com/verse-lang/verse) - The Verse Programming Language
 
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 
 - [UpsettingBoy/gpgpu-rs](https://github.com/UpsettingBoy/gpgpu-rs) - Simple experimental async GPGPU framework for Rust
-
-- [iomentum/cargo-breaking](https://github.com/iomentum/cargo-breaking) - 
-
-- [alecdotninja/tailcall](https://github.com/alecdotninja/tailcall) - Safe, zero-cost tail recursion for stable Rust
