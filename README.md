@@ -30,6 +30,8 @@
 
 
 
+- [advancedresearch/path_semantics](https://github.com/advancedresearch/path_semantics) - A research project in path semantics, a re-interpretation of functions for expressing mathematics
+
 - [stkb/Rewrap](https://github.com/stkb/Rewrap) - Rewrap extension for VSCode and Visual Studio
 
 - [evalf/close](https://github.com/evalf/close) - Rust trait &#43; smart pointer for manual object destruction
@@ -37,5 +39,3 @@
 - [bluss/indexing](https://github.com/bluss/indexing) - Sound unchecked indexing using “generativity”; a type system approach to indices, pointers and ranges that are trusted to be in bounds.
 
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
-
-- [WebAssembly/wasi-libc](https://github.com/WebAssembly/wasi-libc) - WASI libc implementation for WebAssembly
