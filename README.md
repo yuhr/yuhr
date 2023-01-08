@@ -16,6 +16,8 @@
 
 
 
+- [feat: add `trim_final_newlines` option](https://github.com/rust-lang/rustfmt/pull/5653) on [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt)
+
 - [docs: add description about `InstanceOf` runtype](https://github.com/pelotom/runtypes/pull/313) on [pelotom/runtypes](https://github.com/pelotom/runtypes)
 
 - [fix: use correct character for vertical line](https://github.com/softprops/treeline/pull/8) on [softprops/treeline](https://github.com/softprops/treeline)
@@ -24,18 +26,16 @@
 
 - [style: swap assertion targets in tests and examples](https://github.com/yuhr/lthash/pull/8) on [yuhr/lthash](https://github.com/yuhr/lthash)
 
-- [docs: update usage to use fully qualified import specifiers](https://github.com/yuhr/lthash/pull/7) on [yuhr/lthash](https://github.com/yuhr/lthash)
-
 ### ⭐ Recent Stars
 
 
+
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
+
+- [jedisct1/rust-sthash](https://github.com/jedisct1/rust-sthash) - Very fast cryptographic hashing for large messages.
 
 - [timothee-haudebourg/source-span](https://github.com/timothee-haudebourg/source-span) - Source file fragment location and display utilities for Rust.
 
 - [advancedresearch/path_semantics](https://github.com/advancedresearch/path_semantics) - A research project in path semantics, a re-interpretation of functions for expressing mathematics
 
 - [stkb/Rewrap](https://github.com/stkb/Rewrap) - Rewrap extension for VSCode and Visual Studio
-
-- [evalf/close](https://github.com/evalf/close) - Rust trait &#43; smart pointer for manual object destruction
-
-- [bluss/indexing](https://github.com/bluss/indexing) - Sound unchecked indexing using “generativity”; a type system approach to indices, pointers and ranges that are trusted to be in bounds.
