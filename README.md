@@ -30,12 +30,12 @@
 
 
 
+- [fiberplane/fp-bindgen](https://github.com/fiberplane/fp-bindgen) - Bindings generator for full-stack WASM plugins
+
+- [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
+
 - [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 
 - [jedisct1/rust-sthash](https://github.com/jedisct1/rust-sthash) - Very fast cryptographic hashing for large messages.
-
-- [timothee-haudebourg/source-span](https://github.com/timothee-haudebourg/source-span) - Source file fragment location and display utilities for Rust.
-
-- [advancedresearch/path_semantics](https://github.com/advancedresearch/path_semantics) - A research project in path semantics, a re-interpretation of functions for expressing mathematics
