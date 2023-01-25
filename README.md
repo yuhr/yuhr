@@ -30,6 +30,8 @@
 
 
 
+- [rlidwka/markdown-it.rs](https://github.com/rlidwka/markdown-it.rs) - markdown-it js library rewritten in rust
+
 - [tolziplohu/wasm-vk](https://github.com/tolziplohu/wasm-vk) - Run WebAssembly code on the GPU with Vulkan!
 
 - [lac-dcc/wyvern](https://github.com/lac-dcc/wyvern) - Automatic conversion of call by value into call by need in the LLVM IR.
@@ -37,5 +39,3 @@
 - [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks) - Scan your Rust crate for semver violations.
 
 - [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
-
-- [tfpk/mdbook-keeper](https://github.com/tfpk/mdbook-keeper) - 
