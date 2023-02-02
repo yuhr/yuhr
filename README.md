@@ -30,12 +30,12 @@
 
 
 
+- [rhysd/diff-enum](https://github.com/rhysd/diff-enum) - Attribute macro to define enum by differences of variants with useful accessors
+
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
+
 - [Traverse-Research/gpu-allocator](https://github.com/Traverse-Research/gpu-allocator) - 🦀 Memory allocator written in pure Rust for GPU memory in Vulkan and DirectX 12
 
 - [WebAssembly/tool-conventions](https://github.com/WebAssembly/tool-conventions) - Conventions supporting interoperatibility between tools working with WebAssembly.
 
 - [microsoft/mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
-
-- [WebAssembly/gc](https://github.com/WebAssembly/gc) - Branch of the spec repo scoped to discussion of GC integration in WebAssembly
-
-- [wingo/wasm-jit](https://github.com/wingo/wasm-jit) - Test materials for getting JIT support for wizer
