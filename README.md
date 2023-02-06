@@ -2,6 +2,8 @@
 
 
 
+- [yuhr/yuhr.org](https://github.com/yuhr/yuhr.org) - My personal website
+
 - [yuhr/unsafe-coerce](https://github.com/yuhr/unsafe-coerce) - 
 
 - [pelotom/runtypes](https://github.com/pelotom/runtypes) - Runtime validation for static types
@@ -9,8 +11,6 @@
 - [yuhr/uriware](https://github.com/yuhr/uriware) - Yet another RFC3986-aware URI utilities.
 
 - [softprops/treeline](https://github.com/softprops/treeline) - rust in trees
-
-- [yuhr/lthash](https://github.com/yuhr/lthash) - LtHash implementation in pure JavaScript.
 
 ### 🔨 My recent Pull Requests
 
@@ -30,6 +30,8 @@
 
 
 
+- [jdxcode/rtx](https://github.com/jdxcode/rtx) - Runtime Executor (asdf rust clone)
+
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. 
 
 - [rhysd/diff-enum](https://github.com/rhysd/diff-enum) - Attribute macro to define enum by differences of variants with useful accessors
@@ -37,5 +39,3 @@
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 
 - [Traverse-Research/gpu-allocator](https://github.com/Traverse-Research/gpu-allocator) - 🦀 Memory allocator written in pure Rust for GPU memory in Vulkan and DirectX 12
-
-- [WebAssembly/tool-conventions](https://github.com/WebAssembly/tool-conventions) - Conventions supporting interoperatibility between tools working with WebAssembly.
