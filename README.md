@@ -30,6 +30,8 @@
 
 
 
+- [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
+
 - [jdxcode/rtx](https://github.com/jdxcode/rtx) - Runtime Executor (asdf rust clone)
 
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. 
@@ -37,5 +39,3 @@
 - [rhysd/diff-enum](https://github.com/rhysd/diff-enum) - Attribute macro to define enum by differences of variants with useful accessors
 
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
-
-- [Traverse-Research/gpu-allocator](https://github.com/Traverse-Research/gpu-allocator) - 🦀 Memory allocator written in pure Rust for GPU memory in Vulkan and DirectX 12
