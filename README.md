@@ -30,12 +30,12 @@
 
 
 
+- [Mikanixonable/IgyouMincho](https://github.com/Mikanixonable/IgyouMincho) - AI生成したフリー日本語フォント
+
+- [linebender/xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework
+
+- [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
+
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
 
 - [jdxcode/rtx](https://github.com/jdxcode/rtx) - Runtime Executor (asdf rust clone)
-
-- [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. 
-
-- [rhysd/diff-enum](https://github.com/rhysd/diff-enum) - Attribute macro to define enum by differences of variants with useful accessors
-
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
