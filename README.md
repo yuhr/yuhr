@@ -30,6 +30,8 @@
 
 
 
+- [mthom/scryer-prolog](https://github.com/mthom/scryer-prolog) - A modern Prolog implementation written mostly in Rust.
+
 - [ajsmth/pager-rn](https://github.com/ajsmth/pager-rn) - Controllable pager component for React Native
 
 - [Stebalien/tempfile](https://github.com/Stebalien/tempfile) - Temporary file library for rust
@@ -37,5 +39,3 @@
 - [Mikanixonable/IgyouMincho](https://github.com/Mikanixonable/IgyouMincho) - AI生成したフリー日本語フォント
 
 - [linebender/xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework
-
-- [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
