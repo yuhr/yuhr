@@ -30,6 +30,8 @@
 
 
 
+- [xqq/ReitoreSenpai](https://github.com/xqq/ReitoreSenpai) - レイトレ先輩
+
 - [dtolnay/no-panic](https://github.com/dtolnay/no-panic) - Attribute macro to require that the compiler prove a function can&#39;t ever panic
 
 - [yue4u/zf](https://github.com/yue4u/zf) - 
@@ -37,5 +39,3 @@
 - [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
 
 - [mthom/scryer-prolog](https://github.com/mthom/scryer-prolog) - A modern Prolog implementation written mostly in Rust.
-
-- [ajsmth/pager-rn](https://github.com/ajsmth/pager-rn) - Controllable pager component for React Native
