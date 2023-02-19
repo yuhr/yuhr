@@ -30,12 +30,12 @@
 
 
 
+- [AmberThrall/utf-railroad](https://github.com/AmberThrall/utf-railroad) - Generate text railroad diagrams in rust
+
+- [avangogo/canonical-form](https://github.com/avangogo/canonical-form) - A Rust crate to reduce graphs and other structures modulo isomorphism.
+
+- [calebh/dihash](https://github.com/calebh/dihash) - Python implementation of directed graph hashing, from the paper &#34;Directed Graph Hashing&#34;
+
 - [xqq/ReitoreSenpai](https://github.com/xqq/ReitoreSenpai) - レイトレ先輩
 
 - [dtolnay/no-panic](https://github.com/dtolnay/no-panic) - Attribute macro to require that the compiler prove a function can&#39;t ever panic
-
-- [yue4u/zf](https://github.com/yue4u/zf) - 
-
-- [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
-
-- [mthom/scryer-prolog](https://github.com/mthom/scryer-prolog) - A modern Prolog implementation written mostly in Rust.
