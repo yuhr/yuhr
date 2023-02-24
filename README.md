@@ -30,6 +30,8 @@
 
 
 
+- [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models
+
 - [nanikamado/cotton](https://github.com/nanikamado/cotton) - A programming language
 
 - [uemurax/hott-ja](https://github.com/uemurax/hott-ja) - HoTT in Japanese
@@ -37,5 +39,3 @@
 - [AmberThrall/utf-railroad](https://github.com/AmberThrall/utf-railroad) - Generate text railroad diagrams in rust
 
 - [avangogo/canonical-form](https://github.com/avangogo/canonical-form) - A Rust crate to reduce graphs and other structures modulo isomorphism.
-
-- [calebh/dihash](https://github.com/calebh/dihash) - Python implementation of directed graph hashing, from the paper &#34;Directed Graph Hashing&#34;
