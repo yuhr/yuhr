@@ -30,12 +30,12 @@
 
 
 
+- [burn-rs/burn](https://github.com/burn-rs/burn) - BURN: Burn Unstoppable Rusty Neurons
+
+- [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
+
+- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
+
 - [lord/anchors](https://github.com/lord/anchors) - self adjusting computations in rust
 
 - [traPtitech/traQ](https://github.com/traPtitech/traQ) - traQ - traP Internal Messenger Application Backend
-
-- [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models
-
-- [nanikamado/cotton](https://github.com/nanikamado/cotton) - A programming language
-
-- [uemurax/hott-ja](https://github.com/uemurax/hott-ja) - HoTT in Japanese
