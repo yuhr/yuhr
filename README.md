@@ -30,12 +30,12 @@
 
 
 
+- [skymethod/denoflare](https://github.com/skymethod/denoflare) - Develop, test, and deploy Cloudflare Workers with Deno.
+
+- [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
+
 - [burn-rs/burn](https://github.com/burn-rs/burn) - BURN: Burn Unstoppable Rusty Neurons
 
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
-
-- [lord/anchors](https://github.com/lord/anchors) - self adjusting computations in rust
-
-- [traPtitech/traQ](https://github.com/traPtitech/traQ) - traQ - traP Internal Messenger Application Backend
