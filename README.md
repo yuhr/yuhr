@@ -30,12 +30,12 @@
 
 
 
+- [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
+
+- [rancher/elemental](https://github.com/rancher/elemental) - Elemental is an immutable Linux distribution built to run Rancher and its corresponding Kubernetes distributions RKE2 and k3s. It is built using the Elemental-toolkit
+
 - [github-drama/github-drama](https://github.com/github-drama/github-drama) - github-drama (community fork) Important:  To edit, open a pull request. We will merge it as soon as we see the notification.  To edit a large amount of content, open an issue saying so. We will grant you write access.  To receive notifications about the latest drama, subscribe to the Community-Driven Happenings Feed.
 
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 
 - [nnethercote/dhat-rs](https://github.com/nnethercote/dhat-rs) - Heap profiling and ad hoc profiling for Rust programs.
-
-- [skymethod/denoflare](https://github.com/skymethod/denoflare) - Develop, test, and deploy Cloudflare Workers with Deno.
-
-- [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
