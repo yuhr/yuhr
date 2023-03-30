@@ -30,6 +30,8 @@
 
 
 
+- [qnighy/umo](https://github.com/qnighy/umo) - A programming language (WIP)
+
 - [fumieval/winery](https://github.com/fumieval/winery) - Preservative serialisation format
 
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it&#39;s combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, &#34;infinite&#34; ctx_len, and free sentence embedding.
@@ -37,5 +39,3 @@
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - Zero-Legacy Deno/React Suspense SSR Framework
 
 - [typst/comemo](https://github.com/typst/comemo) - Incremental computation through constrained memoization.
-
-- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
