@@ -30,6 +30,8 @@
 
 
 
+- [pedronauck/spacefold](https://github.com/pedronauck/spacefold) - Use Pub/Sub pattern inside your React applications easily
+
 - [sdhash/sdhash](https://github.com/sdhash/sdhash) - similarity digest hashing tool
 
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
@@ -37,5 +39,3 @@
 - [qnighy/umo](https://github.com/qnighy/umo) - A programming language (WIP)
 
 - [fumieval/winery](https://github.com/fumieval/winery) - Preservative serialisation format
-
-- [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it&#39;s combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, &#34;infinite&#34; ctx_len, and free sentence embedding.
