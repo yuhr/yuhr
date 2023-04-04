@@ -30,6 +30,8 @@
 
 
 
+- [isletennos/MMVC_Trainer](https://github.com/isletennos/MMVC_Trainer) - AIを使ったリアルタイムボイスチェンジャー(Trainer)
+
 - [pedronauck/spacefold](https://github.com/pedronauck/spacefold) - Use Pub/Sub pattern inside your React applications easily
 
 - [sdhash/sdhash](https://github.com/sdhash/sdhash) - similarity digest hashing tool
@@ -37,5 +39,3 @@
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 
 - [qnighy/umo](https://github.com/qnighy/umo) - A programming language (WIP)
-
-- [fumieval/winery](https://github.com/fumieval/winery) - Preservative serialisation format
