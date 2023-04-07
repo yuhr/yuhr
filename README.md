@@ -30,6 +30,8 @@
 
 
 
+- [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
+
 - [cmdruid/nostr-terminal](https://github.com/cmdruid/nostr-terminal) - Connect to your computer terminal remotely from the browser. Powered by Nostr.
 
 - [Cameri/nostream](https://github.com/Cameri/nostream) - A Nostr Relay written in TypeScript
@@ -37,5 +39,3 @@
 - [isletennos/MMVC_Trainer](https://github.com/isletennos/MMVC_Trainer) - AIを使ったリアルタイムボイスチェンジャー(Trainer)
 
 - [pedronauck/spacefold](https://github.com/pedronauck/spacefold) - Use Pub/Sub pattern inside your React applications easily
-
-- [sdhash/sdhash](https://github.com/sdhash/sdhash) - similarity digest hashing tool
