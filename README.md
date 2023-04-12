@@ -2,6 +2,8 @@
 
 
 
+- [mattn/algia](https://github.com/mattn/algia) - A cli application for nostr
+
 - [yuhr/yuhr.org](https://github.com/yuhr/yuhr.org) - My personal website
 
 - [yuhr/unsafe-coerce](https://github.com/yuhr/unsafe-coerce) - 
@@ -10,11 +12,11 @@
 
 - [yuhr/uriware](https://github.com/yuhr/uriware) - Yet another RFC3986-aware URI utilities.
 
-- [softprops/treeline](https://github.com/softprops/treeline) - rust in trees
-
 ### 🔨 My recent Pull Requests
 
 
+
+- [fix: use `configDir` for `save`](https://github.com/mattn/algia/pull/6) on [mattn/algia](https://github.com/mattn/algia)
 
 - [refactor!: remove `HashedGeneric::new` in favor of `From&lt;&amp;T&gt;`](https://github.com/milkey-mouse/hashed/pull/5) on [milkey-mouse/hashed](https://github.com/milkey-mouse/hashed)
 
@@ -24,11 +26,11 @@
 
 - [feat: add `trim_final_newlines` option](https://github.com/rust-lang/rustfmt/pull/5653) on [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt)
 
-- [docs: add description about `InstanceOf` runtype](https://github.com/pelotom/runtypes/pull/313) on [pelotom/runtypes](https://github.com/pelotom/runtypes)
-
 ### ⭐ Recent Stars
 
 
+
+- [qdwang/w3s-rs](https://github.com/qdwang/w3s-rs) - A Rust crate to the Web3.Storage API with auto compression and encryption.
 
 - [susumuota/nostr-keyx](https://github.com/susumuota/nostr-keyx) - A NIP-07 browser extension that uses the OS&#39;s keychain or YubiKey to protect your private keys.
 
@@ -37,5 +39,3 @@
 - [ipfs/helia](https://github.com/ipfs/helia) - An implementation of IPFS in JavaScript
 
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
-
-- [cmdruid/nostr-terminal](https://github.com/cmdruid/nostr-terminal) - Connect to your computer terminal remotely from the browser. Powered by Nostr.
