@@ -30,12 +30,12 @@
 
 
 
+- [fiatjaf/noscl](https://github.com/fiatjaf/noscl) - Command line client for Nostr.
+
+- [mattn/algia](https://github.com/mattn/algia) - A cli application for nostr
+
 - [qdwang/w3s-rs](https://github.com/qdwang/w3s-rs) - A Rust crate to the Web3.Storage API with auto compression and encryption.
 
 - [susumuota/nostr-keyx](https://github.com/susumuota/nostr-keyx) - A NIP-07 browser extension that uses the OS&#39;s keychain or YubiKey to protect your private keys.
 
 - [siketyan/ghr](https://github.com/siketyan/ghr) - 🚀 Yet another repository management with auto-attaching profiles.
-
-- [ipfs/helia](https://github.com/ipfs/helia) - An implementation of IPFS in JavaScript
-
-- [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
