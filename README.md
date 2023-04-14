@@ -30,12 +30,12 @@
 
 
 
-- [fiatjaf/noscl](https://github.com/fiatjaf/noscl) - Command line client for Nostr.
+- [danielway/git-cc](https://github.com/danielway/git-cc) - A simple interface for authoring Git commit messages according to the Conventional Commits specification.
 
-- [mattn/algia](https://github.com/mattn/algia) - A cli application for nostr
+- [SKalt/git-cc](https://github.com/SKalt/git-cc) - a git extension to help write conventional commits
 
-- [qdwang/w3s-rs](https://github.com/qdwang/w3s-rs) - A Rust crate to the Web3.Storage API with auto compression and encryption.
+- [liujing04/Retrieval-based-Voice-Conversion-WebUI](https://github.com/liujing04/Retrieval-based-Voice-Conversion-WebUI) - 
 
-- [susumuota/nostr-keyx](https://github.com/susumuota/nostr-keyx) - A NIP-07 browser extension that uses the OS&#39;s keychain or YubiKey to protect your private keys.
+- [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - 
 
-- [siketyan/ghr](https://github.com/siketyan/ghr) - 🚀 Yet another repository management with auto-attaching profiles.
+- [rust-nostr/nostr](https://github.com/rust-nostr/nostr) - Nostr protocol implementation, SDK and FFI
