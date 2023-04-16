@@ -30,12 +30,12 @@
 
 
 
-- [alacritty/alacritty-theme](https://github.com/alacritty/alacritty-theme) - Collection of Alacritty color schemes
+- [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
 
-- [danielway/git-cc](https://github.com/danielway/git-cc) - A simple interface for authoring Git commit messages according to the Conventional Commits specification.
+- [tauri-apps/tauri-mobile](https://github.com/tauri-apps/tauri-mobile) - Rust on mobile made easy!
 
-- [SKalt/git-cc](https://github.com/SKalt/git-cc) - a git extension to help write conventional commits
+- [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) - 🦀 How to minimize Rust binary size 📦
 
-- [liujing04/Retrieval-based-Voice-Conversion-WebUI](https://github.com/liujing04/Retrieval-based-Voice-Conversion-WebUI) - Use less than 10 minutes vocal to fast train a voice conversion model!
+- [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edges
 
-- [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - 
+- [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
