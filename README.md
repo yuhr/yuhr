@@ -2,6 +2,8 @@
 
 
 
+- [yuhr/fncmd](https://github.com/yuhr/fncmd) - Command line interface as a function.
+
 - [mattn/algia](https://github.com/mattn/algia) - A cli application for nostr
 
 - [yuhr/yuhr.org](https://github.com/yuhr/yuhr.org) - My personal website
@@ -10,11 +12,11 @@
 
 - [pelotom/runtypes](https://github.com/pelotom/runtypes) - Runtime validation for static types
 
-- [yuhr/uriware](https://github.com/yuhr/uriware) - Yet another RFC3986-aware URI utilities.
-
 ### 🔨 My recent Pull Requests
 
 
+
+- [chore: reconfigure project](https://github.com/yuhr/fncmd/pull/31) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
 - [fix: use `configDir` for `save`](https://github.com/mattn/algia/pull/6) on [mattn/algia](https://github.com/mattn/algia)
 
@@ -23,8 +25,6 @@
 - [refactor: remove unnecessary trait bounds](https://github.com/milkey-mouse/hashed/pull/4) on [milkey-mouse/hashed](https://github.com/milkey-mouse/hashed)
 
 - [feat!: enable `Debug::fmt` to show the type name even in stable](https://github.com/milkey-mouse/hashed/pull/3) on [milkey-mouse/hashed](https://github.com/milkey-mouse/hashed)
-
-- [feat: add `trim_final_newlines` option](https://github.com/rust-lang/rustfmt/pull/5653) on [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt)
 
 ### ⭐ Recent Stars
 
