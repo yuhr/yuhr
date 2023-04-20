@@ -16,26 +16,26 @@
 
 
 
-- [chore: reconfigure project](https://github.com/yuhr/fncmd/pull/31) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+- [test: add integration tests](https://github.com/yuhr/fncmd/pull/37) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
-- [fix: use `configDir` for `save`](https://github.com/mattn/algia/pull/6) on [mattn/algia](https://github.com/mattn/algia)
+- [chore: bump version to 1.3.0](https://github.com/yuhr/fncmd/pull/36) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
-- [refactor!: remove `HashedGeneric::new` in favor of `From&lt;&amp;T&gt;`](https://github.com/milkey-mouse/hashed/pull/5) on [milkey-mouse/hashed](https://github.com/milkey-mouse/hashed)
+- [build: update release workflow](https://github.com/yuhr/fncmd/pull/35) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
-- [refactor: remove unnecessary trait bounds](https://github.com/milkey-mouse/hashed/pull/4) on [milkey-mouse/hashed](https://github.com/milkey-mouse/hashed)
+- [docs: update `README.md`](https://github.com/yuhr/fncmd/pull/34) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
-- [feat!: enable `Debug::fmt` to show the type name even in stable](https://github.com/milkey-mouse/hashed/pull/3) on [milkey-mouse/hashed](https://github.com/milkey-mouse/hashed)
+- [feat: support workspaces](https://github.com/yuhr/fncmd/pull/33) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
 ### ⭐ Recent Stars
 
 
+
+- [assert-rs/trycmd](https://github.com/assert-rs/trycmd) - Snapshot testing for a herd of CLI tests
+
+- [snowflakelinux/snow](https://github.com/snowflakelinux/snow) - A commandline wrapper for the Nix package manager
 
 - [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
 
 - [tauri-apps/tauri-mobile](https://github.com/tauri-apps/tauri-mobile) - Rust on mobile made easy!
 
 - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) - 🦀 How to minimize Rust binary size 📦
-
-- [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edges
-
-- [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
