@@ -16,15 +16,15 @@
 
 
 
-- [test: add integration tests](https://github.com/yuhr/fncmd/pull/37) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+- [test: populate `rust-analyzer.linkedProjects`](https://github.com/yuhr/fncmd/pull/38) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+
+- [test: add integration tests as example projects](https://github.com/yuhr/fncmd/pull/37) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
 - [chore: bump version to 1.3.0](https://github.com/yuhr/fncmd/pull/36) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
 - [build: update release workflow](https://github.com/yuhr/fncmd/pull/35) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
 - [docs: update `README.md`](https://github.com/yuhr/fncmd/pull/34) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
-
-- [feat: support workspaces](https://github.com/yuhr/fncmd/pull/33) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
 ### ⭐ Recent Stars
 
