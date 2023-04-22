@@ -4,9 +4,9 @@
 
 - [yuhr/fncmd](https://github.com/yuhr/fncmd) - Command line interface as a function.
 
-- [mattn/algia](https://github.com/mattn/algia) - A cli application for nostr
-
 - [yuhr/yuhr.org](https://github.com/yuhr/yuhr.org) - My personal website
+
+- [mattn/algia](https://github.com/mattn/algia) - A cli application for nostr
 
 - [yuhr/unsafe-coerce](https://github.com/yuhr/unsafe-coerce) - 
 
@@ -16,15 +16,15 @@
 
 
 
-- [test: populate `rust-analyzer.linkedProjects`](https://github.com/yuhr/fncmd/pull/38) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+- [ci: configure CI for testing](https://github.com/yuhr/fncmd/pull/47) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
-- [test: add integration tests as example projects](https://github.com/yuhr/fncmd/pull/37) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+- [test: fix test command to exclude invalid paths](https://github.com/yuhr/fncmd/pull/46) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
-- [chore: bump version to 1.3.0](https://github.com/yuhr/fncmd/pull/36) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+- [test: fix snapshots](https://github.com/yuhr/fncmd/pull/45) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
-- [build: update release workflow](https://github.com/yuhr/fncmd/pull/35) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+- [chore: bump version to 2.0.0](https://github.com/yuhr/fncmd/pull/44) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
-- [docs: update `README.md`](https://github.com/yuhr/fncmd/pull/34) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+- [docs: update `README.md`](https://github.com/yuhr/fncmd/pull/43) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
 ### ⭐ Recent Stars
 
