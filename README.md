@@ -16,26 +16,26 @@
 
 
 
-- [ci: configure CI for testing](https://github.com/yuhr/fncmd/pull/47) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+- [chore: update `authors` field in `Cargo.toml`](https://github.com/yuhr/fncmd/pull/55) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
-- [test: fix test command to exclude invalid paths](https://github.com/yuhr/fncmd/pull/46) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+- [chore: bump version to 2.1.0](https://github.com/yuhr/fncmd/pull/54) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
-- [test: fix snapshots](https://github.com/yuhr/fncmd/pull/45) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+- [build: upgrade multiple dependencies to latest compatible versions](https://github.com/yuhr/fncmd/pull/53) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
-- [chore: bump version to 2.0.0](https://github.com/yuhr/fncmd/pull/44) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+- [perf: improve compile-time efficiency](https://github.com/yuhr/fncmd/pull/52) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
-- [docs: update `README.md`](https://github.com/yuhr/fncmd/pull/43) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
+- [chore: bump version to 2.0.1](https://github.com/yuhr/fncmd/pull/51) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
 ### ⭐ Recent Stars
 
 
 
+- [dtolnay/typetag](https://github.com/dtolnay/typetag) - Serde serializable and deserializable trait objects
+
+- [meiji163/gh-notify](https://github.com/meiji163/gh-notify) - GitHub CLI extension to display GitHub notifications
+
+- [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
+
 - [assert-rs/trycmd](https://github.com/assert-rs/trycmd) - Snapshot testing for a herd of CLI tests
 
 - [snowflakelinux/snow](https://github.com/snowflakelinux/snow) - A commandline wrapper for the Nix package manager
-
-- [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
-
-- [tauri-apps/tauri-mobile](https://github.com/tauri-apps/tauri-mobile) - Rust on mobile made easy!
-
-- [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) - 🦀 How to minimize Rust binary size 📦
