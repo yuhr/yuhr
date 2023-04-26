@@ -2,6 +2,8 @@
 
 
 
+- [yuhr/blog.yuhr.org](https://github.com/yuhr/blog.yuhr.org) - 
+
 - [yuhr/fncmd](https://github.com/yuhr/fncmd) - Command line interface as a function.
 
 - [yuhr/yuhr.org](https://github.com/yuhr/yuhr.org) - My personal website
@@ -9,8 +11,6 @@
 - [mattn/algia](https://github.com/mattn/algia) - A cli application for nostr
 
 - [yuhr/unsafe-coerce](https://github.com/yuhr/unsafe-coerce) - 
-
-- [pelotom/runtypes](https://github.com/pelotom/runtypes) - Runtime validation for static types
 
 ### 🔨 My recent Pull Requests
 
@@ -30,12 +30,12 @@
 
 
 
+- [r7kamura/gialog](https://github.com/r7kamura/gialog) - Blog template to use GitHub Issues as article editor.
+
+- [sunfishcode/mustang](https://github.com/sunfishcode/mustang) - Rust programs written entirely in Rust
+
 - [sarah-ek/faer-rs](https://github.com/sarah-ek/faer-rs) - Linear algebra foundation for the Rust programming language
 
 - [dtolnay/typetag](https://github.com/dtolnay/typetag) - Serde serializable and deserializable trait objects
 
 - [meiji163/gh-notify](https://github.com/meiji163/gh-notify) - GitHub CLI extension to display GitHub notifications
-
-- [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
-
-- [assert-rs/trycmd](https://github.com/assert-rs/trycmd) - Snapshot testing for a herd of CLI tests
