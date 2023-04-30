@@ -16,6 +16,8 @@
 
 
 
+- [fix: set correct path for `typings` field in `package.json`](https://github.com/swiing/BitArray/pull/30) on [swiing/BitArray](https://github.com/swiing/BitArray)
+
 - [chore: update `authors` field in `Cargo.toml`](https://github.com/yuhr/fncmd/pull/55) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
 - [chore: bump version to 2.1.0](https://github.com/yuhr/fncmd/pull/54) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
@@ -23,8 +25,6 @@
 - [build: upgrade multiple dependencies to latest compatible versions](https://github.com/yuhr/fncmd/pull/53) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
 - [perf: improve compile-time efficiency](https://github.com/yuhr/fncmd/pull/52) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
-
-- [chore: bump version to 2.0.1](https://github.com/yuhr/fncmd/pull/51) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
 ### ⭐ Recent Stars
 
