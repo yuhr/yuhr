@@ -4,13 +4,13 @@
 
 - [yuhr/blog.yuhr.org](https://github.com/yuhr/blog.yuhr.org) - 
 
+- [swiing/BitArray](https://github.com/swiing/BitArray) - An ES6 BitArray class for easy and native-like operations on sequences of bits 
+
 - [yuhr/fncmd](https://github.com/yuhr/fncmd) - Command line interface as a function.
 
 - [yuhr/yuhr.org](https://github.com/yuhr/yuhr.org) - My personal website
 
 - [mattn/algia](https://github.com/mattn/algia) - A cli application for nostr
-
-- [yuhr/unsafe-coerce](https://github.com/yuhr/unsafe-coerce) - 
 
 ### 🔨 My recent Pull Requests
 
@@ -30,6 +30,8 @@
 
 
 
+- [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
+
 - [irislib/iris-messenger](https://github.com/irislib/iris-messenger) - Decentralized messenger
 
 - [fiatjaf/nocomment](https://github.com/fiatjaf/nocomment) - See a demo at https://fiatjaf.com/nostr.html
@@ -37,5 +39,3 @@
 - [r7kamura/gialog](https://github.com/r7kamura/gialog) - Blog template to use GitHub Issues as article editor.
 
 - [sunfishcode/mustang](https://github.com/sunfishcode/mustang) - Rust programs written entirely in Rust
-
-- [sarah-ek/faer-rs](https://github.com/sarah-ek/faer-rs) - Linear algebra foundation for the Rust programming language
