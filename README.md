@@ -30,12 +30,12 @@
 
 
 
+- [JamieMason/self-help](https://github.com/JamieMason/self-help) - Interactive Q&amp;A Guides for Web and the Command Line.
+
+- [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - ❌ Cargo plugin for linting your dependencies 🦀
+
 - [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
 
 - [irislib/iris-messenger](https://github.com/irislib/iris-messenger) - Decentralized messenger
 
 - [fiatjaf/nocomment](https://github.com/fiatjaf/nocomment) - See a demo at https://fiatjaf.com/nostr.html
-
-- [r7kamura/gialog](https://github.com/r7kamura/gialog) - Blog template to use GitHub Issues as article editor.
-
-- [sunfishcode/mustang](https://github.com/sunfishcode/mustang) - Rust programs written entirely in Rust
