@@ -30,6 +30,8 @@
 
 
 
+- [wikimedia/restbase](https://github.com/wikimedia/restbase) - Distributed storage with REST API &amp; dispatcher for backend services.
+
 - [JamieMason/self-help](https://github.com/JamieMason/self-help) - Interactive Q&amp;A Guides for Web and the Command Line.
 
 - [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - ❌ Cargo plugin for linting your dependencies 🦀
@@ -37,5 +39,3 @@
 - [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
 
 - [irislib/iris-messenger](https://github.com/irislib/iris-messenger) - Decentralized messenger
-
-- [fiatjaf/nocomment](https://github.com/fiatjaf/nocomment) - See a demo at https://fiatjaf.com/nostr.html
