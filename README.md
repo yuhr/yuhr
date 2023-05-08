@@ -30,6 +30,8 @@
 
 
 
+- [rustformers/llm](https://github.com/rustformers/llm) - Run inference for Large Language Models on CPU, with Rust 🦀🚀🦙
+
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 
 - [wikimedia/mediawiki](https://github.com/wikimedia/mediawiki) - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.
@@ -37,5 +39,3 @@
 - [wikimedia/restbase](https://github.com/wikimedia/restbase) - Distributed storage with REST API &amp; dispatcher for backend services.
 
 - [JamieMason/self-help](https://github.com/JamieMason/self-help) - Interactive Q&amp;A Guides for Web and the Command Line.
-
-- [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - ❌ Cargo plugin for linting your dependencies 🦀
