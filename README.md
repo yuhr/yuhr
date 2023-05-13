@@ -30,12 +30,12 @@
 
 
 
+- [tweedegolf/mailcrab](https://github.com/tweedegolf/mailcrab) - Email test server for development, written in Rust
+
+- [ksrky/type-inference](https://github.com/ksrky/type-inference) - Type inference algorithms for functional programming languages
+
 - [KisaragiEffective/artwork-metadata](https://github.com/KisaragiEffective/artwork-metadata) - 「メタデータは〜？」「世界を救う〜！」
 
 - [arkbig/devbase](https://github.com/arkbig/devbase) - Local development base environment stack on Docker containers. Using Traefik with TLS, Dnsmasq, Exim4 and MailHog.
 
 - [rustformers/llm](https://github.com/rustformers/llm) - Run inference for Large Language Models on CPU, with Rust 🦀🚀🦙
-
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
-
-- [wikimedia/mediawiki](https://github.com/wikimedia/mediawiki) - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.
