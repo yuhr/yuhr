@@ -2,13 +2,13 @@
 
 
 
+- [yuhr/yuhr.org](https://github.com/yuhr/yuhr.org) - My personal website
+
 - [yuhr/fncmd](https://github.com/yuhr/fncmd) - Command line interface as a function.
 
 - [yuhr/blog.yuhr.org](https://github.com/yuhr/blog.yuhr.org) - 
 
 - [swiing/BitArray](https://github.com/swiing/BitArray) - An ES6 BitArray class for easy and native-like operations on sequences of bits 
-
-- [yuhr/yuhr.org](https://github.com/yuhr/yuhr.org) - My personal website
 
 - [mattn/algia](https://github.com/mattn/algia) - A cli application for nostr
 
@@ -30,12 +30,12 @@
 
 
 
+- [takeyamajp/docker-postfix](https://github.com/takeyamajp/docker-postfix) - The best Send-Only Email server
+
+- [parker-codes/todo_by](https://github.com/parker-codes/todo_by) - Compile-time lifetimes for comments.
+
 - [tweedegolf/mailcrab](https://github.com/tweedegolf/mailcrab) - Email test server for development, written in Rust
 
 - [ksrky/type-inference](https://github.com/ksrky/type-inference) - Type inference algorithms for functional programming languages
 
 - [KisaragiEffective/artwork-metadata](https://github.com/KisaragiEffective/artwork-metadata) - 「メタデータは〜？」「世界を救う〜！」
-
-- [arkbig/devbase](https://github.com/arkbig/devbase) - Local development base environment stack on Docker containers. Using Traefik with TLS, Dnsmasq, Exim4 and MailHog.
-
-- [rustformers/llm](https://github.com/rustformers/llm) - Run inference for Large Language Models on CPU, with Rust 🦀🚀🦙
