@@ -30,6 +30,8 @@
 
 
 
+- [mcuadros/ofelia](https://github.com/mcuadros/ofelia) - A docker job scheduler (aka. crontab for docker)
+
 - [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
 
 - [takeyamajp/docker-postfix](https://github.com/takeyamajp/docker-postfix) - The best Send-Only Email server
@@ -37,5 +39,3 @@
 - [parker-codes/todo_by](https://github.com/parker-codes/todo_by) - Compile-time lifetimes for comments.
 
 - [tweedegolf/mailcrab](https://github.com/tweedegolf/mailcrab) - Email test server for development, written in Rust
-
-- [ksrky/type-inference](https://github.com/ksrky/type-inference) - Type inference algorithms for functional programming languages
