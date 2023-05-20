@@ -30,12 +30,12 @@
 
 
 
+- [marc2332/tauri-deno-starter](https://github.com/marc2332/tauri-deno-starter) - Starter template for Tauri, bundling the frontend made with React using Deno with esbuild.
+
+- [microsoft/guidance](https://github.com/microsoft/guidance) - A guidance language for controlling large language models.
+
+- [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
+
 - [mcuadros/ofelia](https://github.com/mcuadros/ofelia) - A docker job scheduler (aka. crontab for docker)
 
 - [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
-
-- [takeyamajp/docker-postfix](https://github.com/takeyamajp/docker-postfix) - The best Send-Only Email server
-
-- [parker-codes/todo_by](https://github.com/parker-codes/todo_by) - Compile-time lifetimes for comments.
-
-- [tweedegolf/mailcrab](https://github.com/tweedegolf/mailcrab) - Email test server for development, written in Rust
