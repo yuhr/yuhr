@@ -16,6 +16,8 @@
 
 
 
+- [fix: unhardcode path to `cargo-apple`](https://github.com/tauri-apps/tauri-mobile/pull/161) on [tauri-apps/tauri-mobile](https://github.com/tauri-apps/tauri-mobile)
+
 - [chore: remove unnecessary VSCode settings](https://github.com/yuhr/fncmd/pull/56) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
 - [fix: set correct path for `typings` field in `package.json`](https://github.com/swiing/BitArray/pull/30) on [swiing/BitArray](https://github.com/swiing/BitArray)
@@ -24,18 +26,16 @@
 
 - [chore: bump version to 2.1.0](https://github.com/yuhr/fncmd/pull/54) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
 
-- [build: upgrade multiple dependencies to latest compatible versions](https://github.com/yuhr/fncmd/pull/53) on [yuhr/fncmd](https://github.com/yuhr/fncmd)
-
 ### ⭐ Recent Stars
 
 
 
-- [marc2332/tauri-deno-starter](https://github.com/marc2332/tauri-deno-starter) - Starter template for Tauri, bundling the frontend made with React using Deno with esbuild.
+- [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
+
+- [filsv/iOSDeviceSupport](https://github.com/filsv/iOSDeviceSupport) - Xcode iPhoneOS (iOS) DeviceSupport files (6.0 - 16.4)
 
 - [microsoft/guidance](https://github.com/microsoft/guidance) - A guidance language for controlling large language models.
 
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
 
 - [mcuadros/ofelia](https://github.com/mcuadros/ofelia) - A docker job scheduler (aka. crontab for docker)
-
-- [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
