@@ -2,6 +2,8 @@
 
 
 
+- [tauri-apps/tauri-mobile](https://github.com/tauri-apps/tauri-mobile) - Rust on mobile made easy!
+
 - [yuhr/yuhr.org](https://github.com/yuhr/yuhr.org) - My personal website
 
 - [yuhr/fncmd](https://github.com/yuhr/fncmd) - Command line interface as a function.
@@ -9,8 +11,6 @@
 - [yuhr/blog.yuhr.org](https://github.com/yuhr/blog.yuhr.org) - 
 
 - [swiing/BitArray](https://github.com/swiing/BitArray) - An ES6 BitArray class for easy and native-like operations on sequences of bits 
-
-- [mattn/algia](https://github.com/mattn/algia) - A cli application for nostr
 
 ### 🔨 My recent Pull Requests
 
