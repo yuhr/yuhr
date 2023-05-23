@@ -30,12 +30,12 @@
 
 
 
+- [dtolnay/linkme](https://github.com/dtolnay/linkme) - Safe cross-platform linker shenanigans
+
+- [dtolnay/inventory](https://github.com/dtolnay/inventory) - Typed distributed plugin registration
+
 - [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
 
 - [filsv/iOSDeviceSupport](https://github.com/filsv/iOSDeviceSupport) - Xcode iPhoneOS (iOS) DeviceSupport files (6.0 - 16.4)
 
 - [microsoft/guidance](https://github.com/microsoft/guidance) - A guidance language for controlling large language models.
-
-- [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
-
-- [mcuadros/ofelia](https://github.com/mcuadros/ofelia) - A docker job scheduler (aka. crontab for docker)
