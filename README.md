@@ -30,6 +30,8 @@
 
 
 
+- [exelix11/SysDVR](https://github.com/exelix11/SysDVR) - Stream switch games to your PC via USB or network
+
 - [dtolnay/linkme](https://github.com/dtolnay/linkme) - Safe cross-platform linker shenanigans
 
 - [dtolnay/inventory](https://github.com/dtolnay/inventory) - Typed distributed plugin registration
@@ -37,5 +39,3 @@
 - [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
 
 - [filsv/iOSDeviceSupport](https://github.com/filsv/iOSDeviceSupport) - Xcode iPhoneOS (iOS) DeviceSupport files (6.0 - 16.4)
-
-- [microsoft/guidance](https://github.com/microsoft/guidance) - A guidance language for controlling large language models.
