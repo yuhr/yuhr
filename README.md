@@ -30,12 +30,12 @@
 
 
 
+- [vaporup/ssh-tools](https://github.com/vaporup/ssh-tools) - Making SSH more convenient
+
+- [Ansem-SoD/Picofly](https://github.com/Ansem-SoD/Picofly) - Information and firmware related to the rp2040-zero based chip for the nx
+
 - [exelix11/SysDVR](https://github.com/exelix11/SysDVR) - Stream switch games to your PC via USB or network
 
 - [dtolnay/linkme](https://github.com/dtolnay/linkme) - Safe cross-platform linker shenanigans
 
 - [dtolnay/inventory](https://github.com/dtolnay/inventory) - Typed distributed plugin registration
-
-- [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
-
-- [filsv/iOSDeviceSupport](https://github.com/filsv/iOSDeviceSupport) - Xcode iPhoneOS (iOS) DeviceSupport files (6.0 - 16.4)
