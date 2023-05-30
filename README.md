@@ -30,12 +30,12 @@
 
 
 
+- [cezanne/usbip-win](https://github.com/cezanne/usbip-win) - USB/IP for Windows
+
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
+
 - [vaporup/ssh-tools](https://github.com/vaporup/ssh-tools) - Making SSH more convenient
 
 - [Ansem-SoD/Picofly](https://github.com/Ansem-SoD/Picofly) - Information and firmware related to the rp2040-zero based chip for the nx
 
 - [exelix11/SysDVR](https://github.com/exelix11/SysDVR) - Stream switch games to your PC via USB or network
-
-- [dtolnay/linkme](https://github.com/dtolnay/linkme) - Safe cross-platform linker shenanigans
-
-- [dtolnay/inventory](https://github.com/dtolnay/inventory) - Typed distributed plugin registration
