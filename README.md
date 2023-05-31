@@ -30,12 +30,12 @@
 
 
 
+- [akamai/akr](https://github.com/akamai/akr) - Akamai Krypton CLI and SSH Agent (v2)
+
+- [Yubico/libfido2](https://github.com/Yubico/libfido2) - Provides library functionality for FIDO2, including communication with a device over USB or NFC.
+
+- [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
+
 - [cezanne/usbip-win](https://github.com/cezanne/usbip-win) - USB/IP for Windows
 
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
-
-- [vaporup/ssh-tools](https://github.com/vaporup/ssh-tools) - Making SSH more convenient
-
-- [Ansem-SoD/Picofly](https://github.com/Ansem-SoD/Picofly) - Information and firmware related to the rp2040-zero based chip for the nx
-
-- [exelix11/SysDVR](https://github.com/exelix11/SysDVR) - Stream switch games to your PC via USB or network
