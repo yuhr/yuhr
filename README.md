@@ -30,12 +30,12 @@
 
 
 
-- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+- [rp-rs/rp-hal-boards](https://github.com/rp-rs/rp-hal-boards) - Board Support Packages for RP2040 based PCBs
 
-- [Symbitic/deno-webbluetooth](https://github.com/Symbitic/deno-webbluetooth) - Deno WebBluetooth bindings.
+- [ksasao/TTSController](https://github.com/ksasao/TTSController) - 各種 Text-to-Speech エンジンを統一的に操作するライブラリです
 
-- [akamai/akr](https://github.com/akamai/akr) - Akamai Krypton CLI and SSH Agent (v2)
+- [ambergon/ukagakaPlugin_CeVIO-Talker](https://github.com/ambergon/ukagakaPlugin_CeVIO-Talker) - 伺かSSPからCeVIO AIにトークを流し込んで読み上げてもらうプラグイン。調声が可能。読み上げるゴーストおよび声の設定が可能。
 
-- [Yubico/libfido2](https://github.com/Yubico/libfido2) - Provides library functionality for FIDO2, including communication with a device over USB or NFC.
+- [shigobu/SAPIForVOICEVOX](https://github.com/shigobu/SAPIForVOICEVOX) - VOICEVOXをSAPI5から見えるようにします。
 
-- [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
+- [azumyar/voicepeak-connect](https://github.com/azumyar/voicepeak-connect) - VOICEPEAKのゆかりねっと/SAPI5連携など
