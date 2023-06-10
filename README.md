@@ -2,6 +2,8 @@
 
 
 
+- [pelotom/runtypes](https://github.com/pelotom/runtypes) - Runtime validation for static types
+
 - [yuhr/blog.yuhr.org](https://github.com/yuhr/blog.yuhr.org) - 
 
 - [yuhr/distree](https://github.com/yuhr/distree) - Directory structure trees upon plain objects.
@@ -9,8 +11,6 @@
 - [tauri-apps/tauri-mobile](https://github.com/tauri-apps/tauri-mobile) - Rust on mobile made easy!
 
 - [yuhr/yuhr.org](https://github.com/yuhr/yuhr.org) - My personal website
-
-- [yuhr/fncmd](https://github.com/yuhr/fncmd) - Command line interface as a function.
 
 ### 🔨 My recent Pull Requests
 
@@ -30,6 +30,8 @@
 
 
 
+- [MutinyWallet/blastr](https://github.com/MutinyWallet/blastr) - A nostr cloudflare workers proxy relay that publishes to all known relays
+
 - [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) - Compile Cargo project with zig as linker
 
 - [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - A frontend for an IPFS node.
@@ -37,5 +39,3 @@
 - [brendoncarroll/webfs](https://github.com/brendoncarroll/webfs) - A Filesystem Built On Top of the Web.
 
 - [TomokiMiyauci/memo](https://github.com/TomokiMiyauci/memo) - Memoization tools, TC39 proposal-function-memo implementation
-
-- [ipvm-wg/homestar](https://github.com/ipvm-wg/homestar) - 💫 A Rust implementation of IPVM
