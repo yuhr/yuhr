@@ -30,12 +30,12 @@
 
 
 
+- [AreaLayer/Nostr-App-Store-PoC](https://github.com/AreaLayer/Nostr-App-Store-PoC) - Simple  Proof of Concept for Nostr App Store 
+
+- [yuhr/runts](https://github.com/yuhr/runts) - Filesystem-based subcommand dispatcher for Deno.
+
+- [willnorris/imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go
+
 - [alexcanessa/typescript-coverage-report](https://github.com/alexcanessa/typescript-coverage-report) - Node command tool to generate TypeScript coverage report
 
 - [plantain-00/type-coverage](https://github.com/plantain-00/type-coverage) - A CLI tool to check type coverage for typescript code
-
-- [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
-
-- [jiftechnify/myne](https://github.com/jiftechnify/myne) - A CLI tool for migrating Nostr events.
-
-- [dreampulse/action-lint-pull-request-title](https://github.com/dreampulse/action-lint-pull-request-title) - Github action for linting pull request titles
