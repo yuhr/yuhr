@@ -30,6 +30,8 @@
 
 
 
+- [penpenpng/rx-nostr](https://github.com/penpenpng/rx-nostr) - A library based on RxJS, which allows Nostr applications to easily communicate with relays.
+
 - [johngeorgewright/runtyping](https://github.com/johngeorgewright/runtyping) - Generate runtype validation from static types &amp; JSON schema.
 
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS &amp; TypeScript
@@ -37,5 +39,3 @@
 - [AreaLayer/Nostr-App-Store-PoC](https://github.com/AreaLayer/Nostr-App-Store-PoC) - Simple  Proof of Concept for Nostr App Store 
 
 - [yuhr/runts](https://github.com/yuhr/runts) - Filesystem-based subcommand dispatcher for Deno.
-
-- [willnorris/imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go
