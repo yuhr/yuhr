@@ -30,12 +30,12 @@
 
 
 
+- [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
+
+- [Industrial/fresh-emotion](https://github.com/Industrial/fresh-emotion) - Emotion CSS-in-JS for Fresh
+
 - [nbd-wtf/nostr-tools](https://github.com/nbd-wtf/nostr-tools) - Tools for developing Nostr clients.
 
 - [QosmoInc/neutone_sdk](https://github.com/QosmoInc/neutone_sdk) - Join the community on Discord for more discussions around Neutone! https://discord.gg/VHSMzb8Wqp
 
 - [penpenpng/rx-nostr](https://github.com/penpenpng/rx-nostr) - A library based on RxJS, which allows Nostr applications to easily communicate with relays.
-
-- [johngeorgewright/runtyping](https://github.com/johngeorgewright/runtyping) - Generate runtype validation from static types &amp; JSON schema.
-
-- [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS &amp; TypeScript
