@@ -16,6 +16,8 @@
 
 
 
+- [feat: add `--build` option to generate index of subcommands](https://github.com/yuhr/runts/pull/5) on [yuhr/runts](https://github.com/yuhr/runts)
+
 - [docs: add caveat around version mismatch](https://github.com/yuhr/runts/pull/4) on [yuhr/runts](https://github.com/yuhr/runts)
 
 - [docs: remove usage with `land`](https://github.com/yuhr/runts/pull/3) on [yuhr/runts](https://github.com/yuhr/runts)
@@ -23,8 +25,6 @@
 - [fix: fix module resolution](https://github.com/yuhr/runts/pull/2) on [yuhr/runts](https://github.com/yuhr/runts)
 
 - [chore: remove unnecessary `justfile` entry](https://github.com/yuhr/runts/pull/1) on [yuhr/runts](https://github.com/yuhr/runts)
-
-- [chore: bump version to 2.0.0](https://github.com/yuhr/distree/pull/5) on [yuhr/distree](https://github.com/yuhr/distree)
 
 ### ⭐ Recent Stars
 
