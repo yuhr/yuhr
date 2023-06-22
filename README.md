@@ -16,26 +16,26 @@
 
 
 
+- [chore: remove unnecessary project configurations](https://github.com/yuhr/runts/pull/7) on [yuhr/runts](https://github.com/yuhr/runts)
+
+- [fix: support different versions of `Command` constructors](https://github.com/yuhr/runts/pull/6) on [yuhr/runts](https://github.com/yuhr/runts)
+
 - [feat: add `--build` option to generate index of subcommands](https://github.com/yuhr/runts/pull/5) on [yuhr/runts](https://github.com/yuhr/runts)
 
 - [docs: add caveat around version mismatch](https://github.com/yuhr/runts/pull/4) on [yuhr/runts](https://github.com/yuhr/runts)
 
 - [docs: remove usage with `land`](https://github.com/yuhr/runts/pull/3) on [yuhr/runts](https://github.com/yuhr/runts)
 
-- [fix: fix module resolution](https://github.com/yuhr/runts/pull/2) on [yuhr/runts](https://github.com/yuhr/runts)
-
-- [chore: remove unnecessary `justfile` entry](https://github.com/yuhr/runts/pull/1) on [yuhr/runts](https://github.com/yuhr/runts)
-
 ### ⭐ Recent Stars
 
 
 
+- [justinawrey/fsrouter](https://github.com/justinawrey/fsrouter) - A file system based router for Deno &amp; Deno Deploy.
+
+- [dtolnay/semver-trick](https://github.com/dtolnay/semver-trick) - How to avoid complicated coordinated upgrades
+
+- [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) - A compendium of absurd open-source licenses.
+
 - [pmndrs/suspend-react](https://github.com/pmndrs/suspend-react) - 🚥 Async/await for React components
 
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
-
-- [Industrial/fresh-emotion](https://github.com/Industrial/fresh-emotion) - Emotion CSS-in-JS for Fresh
-
-- [nbd-wtf/nostr-tools](https://github.com/nbd-wtf/nostr-tools) - Tools for developing Nostr clients.
-
-- [QosmoInc/neutone_sdk](https://github.com/QosmoInc/neutone_sdk) - Join the community on Discord for more discussions around Neutone! https://discord.gg/VHSMzb8Wqp
