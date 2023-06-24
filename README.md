@@ -30,6 +30,8 @@
 
 
 
+- [rust-headless-chrome/rust-headless-chrome](https://github.com/rust-headless-chrome/rust-headless-chrome) - A high-level API to control headless Chrome or Chromium over the DevTools Protocol. It is the Rust equivalent of Puppeteer, a Node library maintained by the Chrome DevTools team.
+
 - [drcika/apc-extension](https://github.com/drcika/apc-extension) - 
 
 - [justinawrey/fsrouter](https://github.com/justinawrey/fsrouter) - A file system based router for Deno &amp; Deno Deploy.
@@ -37,5 +39,3 @@
 - [dtolnay/semver-trick](https://github.com/dtolnay/semver-trick) - How to avoid complicated coordinated upgrades
 
 - [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) - A compendium of absurd open-source licenses.
-
-- [pmndrs/suspend-react](https://github.com/pmndrs/suspend-react) - 🚥 Async/await for React components
