@@ -30,6 +30,8 @@
 
 
 
+- [azukiapp/libnss-resolver](https://github.com/azukiapp/libnss-resolver) - A Linux extension that adds support to the /etc/resolver/[suffix].
+
 - [timreichen/Bundler](https://github.com/timreichen/Bundler) - A Bundler with the web in mind.
 
 - [rust-headless-chrome/rust-headless-chrome](https://github.com/rust-headless-chrome/rust-headless-chrome) - A high-level API to control headless Chrome or Chromium over the DevTools Protocol. It is the Rust equivalent of Puppeteer, a Node library maintained by the Chrome DevTools team.
@@ -37,5 +39,3 @@
 - [drcika/apc-extension](https://github.com/drcika/apc-extension) - 
 
 - [justinawrey/fsrouter](https://github.com/justinawrey/fsrouter) - A file system based router for Deno &amp; Deno Deploy.
-
-- [dtolnay/semver-trick](https://github.com/dtolnay/semver-trick) - How to avoid complicated coordinated upgrades
