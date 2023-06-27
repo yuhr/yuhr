@@ -30,12 +30,12 @@
 
 
 
+- [denoland/deno_emit](https://github.com/denoland/deno_emit) - Transpile and bundle JavaScript and TypeScript under Deno and Deno Deploy
+
+- [penpenpng/nostr-typedef](https://github.com/penpenpng/nostr-typedef) - Type definitions for Nostr applications made with TypeScript
+
+- [binpash/try](https://github.com/binpash/try) - &#34;Do, or do not. There is no try.&#34;  We&#39;re setting out to change that: `try cmd` and commit---or not.
+
 - [azukiapp/libnss-resolver](https://github.com/azukiapp/libnss-resolver) - A Linux extension that adds support to the /etc/resolver/[suffix].
 
 - [timreichen/Bundler](https://github.com/timreichen/Bundler) - A Bundler with the web in mind.
-
-- [rust-headless-chrome/rust-headless-chrome](https://github.com/rust-headless-chrome/rust-headless-chrome) - A high-level API to control headless Chrome or Chromium over the DevTools Protocol. It is the Rust equivalent of Puppeteer, a Node library maintained by the Chrome DevTools team.
-
-- [drcika/apc-extension](https://github.com/drcika/apc-extension) - 
-
-- [justinawrey/fsrouter](https://github.com/justinawrey/fsrouter) - A file system based router for Deno &amp; Deno Deploy.
