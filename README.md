@@ -38,4 +38,4 @@
 
 - [penpenpng/nostr-typedef](https://github.com/penpenpng/nostr-typedef) - Type definitions for Nostr applications made with TypeScript
 
-- [binpash/try](https://github.com/binpash/try) - &#34;Do, or do not. There is no try.&#34;  We&#39;re setting out to change that: `try cmd` and commit---or not.
+- [binpash/try](https://github.com/binpash/try) - try lets you run a command and inspect its effects before modifying your live system
