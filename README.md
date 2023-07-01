@@ -30,12 +30,12 @@
 
 
 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
+
+- [guillaumechereau/goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor 
+
 - [denoland/wasmbuild](https://github.com/denoland/wasmbuild) - Build tool to use Rust code in Deno and the browser.
 
 - [fb55/css-select](https://github.com/fb55/css-select) - a CSS selector compiler &amp; engine
 
 - [parasyte/pixels](https://github.com/parasyte/pixels) - A tiny hardware-accelerated pixel frame buffer. 🦀
-
-- [TomokiMiyauci/pattern-matching](https://github.com/TomokiMiyauci/pattern-matching) - Syntax-free pattern matching, feature parity with TC39 proposal-pattern-matching
-
-- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
