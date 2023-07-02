@@ -30,12 +30,12 @@
 
 
 
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
+- [KodyJKing/hello-threejs](https://github.com/KodyJKing/hello-threejs) - A 3D pixel-art style shader with clean outlines and edge highlights.
 
-- [guillaumechereau/goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor 
+- [servo/font-kit](https://github.com/servo/font-kit) - A cross-platform font loading library written in Rust
 
-- [denoland/wasmbuild](https://github.com/denoland/wasmbuild) - Build tool to use Rust code in Deno and the browser.
+- [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
 
-- [fb55/css-select](https://github.com/fb55/css-select) - a CSS selector compiler &amp; engine
+- [blaind/bevy_webview](https://github.com/blaind/bevy_webview) - Rapidly iterate and build Bevy UI&#39;s with existing web-based technologies
 
-- [parasyte/pixels](https://github.com/parasyte/pixels) - A tiny hardware-accelerated pixel frame buffer. 🦀
+- [diptools/dip](https://github.com/diptools/dip) - Rust application framework focuses on composability, ECS and Web3.  Powered by Bevy game engine. From desktop apps to the Metaverse.
