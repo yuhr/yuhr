@@ -30,6 +30,8 @@
 
 
 
+- [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
+
 - [gfx-rs/naga](https://github.com/gfx-rs/naga) - Universal shader translation in Rust
 
 - [KodyJKing/hello-threejs](https://github.com/KodyJKing/hello-threejs) - A 3D pixel-art style shader with clean outlines and edge highlights.
@@ -37,5 +39,3 @@
 - [servo/font-kit](https://github.com/servo/font-kit) - A cross-platform font loading library written in Rust
 
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
-
-- [blaind/bevy_webview](https://github.com/blaind/bevy_webview) - Rapidly iterate and build Bevy UI&#39;s with existing web-based technologies
