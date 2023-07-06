@@ -30,6 +30,8 @@
 
 
 
+- [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly (wasm).
+
 - [sdfgeoff/blender_bevy_toolkit](https://github.com/sdfgeoff/blender_bevy_toolkit) - A blender addon and bevy plugin to use Blender as an editor for Bevy
 
 - [cryscan/bevy-hikari](https://github.com/cryscan/bevy-hikari) - A Realtime Path Tracer for Bevy.
@@ -37,5 +39,3 @@
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
 
 - [gfx-rs/naga](https://github.com/gfx-rs/naga) - Universal shader translation in Rust
-
-- [KodyJKing/hello-threejs](https://github.com/KodyJKing/hello-threejs) - A 3D pixel-art style shader with clean outlines and edge highlights.
