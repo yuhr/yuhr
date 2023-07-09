@@ -30,6 +30,8 @@
 
 
 
+- [PistonDevelopers/dyon](https://github.com/PistonDevelopers/dyon) - A rusty dynamically typed scripting language
+
 - [dtolnay/prettyplease](https://github.com/dtolnay/prettyplease) - A minimal `syn` syntax tree pretty-printer
 
 - [shekohex/rust-wasm-hotreload](https://github.com/shekohex/rust-wasm-hotreload) - PoC Using WASM Modules as Hot-Reloading Logic from Rust.
@@ -37,5 +39,3 @@
 - [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly (wasm).
 
 - [sdfgeoff/blender_bevy_toolkit](https://github.com/sdfgeoff/blender_bevy_toolkit) - A blender addon and bevy plugin to use Blender as an editor for Bevy
-
-- [cryscan/bevy-hikari](https://github.com/cryscan/bevy-hikari) - A Realtime Path Tracer for Bevy.
