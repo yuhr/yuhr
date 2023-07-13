@@ -30,12 +30,12 @@
 
 
 
+- [mdrokz/auto_generate_cdp](https://github.com/mdrokz/auto_generate_cdp) - experimental crate to generate the Chrome Devtools Protocol.
+
+- [b-fuze/deno-dom](https://github.com/b-fuze/deno-dom) - Browser DOM &amp; HTML parser in Deno
+
+- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: SwiftUI, Jetpack Compose, Flutter and you name it compatible.
+
+- [denoland/eszip](https://github.com/denoland/eszip) - A compact file format to losslessly serialize an ECMAScript module graph into a single file
+
 - [PistonDevelopers/dyon](https://github.com/PistonDevelopers/dyon) - A rusty dynamically typed scripting language
-
-- [dtolnay/prettyplease](https://github.com/dtolnay/prettyplease) - A minimal `syn` syntax tree pretty-printer
-
-- [shekohex/rust-wasm-hotreload](https://github.com/shekohex/rust-wasm-hotreload) - PoC Using WASM Modules as Hot-Reloading Logic from Rust.
-
-- [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly (wasm).
-
-- [sdfgeoff/blender_bevy_toolkit](https://github.com/sdfgeoff/blender_bevy_toolkit) - A blender addon and bevy plugin to use Blender as an editor for Bevy
