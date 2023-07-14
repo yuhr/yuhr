@@ -30,6 +30,8 @@
 
 
 
+- [rust-lang/odht](https://github.com/rust-lang/odht) - An on-disk hash table implementation
+
 - [mdrokz/auto_generate_cdp](https://github.com/mdrokz/auto_generate_cdp) - experimental crate to generate the Chrome Devtools Protocol.
 
 - [b-fuze/deno-dom](https://github.com/b-fuze/deno-dom) - Browser DOM &amp; HTML parser in Deno
@@ -37,5 +39,3 @@
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: SwiftUI, Jetpack Compose, Flutter and you name it compatible.
 
 - [denoland/eszip](https://github.com/denoland/eszip) - A compact file format to losslessly serialize an ECMAScript module graph into a single file
-
-- [PistonDevelopers/dyon](https://github.com/PistonDevelopers/dyon) - A rusty dynamically typed scripting language
