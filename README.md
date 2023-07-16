@@ -2,6 +2,8 @@
 
 
 
+- [yuhr/internode](https://github.com/yuhr/internode) - Smart references to your graph nodes.
+
 - [yuhr/routets](https://github.com/yuhr/routets) - Vanilla filesystem-based routing for Deno.
 
 - [yuhr/runts](https://github.com/yuhr/runts) - Filesystem-based subcommand dispatcher for Deno.
@@ -10,25 +12,25 @@
 
 - [pelotom/runtypes](https://github.com/pelotom/runtypes) - Runtime validation for static types
 
-- [yuhr/blog.yuhr.org](https://github.com/yuhr/blog.yuhr.org) - 
-
 ### 🔨 My recent Pull Requests
 
 
 
-- [docs: update comparison with `runtypes`](https://github.com/colinhacks/zod/pull/2536) on [colinhacks/zod](https://github.com/colinhacks/zod)
+- [docs: add description about undirected graphs](https://github.com/yuhr/internode/pull/5) on [yuhr/internode](https://github.com/yuhr/internode)
 
-- [docs: refactor examples](https://github.com/yuhr/routets/pull/15) on [yuhr/routets](https://github.com/yuhr/routets)
+- [docs: fix `README.md`](https://github.com/yuhr/internode/pull/4) on [yuhr/internode](https://github.com/yuhr/internode)
 
-- [refactor: deprecate `slugs` in favor of `captured`](https://github.com/yuhr/routets/pull/14) on [yuhr/routets](https://github.com/yuhr/routets)
+- [docs: fix doc comments](https://github.com/yuhr/internode/pull/3) on [yuhr/internode](https://github.com/yuhr/internode)
 
-- [docs: update v1 to v2](https://github.com/yuhr/routets/pull/13) on [yuhr/routets](https://github.com/yuhr/routets)
+- [chore: bump version to v1.0.0](https://github.com/yuhr/internode/pull/2) on [yuhr/internode](https://github.com/yuhr/internode)
 
-- [feat: add `path` and `pattern` to `Context`](https://github.com/yuhr/routets/pull/12) on [yuhr/routets](https://github.com/yuhr/routets)
+- [feat: add basic functionalities](https://github.com/yuhr/internode/pull/1) on [yuhr/internode](https://github.com/yuhr/internode)
 
 ### ⭐ Recent Stars
 
 
+
+- [yuhr/internode](https://github.com/yuhr/internode) - Smart references to your graph nodes.
 
 - [rust-lang/odht](https://github.com/rust-lang/odht) - An on-disk hash table implementation
 
@@ -37,5 +39,3 @@
 - [b-fuze/deno-dom](https://github.com/b-fuze/deno-dom) - Browser DOM &amp; HTML parser in Deno
 
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: SwiftUI, Jetpack Compose, Flutter and you name it compatible.
-
-- [denoland/eszip](https://github.com/denoland/eszip) - A compact file format to losslessly serialize an ECMAScript module graph into a single file
