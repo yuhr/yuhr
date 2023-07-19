@@ -30,6 +30,8 @@
 
 
 
+- [paypal/junodb](https://github.com/paypal/junodb) - JunoDB is PayPal&#39;s home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.
+
 - [yuhr/internode](https://github.com/yuhr/internode) - Smart references to your graph nodes.
 
 - [rust-lang/odht](https://github.com/rust-lang/odht) - An on-disk hash table implementation
@@ -37,5 +39,3 @@
 - [mdrokz/auto_generate_cdp](https://github.com/mdrokz/auto_generate_cdp) - experimental crate to generate the Chrome Devtools Protocol.
 
 - [b-fuze/deno-dom](https://github.com/b-fuze/deno-dom) - Browser DOM &amp; HTML parser in Deno
-
-- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: SwiftUI, Jetpack Compose, Flutter and you name it compatible.
