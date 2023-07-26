@@ -30,6 +30,8 @@
 
 
 
+- [hlorus/CAD_Sketcher](https://github.com/hlorus/CAD_Sketcher) - Constraint-based geometry sketcher for blender
+
 - [phiresky/sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite
 
 - [dimforge/rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance.
@@ -37,5 +39,3 @@
 - [paypal/junodb](https://github.com/paypal/junodb) - JunoDB is PayPal&#39;s home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.
 
 - [yuhr/internode](https://github.com/yuhr/internode) - Smart references to your graph nodes.
-
-- [rust-lang/odht](https://github.com/rust-lang/odht) - An on-disk hash table implementation
