@@ -2,6 +2,8 @@
 
 
 
+- [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
+
 - [yuhr/internode](https://github.com/yuhr/internode) - Smart references to your graph nodes.
 
 - [yuhr/routets](https://github.com/yuhr/routets) - Vanilla filesystem-based routing for Deno.
@@ -9,8 +11,6 @@
 - [yuhr/runts](https://github.com/yuhr/runts) - Filesystem-based subcommand dispatcher for Deno.
 
 - [yuhr/distree](https://github.com/yuhr/distree) - Directory structure trees upon plain objects.
-
-- [pelotom/runtypes](https://github.com/pelotom/runtypes) - Runtime validation for static types
 
 ### 🔨 My recent Pull Requests
 
