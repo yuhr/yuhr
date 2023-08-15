@@ -30,6 +30,8 @@
 
 
 
+- [allusion-app/Allusion](https://github.com/allusion-app/Allusion) - A free and open source desktop application for managing your visual library
+
 - [fatho/logru](https://github.com/fatho/logru) - Log(ic) programming in Ru(st).
 
 - [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
@@ -37,5 +39,3 @@
 - [plotters-rs/plotters](https://github.com/plotters-rs/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 
 - [hlorus/CAD_Sketcher](https://github.com/hlorus/CAD_Sketcher) - Constraint-based geometry sketcher for blender
-
-- [phiresky/sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite
