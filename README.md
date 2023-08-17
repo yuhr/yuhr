@@ -30,12 +30,12 @@
 
 
 
+- [idanarye/rust-typed-builder](https://github.com/idanarye/rust-typed-builder) - Compile-time type-checked builder derive
+
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
+
 - [allusion-app/Allusion](https://github.com/allusion-app/Allusion) - A free and open source desktop application for managing your visual library
 
 - [fatho/logru](https://github.com/fatho/logru) - Log(ic) programming in Ru(st).
 
 - [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
-
-- [plotters-rs/plotters](https://github.com/plotters-rs/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
-
-- [hlorus/CAD_Sketcher](https://github.com/hlorus/CAD_Sketcher) - Constraint-based geometry sketcher for blender
