@@ -30,6 +30,8 @@
 
 
 
+- [msakai/cpl](https://github.com/msakai/cpl) - An interpreter of Hagino&#39;s Categorical Programming Language (CPL).
+
 - [idanarye/rust-typed-builder](https://github.com/idanarye/rust-typed-builder) - Compile-time type-checked builder derive
 
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -37,5 +39,3 @@
 - [allusion-app/Allusion](https://github.com/allusion-app/Allusion) - A free and open source desktop application for managing your visual library
 
 - [fatho/logru](https://github.com/fatho/logru) - Log(ic) programming in Ru(st).
-
-- [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
