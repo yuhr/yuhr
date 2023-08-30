@@ -30,6 +30,8 @@
 
 
 
+- [xlambein/syntactic-for](https://github.com/xlambein/syntactic-for) - A syntactic &#34;for&#34; loop Rust macro
+
 - [Marwes/nanbox](https://github.com/Marwes/nanbox) - A rust crate which implements nanboxing
 
 - [msakai/cpl](https://github.com/msakai/cpl) - An interpreter of Hagino&#39;s Categorical Programming Language (CPL).
@@ -37,5 +39,3 @@
 - [idanarye/rust-typed-builder](https://github.com/idanarye/rust-typed-builder) - Compile-time type-checked builder derive
 
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-
-- [allusion-app/Allusion](https://github.com/allusion-app/Allusion) - A free and open source desktop application for managing your visual library
