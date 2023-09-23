@@ -30,6 +30,8 @@
 
 
 
+- [plugdata-team/plugdata](https://github.com/plugdata-team/plugdata) - Pure Data as a plugin, with a new GUI
+
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 
 - [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
@@ -37,5 +39,3 @@
 - [xlambein/syntactic-for](https://github.com/xlambein/syntactic-for) - A syntactic &#34;for&#34; loop Rust macro
 
 - [Marwes/nanbox](https://github.com/Marwes/nanbox) - A rust crate which implements nanboxing
-
-- [msakai/cpl](https://github.com/msakai/cpl) - An interpreter of Hagino&#39;s Categorical Programming Language (CPL).
