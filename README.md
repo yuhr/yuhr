@@ -30,6 +30,8 @@
 
 
 
+- [WebAssemblyOS/wasmos](https://github.com/WebAssemblyOS/wasmos) - OS primitives and shell for AssembyScript and WebAssembly
+
 - [robbert-vdh/nih-plug](https://github.com/robbert-vdh/nih-plug) - Rust VST3 and CLAP plugin framework and plugins - because everything is better when you do it yourself
 
 - [biss-git/YomiageLibrary](https://github.com/biss-git/YomiageLibrary) - トークソフト用GUIプラットフォーム
@@ -37,5 +39,3 @@
 - [glowcoil/clap-sys](https://github.com/glowcoil/clap-sys) - Rust bindings for the CLAP audio plugin API
 
 - [free-audio/clap](https://github.com/free-audio/clap) - Audio Plugin API
-
-- [zeta-chicken/toWhisper](https://github.com/zeta-chicken/toWhisper) - 
