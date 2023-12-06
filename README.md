@@ -30,6 +30,8 @@
 
 
 
+- [Narsil/rdev](https://github.com/Narsil/rdev) - Simple library to listen and send events to keyboard and mouse (MacOS, Windows, Linux)
+
 - [mat1jaczyyy/LP-Firmware-Utility](https://github.com/mat1jaczyyy/LP-Firmware-Utility) - Novation Launchpad firmware updating and patching on the web
 
 - [WebAssemblyOS/wasmos](https://github.com/WebAssemblyOS/wasmos) - OS primitives and shell for AssembyScript and WebAssembly
@@ -37,5 +39,3 @@
 - [robbert-vdh/nih-plug](https://github.com/robbert-vdh/nih-plug) - Rust VST3 and CLAP plugin framework and plugins - because everything is better when you do it yourself
 
 - [biss-git/YomiageLibrary](https://github.com/biss-git/YomiageLibrary) - トークソフト用GUIプラットフォーム
-
-- [glowcoil/clap-sys](https://github.com/glowcoil/clap-sys) - Rust bindings for the CLAP audio plugin API
