@@ -2,6 +2,8 @@
 
 
 
+- [pelotom/runtypes](https://github.com/pelotom/runtypes) - Runtime validation for static types
+
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 
 - [yuhr/internode](https://github.com/yuhr/internode) - Smart references to your graph nodes.
@@ -10,11 +12,11 @@
 
 - [yuhr/runts](https://github.com/yuhr/runts) - Filesystem-based subcommand dispatcher for Deno.
 
-- [yuhr/distree](https://github.com/yuhr/distree) - Directory structure trees upon plain objects.
-
 ### 🔨 My recent Pull Requests
 
 
+
+- [build: upgrade `typescript` to `5.3.3`](https://github.com/pelotom/runtypes/pull/337) on [pelotom/runtypes](https://github.com/pelotom/runtypes)
 
 - [docs: add description about undirected graphs](https://github.com/yuhr/internode/pull/5) on [yuhr/internode](https://github.com/yuhr/internode)
 
@@ -23,8 +25,6 @@
 - [docs: fix doc comments](https://github.com/yuhr/internode/pull/3) on [yuhr/internode](https://github.com/yuhr/internode)
 
 - [chore: bump version to v1.0.0](https://github.com/yuhr/internode/pull/2) on [yuhr/internode](https://github.com/yuhr/internode)
-
-- [feat: add basic functionalities](https://github.com/yuhr/internode/pull/1) on [yuhr/internode](https://github.com/yuhr/internode)
 
 ### ⭐ Recent Stars
 
