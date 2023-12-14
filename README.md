@@ -16,6 +16,8 @@
 
 
 
+- [refactor!: revise project configurations](https://github.com/pelotom/runtypes/pull/339) on [pelotom/runtypes](https://github.com/pelotom/runtypes)
+
 - [feat!: add `Transform` runtype](https://github.com/pelotom/runtypes/pull/338) on [pelotom/runtypes](https://github.com/pelotom/runtypes)
 
 - [build: upgrade `typescript` to `5.3.3`](https://github.com/pelotom/runtypes/pull/337) on [pelotom/runtypes](https://github.com/pelotom/runtypes)
@@ -23,8 +25,6 @@
 - [docs: add description about undirected graphs](https://github.com/yuhr/internode/pull/5) on [yuhr/internode](https://github.com/yuhr/internode)
 
 - [docs: fix `README.md`](https://github.com/yuhr/internode/pull/4) on [yuhr/internode](https://github.com/yuhr/internode)
-
-- [docs: fix doc comments](https://github.com/yuhr/internode/pull/3) on [yuhr/internode](https://github.com/yuhr/internode)
 
 ### ⭐ Recent Stars
 
