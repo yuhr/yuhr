@@ -30,12 +30,12 @@
 
 
 
+- [redox-os/relibc](https://github.com/redox-os/relibc) - Mirror of https://gitlab.redox-os.org/redox-os/relibc
+
+- [pirj/noclamshell](https://github.com/pirj/noclamshell) - Sleep despite annoying clamshell mode
+
 - [mitsuchi/ron](https://github.com/mitsuchi/ron) - 小さい計算体系をシンプルに定義できるような言語をつくりたい
 
 - [vaivaswatha/pliron](https://github.com/vaivaswatha/pliron) - Programming Languages Intermediate Representation
 
 - [dimforge/parry](https://github.com/dimforge/parry) - 2D and 3D collision-detection library for Rust.
-
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-
-- [Narsil/rdev](https://github.com/Narsil/rdev) - Simple library to listen and send events to keyboard and mouse (MacOS, Windows, Linux)
