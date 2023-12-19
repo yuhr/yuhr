@@ -30,12 +30,12 @@
 
 
 
+- [hydra-synth/hydra](https://github.com/hydra-synth/hydra) - Livecoding networked visuals in the browser
+
+- [akiomik/textlint-rule-ja-hiraku](https://github.com/akiomik/textlint-rule-ja-hiraku) - 漢字を「ひらく」ためのtextlintルール
+
 - [redox-os/relibc](https://github.com/redox-os/relibc) - Mirror of https://gitlab.redox-os.org/redox-os/relibc
 
 - [pirj/noclamshell](https://github.com/pirj/noclamshell) - Sleep despite annoying clamshell mode
 
 - [mitsuchi/ron](https://github.com/mitsuchi/ron) - 小さい計算体系をシンプルに定義できるような言語をつくりたい
-
-- [vaivaswatha/pliron](https://github.com/vaivaswatha/pliron) - Programming Languages Intermediate Representation
-
-- [dimforge/parry](https://github.com/dimforge/parry) - 2D and 3D collision-detection library for Rust.
