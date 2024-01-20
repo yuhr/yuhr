@@ -30,6 +30,8 @@
 
 
 
+- [Submarinonline/genhera.js](https://github.com/Submarinonline/genhera.js) - メンヘラ文章ジェネレーター
+
 - [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance
 
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
@@ -37,5 +39,3 @@
 - [andrewbaxter/genemichaels](https://github.com/andrewbaxter/genemichaels) - Even formats macros
 
 - [hydra-synth/hydra](https://github.com/hydra-synth/hydra) - Livecoding networked visuals in the browser
-
-- [akiomik/textlint-rule-ja-hiraku](https://github.com/akiomik/textlint-rule-ja-hiraku) - 漢字を「ひらく」ためのtextlintルール
