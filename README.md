@@ -2,9 +2,9 @@
 
 
 
-- [yuhr/blog.yuhr.org](https://github.com/yuhr/blog.yuhr.org) - 
-
 - [pelotom/runtypes](https://github.com/pelotom/runtypes) - Runtime validation for static types
+
+- [yuhr/blog.yuhr.org](https://github.com/yuhr/blog.yuhr.org) - 
 
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 
@@ -30,6 +30,8 @@
 
 
 
+- [Resolvr-io/Resolvr](https://github.com/Resolvr-io/Resolvr) - Bitcoin-Native, Nostr-Powered FOSS Bounty Adjudicator | Bolt.Fun Hackathon Project
+
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 
 - [Submarinonline/genhera.js](https://github.com/Submarinonline/genhera.js) - メンヘラ文章ジェネレーター
@@ -37,5 +39,3 @@
 - [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance
 
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
-
-- [andrewbaxter/genemichaels](https://github.com/andrewbaxter/genemichaels) - Even formats macros
