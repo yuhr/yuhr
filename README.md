@@ -30,12 +30,12 @@
 
 
 
+- [decentralized-identity/ion](https://github.com/decentralized-identity/ion) - The Identity Overlay Network (ION) is a DID Method implementation using the Sidetree protocol atop Bitcoin
+
+- [apple/ml-mgie](https://github.com/apple/ml-mgie) - 
+
 - [dtolnay/request-for-implementation](https://github.com/dtolnay/request-for-implementation) - Crates that don&#39;t exist, but should
 
 - [Resolvr-io/Resolvr](https://github.com/Resolvr-io/Resolvr) - Bitcoin-Native, Nostr-Powered FOSS Bounty Adjudicator | Bolt.Fun Hackathon Project
 
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
-
-- [Submarinonline/genhera.js](https://github.com/Submarinonline/genhera.js) - メンヘラ文章ジェネレーター
-
-- [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance
