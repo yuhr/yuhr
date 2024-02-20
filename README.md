@@ -30,12 +30,12 @@
 
 
 
+- [MrPicklePinosaur/shrs](https://github.com/MrPicklePinosaur/shrs) - The rusty shell toolkit for hackers
+
+- [mewz-project/wasker](https://github.com/mewz-project/wasker) - Wasm compiler for running Wasm on your favorite kernel
+
 - [caprese-project/caprese](https://github.com/caprese-project/caprese) - Caprese is a microkernel that protects resources with capability-based security.
 
 - [NextMicon/NextMiconIDE](https://github.com/NextMicon/NextMiconIDE) - 🛠️ IDE for Next Micon FPGA
 
 - [decentralized-identity/ion](https://github.com/decentralized-identity/ion) - The Identity Overlay Network (ION) is a DID Method implementation using the Sidetree protocol atop Bitcoin
-
-- [apple/ml-mgie](https://github.com/apple/ml-mgie) - 
-
-- [dtolnay/request-for-implementation](https://github.com/dtolnay/request-for-implementation) - Crates that don&#39;t exist, but should
