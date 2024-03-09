@@ -2,7 +2,7 @@
 
 
 
-- [pelotom/runtypes](https://github.com/pelotom/runtypes) - Runtime validation for static types
+- [runtypes/runtypes](https://github.com/runtypes/runtypes) - Runtime validation for static types
 
 - [yuhr/blog.yuhr.org](https://github.com/yuhr/blog.yuhr.org) - 
 
@@ -16,11 +16,11 @@
 
 
 
-- [refactor!: revise project configurations](https://github.com/pelotom/runtypes/pull/339) on [pelotom/runtypes](https://github.com/pelotom/runtypes)
+- [refactor!: revise project configurations](https://github.com/runtypes/runtypes/pull/339) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [feat!: add `Transform` runtype](https://github.com/pelotom/runtypes/pull/338) on [pelotom/runtypes](https://github.com/pelotom/runtypes)
+- [feat!: add `Transform` runtype](https://github.com/runtypes/runtypes/pull/338) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [build: upgrade `typescript` to `5.3.3`](https://github.com/pelotom/runtypes/pull/337) on [pelotom/runtypes](https://github.com/pelotom/runtypes)
+- [build: upgrade `typescript` to `5.3.3`](https://github.com/runtypes/runtypes/pull/337) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 - [docs: add description about undirected graphs](https://github.com/yuhr/internode/pull/5) on [yuhr/internode](https://github.com/yuhr/internode)
 
