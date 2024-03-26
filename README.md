@@ -30,12 +30,12 @@
 
 
 
+- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
+
+- [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text/numeric/geo-spatial/vector indexing library for go
+
 - [wireapp/wire-server](https://github.com/wireapp/wire-server) - 🇪🇺 Wire back-end services
 
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 
 - [madsmtm/objc2](https://github.com/madsmtm/objc2) - Bindings to Apple&#39;s frameworks in Rust
-
-- [ricosjp/truck](https://github.com/ricosjp/truck) - Truck is a Rust CAD Kernel.
-
-- [hannobraun/fornjot](https://github.com/hannobraun/fornjot) - Early-stage b-rep CAD kernel, written in the Rust programming language.
