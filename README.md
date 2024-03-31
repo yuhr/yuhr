@@ -2,6 +2,8 @@
 
 
 
+- [yuhr/routets](https://github.com/yuhr/routets) - Vanilla filesystem-based routing for Deno.
+
 - [yuhr/blog.yuhr.org](https://github.com/yuhr/blog.yuhr.org) - 
 
 - [runtypes/runtypes](https://github.com/runtypes/runtypes) - Runtime validation for static types
@@ -10,11 +12,11 @@
 
 - [yuhr/internode](https://github.com/yuhr/internode) - Smart references to your graph nodes.
 
-- [yuhr/routets](https://github.com/yuhr/routets) - Vanilla filesystem-based routing for Deno.
-
 ### 🔨 My recent Pull Requests
 
 
+
+- [feat: add ability to watch even not running via CLI](https://github.com/yuhr/routets/pull/16) on [yuhr/routets](https://github.com/yuhr/routets)
 
 - [ci: use `jdx/mise-action@v2` instead of `jdxcode/mise-action@v2`](https://github.com/yuhr/blog.yuhr.org/pull/8) on [yuhr/blog.yuhr.org](https://github.com/yuhr/blog.yuhr.org)
 
@@ -23,8 +25,6 @@
 - [refactor!: revise project configurations](https://github.com/runtypes/runtypes/pull/339) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 - [feat!: add `Transform` runtype](https://github.com/runtypes/runtypes/pull/338) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
-
-- [build: upgrade `typescript` to `5.3.3`](https://github.com/runtypes/runtypes/pull/337) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 ### ⭐ Recent Stars
 
