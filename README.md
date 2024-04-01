@@ -16,15 +16,15 @@
 
 
 
+- [fix: enumerate files to watch correctly as per import map](https://github.com/yuhr/routets/pull/20) on [yuhr/routets](https://github.com/yuhr/routets)
+
+- [refactor!: remove deprecated features](https://github.com/yuhr/routets/pull/19) on [yuhr/routets](https://github.com/yuhr/routets)
+
+- [docs: update documentation comments](https://github.com/yuhr/routets/pull/18) on [yuhr/routets](https://github.com/yuhr/routets)
+
+- [feat: expose reload events to each route](https://github.com/yuhr/routets/pull/17) on [yuhr/routets](https://github.com/yuhr/routets)
+
 - [feat: add ability to watch even not running via CLI](https://github.com/yuhr/routets/pull/16) on [yuhr/routets](https://github.com/yuhr/routets)
-
-- [ci: use `jdx/mise-action@v2` instead of `jdxcode/mise-action@v2`](https://github.com/yuhr/blog.yuhr.org/pull/8) on [yuhr/blog.yuhr.org](https://github.com/yuhr/blog.yuhr.org)
-
-- [ci: use `jdxcode/mise-action@v2` instead of `jdxcode/rtx-action@v1`](https://github.com/yuhr/blog.yuhr.org/pull/7) on [yuhr/blog.yuhr.org](https://github.com/yuhr/blog.yuhr.org)
-
-- [refactor!: revise project configurations](https://github.com/runtypes/runtypes/pull/339) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
-
-- [feat!: add `Transform` runtype](https://github.com/runtypes/runtypes/pull/338) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 ### ⭐ Recent Stars
 
