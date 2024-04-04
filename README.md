@@ -16,6 +16,8 @@
 
 
 
+- [fix(react-refresh): fix incorrect type definitions of `react-refresh`](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/69264) on [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+
 - [fix: enumerate files to watch correctly as per import map](https://github.com/yuhr/routets/pull/20) on [yuhr/routets](https://github.com/yuhr/routets)
 
 - [refactor!: remove deprecated features](https://github.com/yuhr/routets/pull/19) on [yuhr/routets](https://github.com/yuhr/routets)
@@ -23,8 +25,6 @@
 - [docs: update documentation comments](https://github.com/yuhr/routets/pull/18) on [yuhr/routets](https://github.com/yuhr/routets)
 
 - [feat: expose reload events to each route](https://github.com/yuhr/routets/pull/17) on [yuhr/routets](https://github.com/yuhr/routets)
-
-- [feat: add ability to watch even not running via CLI](https://github.com/yuhr/routets/pull/16) on [yuhr/routets](https://github.com/yuhr/routets)
 
 ### ⭐ Recent Stars
 
