@@ -2,6 +2,8 @@
 
 
 
+- [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
+
 - [yuhr/routets](https://github.com/yuhr/routets) - Vanilla filesystem-based routing for Deno.
 
 - [yuhr/blog.yuhr.org](https://github.com/yuhr/blog.yuhr.org) - 
@@ -9,8 +11,6 @@
 - [runtypes/runtypes](https://github.com/runtypes/runtypes) - Runtime validation for static types
 
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
-
-- [yuhr/internode](https://github.com/yuhr/internode) - Smart references to your graph nodes.
 
 ### 🔨 My recent Pull Requests
 
