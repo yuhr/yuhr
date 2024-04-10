@@ -30,6 +30,8 @@
 
 
 
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the creator platform for developers &amp; the open source ecosystem.
+
 - [FredKSchott/esm-hmr](https://github.com/FredKSchott/esm-hmr) - a Hot Module Replacement (HMR) API for your ESM-based dev server.
 
 - [Kuatsu/react-native-cloud-storage](https://github.com/Kuatsu/react-native-cloud-storage) - ☁️ Save to &amp; read from iCloud and Google Drive using React Native
@@ -37,5 +39,3 @@
 - [Le0Developer/cloudflare-discord-mailing](https://github.com/Le0Developer/cloudflare-discord-mailing) - Cloudflare Workers &#43; Route to Workers &#43; Mailchannels =&gt; Discord
 
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
-
-- [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text/numeric/geo-spatial/vector indexing library for go
