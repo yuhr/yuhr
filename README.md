@@ -32,7 +32,7 @@
 
 - [andrewbaxter/bread](https://github.com/andrewbaxter/bread) - https://bre.ad community
 
-- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the creator platform for developers &amp; the open source ecosystem.
+- [polarsource/polar](https://github.com/polarsource/polar) - From first donation to IPO. Polar is the funding &amp; monetization platform for developers.
 
 - [FredKSchott/esm-hmr](https://github.com/FredKSchott/esm-hmr) - a Hot Module Replacement (HMR) API for your ESM-based dev server.
 
