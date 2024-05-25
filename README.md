@@ -30,6 +30,8 @@
 
 
 
+- [dominiksalvet/gitpack](https://github.com/dominiksalvet/gitpack) - Git-based package manager written in POSIX shell
+
 - [josh-project/josh](https://github.com/josh-project/josh) - Just One Single History
 
 - [andrewbaxter/bread](https://github.com/andrewbaxter/bread) - https://bre.ad community
@@ -37,5 +39,3 @@
 - [polarsource/polar](https://github.com/polarsource/polar) - From first donation to IPO. Polar is the funding &amp; monetization platform for developers.
 
 - [FredKSchott/esm-hmr](https://github.com/FredKSchott/esm-hmr) - a Hot Module Replacement (HMR) API for your ESM-based dev server.
-
-- [Kuatsu/react-native-cloud-storage](https://github.com/Kuatsu/react-native-cloud-storage) - ☁️ Save to &amp; read from iCloud and Google Drive using React Native
