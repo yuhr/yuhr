@@ -38,4 +38,4 @@
 
 - [andrewbaxter/bread](https://github.com/andrewbaxter/bread) - https://bre.ad community
 
-- [polarsource/polar](https://github.com/polarsource/polar) - From first donation to IPO. Polar is the funding &amp; monetization platform for developers.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the best funding &amp; monetization platform for developers. From first donation to IPO. 
