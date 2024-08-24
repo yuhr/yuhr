@@ -2,6 +2,8 @@
 
 
 
+- [runtypes/runtypes](https://github.com/runtypes/runtypes) - Runtime validation for static types
+
 - [yuhr/yuhr.org](https://github.com/yuhr/yuhr.org) - My personal website
 
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
@@ -10,21 +12,19 @@
 
 - [yuhr/blog.yuhr.org](https://github.com/yuhr/blog.yuhr.org) - 
 
-- [runtypes/runtypes](https://github.com/runtypes/runtypes) - Runtime validation for static types
-
 ### 🔨 My recent Pull Requests
 
 
 
-- [fix(react-refresh): fix incorrect type definitions of `react-refresh`](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/69264) on [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+- [docs: update `README.md`](https://github.com/runtypes/runtypes/pull/362) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [fix: enumerate files to watch correctly as per import map](https://github.com/yuhr/routets/pull/20) on [yuhr/routets](https://github.com/yuhr/routets)
+- [fix: fix incorrect generated types caused by misconfiguration of `dnt`](https://github.com/runtypes/runtypes/pull/361) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [refactor!: remove deprecated features](https://github.com/yuhr/routets/pull/19) on [yuhr/routets](https://github.com/yuhr/routets)
+- [fix: fix type inference of `Object`](https://github.com/runtypes/runtypes/pull/360) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [docs: update documentation comments](https://github.com/yuhr/routets/pull/18) on [yuhr/routets](https://github.com/yuhr/routets)
+- [refactor!: remove runtime semantics of readonly](https://github.com/runtypes/runtypes/pull/359) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [feat: expose reload events to each route](https://github.com/yuhr/routets/pull/17) on [yuhr/routets](https://github.com/yuhr/routets)
+- [refactor!: remove `Partial`](https://github.com/runtypes/runtypes/pull/358) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 ### ⭐ Recent Stars
 
