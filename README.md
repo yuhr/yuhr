@@ -16,15 +16,15 @@
 
 
 
+- [refactor: remove unnecessary export of `VisitedState`](https://github.com/runtypes/runtypes/pull/367) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+
+- [refactor: remove unnecessary definition](https://github.com/runtypes/runtypes/pull/366) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+
+- [perf: reduce type inference cost of `Static`](https://github.com/runtypes/runtypes/pull/365) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+
+- [style: format files with ESLint rule for import/export style](https://github.com/runtypes/runtypes/pull/364) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+
 - [docs: update `README.md`](https://github.com/runtypes/runtypes/pull/362) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
-
-- [fix: fix incorrect generated types caused by misconfiguration of `dnt`](https://github.com/runtypes/runtypes/pull/361) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
-
-- [fix: fix type inference of `Object`](https://github.com/runtypes/runtypes/pull/360) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
-
-- [refactor!: remove runtime semantics of readonly](https://github.com/runtypes/runtypes/pull/359) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
-
-- [refactor!: remove `Partial`](https://github.com/runtypes/runtypes/pull/358) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 ### ⭐ Recent Stars
 
