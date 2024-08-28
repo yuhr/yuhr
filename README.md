@@ -30,6 +30,8 @@
 
 
 
+- [rscarson/rustyscript](https://github.com/rscarson/rustyscript) - Effortless JS integration for rust 
+
 - [sile/nowasm](https://github.com/sile/nowasm) - No-std, no-unsafe and no-dependencies WebAssembly 1.0 runtime for Rust
 
 - [dominiksalvet/gitpack](https://github.com/dominiksalvet/gitpack) - Git-based package manager written in POSIX shell
@@ -37,5 +39,3 @@
 - [josh-project/josh](https://github.com/josh-project/josh) - Just One Single History
 
 - [andrewbaxter/bread](https://github.com/andrewbaxter/bread) - https://bre.ad community
-
-- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the best funding &amp; monetization platform for developers. From first donation to IPO. 
