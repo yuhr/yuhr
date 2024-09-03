@@ -30,6 +30,8 @@
 
 
 
+- [phaux/deno-eslint](https://github.com/phaux/deno-eslint) - 
+
 - [ChromeDevTools/devtools-protocol](https://github.com/ChromeDevTools/devtools-protocol) - Chrome DevTools Protocol
 
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
@@ -37,5 +39,3 @@
 - [rustype/typestate-rs](https://github.com/rustype/typestate-rs) - Proc-macro typestate DSL for Rust
 
 - [Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API) - A CLI tool and an API for fetching data from Twitter for free!
-
-- [Rishikant181/Rettiwt-Core](https://github.com/Rishikant181/Rettiwt-Core) - The core library for the reverse-engineered Twitter API
