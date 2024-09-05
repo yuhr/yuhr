@@ -2,9 +2,9 @@
 
 
 
-- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-
 - [runtypes/runtypes](https://github.com/runtypes/runtypes) - Runtime validation for static types
+
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 
 - [yuhr/yuhr.org](https://github.com/yuhr/yuhr.org) - My personal website
 
@@ -16,6 +16,8 @@
 
 
 
+- [refactor!: set proper descriptor for properties of runtypes](https://github.com/runtypes/runtypes/pull/369) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+
 - [fix(runtime/web_worker): populate `SnapshotOptions` for `WebWorker` when instantiated without snapshot](https://github.com/denoland/deno/pull/25280) on [denoland/deno](https://github.com/denoland/deno)
 
 - [refactor!: reduce `any`](https://github.com/runtypes/runtypes/pull/368) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
@@ -23,8 +25,6 @@
 - [refactor: remove unnecessary exports](https://github.com/runtypes/runtypes/pull/367) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 - [refactor: remove unnecessary definition](https://github.com/runtypes/runtypes/pull/366) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
-
-- [perf: reduce type inference cost of `Static`](https://github.com/runtypes/runtypes/pull/365) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 ### ⭐ Recent Stars
 
