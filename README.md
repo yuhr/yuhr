@@ -30,12 +30,12 @@
 
 
 
+- [bytecodealliance/cargo-component](https://github.com/bytecodealliance/cargo-component) - A Cargo subcommand for creating WebAssembly components based on the component model proposal.
+
+- [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
+
 - [denogdev/denog](https://github.com/denogdev/denog) - A fork of Deno with built-in window system integration.
 
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
 
 - [phaux/deno-eslint](https://github.com/phaux/deno-eslint) - 
-
-- [ChromeDevTools/devtools-protocol](https://github.com/ChromeDevTools/devtools-protocol) - Chrome DevTools Protocol
-
-- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
