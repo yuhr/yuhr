@@ -2,6 +2,8 @@
 
 
 
+- [yuhr/routets](https://github.com/yuhr/routets) - Vanilla filesystem-based routing for Deno.
+
 - [runtypes/runtypes](https://github.com/runtypes/runtypes) - Runtime validation for static types
 
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -10,11 +12,11 @@
 
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 
-- [yuhr/routets](https://github.com/yuhr/routets) - Vanilla filesystem-based routing for Deno.
-
 ### 🔨 My recent Pull Requests
 
 
+
+- [chore: revise project configurations](https://github.com/yuhr/routets/pull/22) on [yuhr/routets](https://github.com/yuhr/routets)
 
 - [improvement!: change default behavior of `Router` constructor](https://github.com/yuhr/routets/pull/21) on [yuhr/routets](https://github.com/yuhr/routets)
 
@@ -23,8 +25,6 @@
 - [fix(runtime/web_worker): populate `SnapshotOptions` for `WebWorker` when instantiated without snapshot](https://github.com/denoland/deno/pull/25280) on [denoland/deno](https://github.com/denoland/deno)
 
 - [refactor!: reduce `any`](https://github.com/runtypes/runtypes/pull/368) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
-
-- [refactor: remove unnecessary exports](https://github.com/runtypes/runtypes/pull/367) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 ### ⭐ Recent Stars
 
