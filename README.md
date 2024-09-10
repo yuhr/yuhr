@@ -2,6 +2,8 @@
 
 
 
+- [yuhr/distree](https://github.com/yuhr/distree) - Directory structure trees upon plain objects.
+
 - [yuhr/routets](https://github.com/yuhr/routets) - Vanilla filesystem-based routing for Deno.
 
 - [runtypes/runtypes](https://github.com/runtypes/runtypes) - Runtime validation for static types
@@ -10,11 +12,13 @@
 
 - [yuhr/yuhr.org](https://github.com/yuhr/yuhr.org) - My personal website
 
-- [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
-
 ### 🔨 My recent Pull Requests
 
 
+
+- [chore: revise project configurations](https://github.com/yuhr/distree/pull/8) on [yuhr/distree](https://github.com/yuhr/distree)
+
+- [fix(collections): ensure `pick` doesn&#39;t generate missing properties as `undefined`](https://github.com/denoland/std/pull/5926) on [denoland/std](https://github.com/denoland/std)
 
 - [chore: revise project configurations](https://github.com/yuhr/routets/pull/22) on [yuhr/routets](https://github.com/yuhr/routets)
 
@@ -22,13 +26,11 @@
 
 - [refactor!: set proper descriptor for properties of runtypes](https://github.com/runtypes/runtypes/pull/369) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [fix(runtime/web_worker): populate `SnapshotOptions` for `WebWorker` when instantiated without snapshot](https://github.com/denoland/deno/pull/25280) on [denoland/deno](https://github.com/denoland/deno)
-
-- [refactor!: reduce `any`](https://github.com/runtypes/runtypes/pull/368) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
-
 ### ⭐ Recent Stars
 
 
+
+- [fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) - reuse is a tool for compliance with the REUSE recommendations.
 
 - [bytecodealliance/cargo-component](https://github.com/bytecodealliance/cargo-component) - A Cargo subcommand for creating WebAssembly components based on the component model proposal.
 
@@ -37,5 +39,3 @@
 - [denogdev/denog](https://github.com/denogdev/denog) - A fork of Deno with built-in window system integration.
 
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
-
-- [phaux/deno-eslint](https://github.com/phaux/deno-eslint) - 
