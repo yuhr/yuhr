@@ -16,6 +16,8 @@
 
 
 
+- [chore: add `jsr.json`](https://github.com/yuhr/distree/pull/9) on [yuhr/distree](https://github.com/yuhr/distree)
+
 - [chore: revise project configurations](https://github.com/yuhr/distree/pull/8) on [yuhr/distree](https://github.com/yuhr/distree)
 
 - [fix(collections): ensure `pick` doesn&#39;t generate missing properties as `undefined`](https://github.com/denoland/std/pull/5926) on [denoland/std](https://github.com/denoland/std)
@@ -23,8 +25,6 @@
 - [chore: revise project configurations](https://github.com/yuhr/routets/pull/22) on [yuhr/routets](https://github.com/yuhr/routets)
 
 - [improvement!: change default behavior of `Router` constructor](https://github.com/yuhr/routets/pull/21) on [yuhr/routets](https://github.com/yuhr/routets)
-
-- [refactor!: set proper descriptor for properties of runtypes](https://github.com/runtypes/runtypes/pull/369) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 ### ⭐ Recent Stars
 
