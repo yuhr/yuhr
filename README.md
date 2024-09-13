@@ -2,6 +2,8 @@
 
 
 
+- [denoland/std](https://github.com/denoland/std) - The Deno Standard Library
+
 - [yuhr/distree](https://github.com/yuhr/distree) - Directory structure trees upon plain objects.
 
 - [yuhr/routets](https://github.com/yuhr/routets) - Vanilla filesystem-based routing for Deno.
@@ -9,8 +11,6 @@
 - [runtypes/runtypes](https://github.com/runtypes/runtypes) - Runtime validation for static types
 
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-
-- [yuhr/yuhr.org](https://github.com/yuhr/yuhr.org) - My personal website
 
 ### 🔨 My recent Pull Requests
 
