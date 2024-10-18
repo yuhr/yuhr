@@ -30,6 +30,8 @@
 
 
 
+- [Guan-JW/HocoPG-Demo](https://github.com/Guan-JW/HocoPG-Demo) - 
+
 - [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript
 
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell.
@@ -37,5 +39,3 @@
 - [fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) - reuse is a tool for compliance with the REUSE recommendations.
 
 - [bytecodealliance/cargo-component](https://github.com/bytecodealliance/cargo-component) - A Cargo subcommand for creating WebAssembly components based on the component model proposal.
-
-- [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
