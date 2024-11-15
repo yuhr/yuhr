@@ -30,6 +30,8 @@
 
 
 
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+
 - [KOBA789/namanushi](https://github.com/KOBA789/namanushi) - A toy loopback usb audio device
 
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
@@ -37,5 +39,3 @@
 - [datalayer/primer-addons](https://github.com/datalayer/primer-addons) - ⚛️ ➕ Additional components for Primer React.
 
 - [Guan-JW/HocoPG-Demo](https://github.com/Guan-JW/HocoPG-Demo) - 
-
-- [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript
