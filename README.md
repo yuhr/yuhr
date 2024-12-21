@@ -2,6 +2,8 @@
 
 
 
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
+
 - [yuhr/use-await-data](https://github.com/yuhr/use-await-data) - A React hook that executes an async task to populate the desired data.
 
 - [denoland/std](https://github.com/denoland/std) - The Deno Standard Library
@@ -10,11 +12,11 @@
 
 - [yuhr/routets](https://github.com/yuhr/routets) - Vanilla filesystem-based routing for Deno.
 
-- [runtypes/runtypes](https://github.com/runtypes/runtypes) - Runtime validation for static types
-
 ### 🔨 My recent Pull Requests
 
 
+
+- [fix(ruby): fix Ruby plugin to use `ruby_install` option correctly](https://github.com/jdx/mise/pull/3732) on [jdx/mise](https://github.com/jdx/mise)
 
 - [fix(styled-system): fix conditionals to make it work with `exactOptionalPropertyTypes: true`](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/71163) on [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 
@@ -23,8 +25,6 @@
 - [chore: add `jsr.json`](https://github.com/yuhr/distree/pull/9) on [yuhr/distree](https://github.com/yuhr/distree)
 
 - [chore: revise project configurations](https://github.com/yuhr/distree/pull/8) on [yuhr/distree](https://github.com/yuhr/distree)
-
-- [fix(collections): ensure `pick` doesn&#39;t generate missing properties as `undefined`](https://github.com/denoland/std/pull/5926) on [denoland/std](https://github.com/denoland/std)
 
 ### ⭐ Recent Stars
 
