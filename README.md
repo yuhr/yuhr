@@ -2,6 +2,8 @@
 
 
 
+- [yuhr/routets](https://github.com/yuhr/routets) - Vanilla filesystem-based routing for Deno.
+
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 
 - [yuhr/use-await-data](https://github.com/yuhr/use-await-data) - A React hook that executes an async task to populate the desired data.
@@ -10,21 +12,19 @@
 
 - [yuhr/distree](https://github.com/yuhr/distree) - Directory structure trees upon plain objects.
 
-- [yuhr/routets](https://github.com/yuhr/routets) - Vanilla filesystem-based routing for Deno.
-
 ### 🔨 My recent Pull Requests
 
 
 
-- [fix(ruby): fix Ruby plugin to use `ruby_install` option correctly](https://github.com/jdx/mise/pull/3732) on [jdx/mise](https://github.com/jdx/mise)
+- [docs: update readme](https://github.com/yuhr/routets/pull/41) on [yuhr/routets](https://github.com/yuhr/routets)
 
-- [fix(styled-system): fix conditionals to make it work with `exactOptionalPropertyTypes: true`](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/71163) on [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+- [fix(cli): load `deno.json` in current directory](https://github.com/yuhr/routets/pull/40) on [yuhr/routets](https://github.com/yuhr/routets)
 
-- [fix: add `types` field in `exports` in `package.json`](https://github.com/yuhr/use-await-data/pull/1) on [yuhr/use-await-data](https://github.com/yuhr/use-await-data)
+- [docs: update readme](https://github.com/yuhr/routets/pull/39) on [yuhr/routets](https://github.com/yuhr/routets)
 
-- [chore: add `jsr.json`](https://github.com/yuhr/distree/pull/9) on [yuhr/distree](https://github.com/yuhr/distree)
+- [chore: gitignore `*.gen.ts`](https://github.com/yuhr/routets/pull/38) on [yuhr/routets](https://github.com/yuhr/routets)
 
-- [chore: revise project configurations](https://github.com/yuhr/distree/pull/8) on [yuhr/distree](https://github.com/yuhr/distree)
+- [docs: fix help message of `--hostname` option](https://github.com/yuhr/routets/pull/37) on [yuhr/routets](https://github.com/yuhr/routets)
 
 ### ⭐ Recent Stars
 
