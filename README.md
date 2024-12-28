@@ -16,15 +16,15 @@
 
 
 
-- [docs: update readme](https://github.com/yuhr/routets/pull/41) on [yuhr/routets](https://github.com/yuhr/routets)
+- [fix: fix import specifiers in the generated index](https://github.com/yuhr/routets/pull/52) on [yuhr/routets](https://github.com/yuhr/routets)
 
-- [fix(cli): load `deno.json` in current directory](https://github.com/yuhr/routets/pull/40) on [yuhr/routets](https://github.com/yuhr/routets)
+- [docs: update version numbers in `README.md`](https://github.com/yuhr/routets/pull/51) on [yuhr/routets](https://github.com/yuhr/routets)
 
-- [docs: update readme](https://github.com/yuhr/routets/pull/39) on [yuhr/routets](https://github.com/yuhr/routets)
+- [fix: fix handling of question marks in pathname patterns](https://github.com/yuhr/routets/pull/50) on [yuhr/routets](https://github.com/yuhr/routets)
 
-- [chore: gitignore `*.gen.ts`](https://github.com/yuhr/routets/pull/38) on [yuhr/routets](https://github.com/yuhr/routets)
+- [improvement!: use reverse lexicographic ordering as default precedence of routes](https://github.com/yuhr/routets/pull/49) on [yuhr/routets](https://github.com/yuhr/routets)
 
-- [docs: fix help message of `--hostname` option](https://github.com/yuhr/routets/pull/37) on [yuhr/routets](https://github.com/yuhr/routets)
+- [docs: update version numbers in `README.md`](https://github.com/yuhr/routets/pull/48) on [yuhr/routets](https://github.com/yuhr/routets)
 
 ### ⭐ Recent Stars
 
