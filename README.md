@@ -16,6 +16,8 @@
 
 
 
+- [docs: update readme](https://github.com/yuhr/routets/pull/53) on [yuhr/routets](https://github.com/yuhr/routets)
+
 - [test: update dependencies](https://github.com/runtypes/runtypes/pull/370) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 - [fix: fix import specifiers in the generated index](https://github.com/yuhr/routets/pull/52) on [yuhr/routets](https://github.com/yuhr/routets)
@@ -23,8 +25,6 @@
 - [docs: update version numbers in `README.md`](https://github.com/yuhr/routets/pull/51) on [yuhr/routets](https://github.com/yuhr/routets)
 
 - [fix: fix handling of question marks in pathname patterns](https://github.com/yuhr/routets/pull/50) on [yuhr/routets](https://github.com/yuhr/routets)
-
-- [improvement!: use reverse lexicographic ordering as default precedence of routes](https://github.com/yuhr/routets/pull/49) on [yuhr/routets](https://github.com/yuhr/routets)
 
 ### ⭐ Recent Stars
 
