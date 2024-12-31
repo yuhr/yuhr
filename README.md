@@ -4,27 +4,27 @@
 
 - [yuhr/routets](https://github.com/yuhr/routets) - Vanilla filesystem-based routing for Deno.
 
+- [runtypes/runtypes](https://github.com/runtypes/runtypes) - Runtime validation for static types
+
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 
 - [yuhr/use-await-data](https://github.com/yuhr/use-await-data) - A React hook that executes an async task to populate the desired data.
 
 - [denoland/std](https://github.com/denoland/std) - The Deno Standard Library
 
-- [yuhr/distree](https://github.com/yuhr/distree) - Directory structure trees upon plain objects.
-
 ### 🔨 My recent Pull Requests
 
 
 
+- [chore: revise project configurations](https://github.com/runtypes/runtypes/pull/374) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+
+- [test: fix test tooling](https://github.com/runtypes/runtypes/pull/373) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+
+- [chore: fix typo in `package.json` for npm releases](https://github.com/runtypes/runtypes/pull/372) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+
+- [chore: install `import/no-unused-modules` ESLint rule](https://github.com/runtypes/runtypes/pull/371) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+
 - [docs: update readme](https://github.com/yuhr/routets/pull/53) on [yuhr/routets](https://github.com/yuhr/routets)
-
-- [test: update dependencies](https://github.com/runtypes/runtypes/pull/370) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
-
-- [fix: fix import specifiers in the generated index](https://github.com/yuhr/routets/pull/52) on [yuhr/routets](https://github.com/yuhr/routets)
-
-- [docs: update version numbers in `README.md`](https://github.com/yuhr/routets/pull/51) on [yuhr/routets](https://github.com/yuhr/routets)
-
-- [fix: fix handling of question marks in pathname patterns](https://github.com/yuhr/routets/pull/50) on [yuhr/routets](https://github.com/yuhr/routets)
 
 ### ⭐ Recent Stars
 
