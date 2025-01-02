@@ -16,15 +16,15 @@
 
 
 
-- [deprecate!: remove `Guard` constructor](https://github.com/runtypes/runtypes/pull/377) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [test: add tests for `with`](https://github.com/runtypes/runtypes/pull/384) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [deprecate!: remove `Dictionary`](https://github.com/runtypes/runtypes/pull/376) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [docs: update readme](https://github.com/runtypes/runtypes/pull/383) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [refactor!: refactor `Runtype` fundamentally](https://github.com/runtypes/runtypes/pull/375) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [docs: update readme](https://github.com/runtypes/runtypes/pull/382) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [chore: revise project configurations](https://github.com/runtypes/runtypes/pull/374) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [fix: add omitted type parameter of `withConstraint`](https://github.com/runtypes/runtypes/pull/381) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [test: fix test tooling](https://github.com/runtypes/runtypes/pull/373) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [feat!: add `withAssertion` helper](https://github.com/runtypes/runtypes/pull/380) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 ### ⭐ Recent Stars
 
