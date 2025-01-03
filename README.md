@@ -16,15 +16,15 @@
 
 
 
-- [test: add tests for `with`](https://github.com/runtypes/runtypes/pull/384) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [fix: fix types of utility functions of `Object`](https://github.com/runtypes/runtypes/pull/393) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [docs: update readme](https://github.com/runtypes/runtypes/pull/383) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [feat: support exact object validation](https://github.com/runtypes/runtypes/pull/391) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [docs: update readme](https://github.com/runtypes/runtypes/pull/382) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [fix: add omitted `override`](https://github.com/runtypes/runtypes/pull/390) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [fix: add omitted type parameter of `withConstraint`](https://github.com/runtypes/runtypes/pull/381) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [chore: revise project configurations](https://github.com/runtypes/runtypes/pull/389) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [feat!: add `withAssertion` helper](https://github.com/runtypes/runtypes/pull/380) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [improvement!: make `Optional` pseudo-runtype](https://github.com/runtypes/runtypes/pull/388) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 ### ⭐ Recent Stars
 
