@@ -16,15 +16,15 @@
 
 
 
+- [feat: add `conform` helper method](https://github.com/runtypes/runtypes/pull/397) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+
+- [docs: update readme](https://github.com/runtypes/runtypes/pull/395) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+
+- [improvement!: use `SameValueZero` equality for `Literal`](https://github.com/runtypes/runtypes/pull/394) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+
 - [fix: fix types of utility functions of `Object`](https://github.com/runtypes/runtypes/pull/393) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 - [feat: support exact object validation](https://github.com/runtypes/runtypes/pull/391) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
-
-- [fix: add omitted `override`](https://github.com/runtypes/runtypes/pull/390) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
-
-- [chore: revise project configurations](https://github.com/runtypes/runtypes/pull/389) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
-
-- [improvement!: make `Optional` pseudo-runtype](https://github.com/runtypes/runtypes/pull/388) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 ### ⭐ Recent Stars
 
