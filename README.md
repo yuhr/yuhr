@@ -16,15 +16,15 @@
 
 
 
-- [feat!: add `Transform` runtype](https://github.com/runtypes/runtypes/pull/400) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [refactor!: remove `SymbolFor`](https://github.com/runtypes/runtypes/pull/408) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [refactor: remove unnecessary `any`](https://github.com/runtypes/runtypes/pull/399) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [fix: fix behavior of number-like keys in `Record`](https://github.com/runtypes/runtypes/pull/407) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [feat!: respect types of incoming values](https://github.com/runtypes/runtypes/pull/398) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [fix: fix bahavior of `Union` of `Literal`s in key of `Record`](https://github.com/runtypes/runtypes/pull/406) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [feat: add `conform` helper method](https://github.com/runtypes/runtypes/pull/397) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [feat: support empty `Union` and `Intersect`](https://github.com/runtypes/runtypes/pull/405) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [docs: update readme](https://github.com/runtypes/runtypes/pull/395) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [feat!: rework contract APIs](https://github.com/runtypes/runtypes/pull/403) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 ### ⭐ Recent Stars
 
