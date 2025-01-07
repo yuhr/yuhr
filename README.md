@@ -16,15 +16,15 @@
 
 
 
-- [refactor!: remove `SymbolFor`](https://github.com/runtypes/runtypes/pull/408) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [deprecate!: remove legacy decorators support](https://github.com/runtypes/runtypes/pull/421) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [fix: fix behavior of number-like keys in `Record`](https://github.com/runtypes/runtypes/pull/407) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [chore: add ESLint directives](https://github.com/runtypes/runtypes/pull/420) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [fix: fix bahavior of `Union` of `Literal`s in key of `Record`](https://github.com/runtypes/runtypes/pull/406) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [improvement!: provide full information in error details for `Intersect`](https://github.com/runtypes/runtypes/pull/419) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [feat: support empty `Union` and `Intersect`](https://github.com/runtypes/runtypes/pull/405) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [improvement!: provide full information in error details for `Union`](https://github.com/runtypes/runtypes/pull/418) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [feat!: rework contract APIs](https://github.com/runtypes/runtypes/pull/403) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [improvement!: provide full information in error details](https://github.com/runtypes/runtypes/pull/417) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 ### ⭐ Recent Stars
 
