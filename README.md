@@ -16,15 +16,15 @@
 
 
 
+- [improvement!: enhance types of `Failure`](https://github.com/runtypes/runtypes/pull/425) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+
+- [fix!: fix types of `Constraint`](https://github.com/runtypes/runtypes/pull/424) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+
+- [feat!: add `inspect` method in place of `validate`](https://github.com/runtypes/runtypes/pull/423) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+
+- [refactor: wrap internal context within object](https://github.com/runtypes/runtypes/pull/422) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+
 - [deprecate!: remove legacy decorators support](https://github.com/runtypes/runtypes/pull/421) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
-
-- [chore: add ESLint directives](https://github.com/runtypes/runtypes/pull/420) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
-
-- [improvement!: provide full information in error details for `Intersect`](https://github.com/runtypes/runtypes/pull/419) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
-
-- [improvement!: provide full information in error details for `Union`](https://github.com/runtypes/runtypes/pull/418) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
-
-- [improvement!: provide full information in error details](https://github.com/runtypes/runtypes/pull/417) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 ### ⭐ Recent Stars
 
