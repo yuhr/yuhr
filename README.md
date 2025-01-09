@@ -16,7 +16,7 @@
 
 
 
-- [improvement!: enhance types of `Failure`](https://github.com/runtypes/runtypes/pull/425) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [improvement!: revise APIs around failure](https://github.com/runtypes/runtypes/pull/425) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 - [fix!: fix types of `Constraint`](https://github.com/runtypes/runtypes/pull/424) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
