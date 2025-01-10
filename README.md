@@ -16,6 +16,8 @@
 
 
 
+- [refactor!: reimplement `Runtype` as class](https://github.com/runtypes/runtypes/pull/426) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+
 - [improvement!: revise APIs around failure](https://github.com/runtypes/runtypes/pull/425) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 - [fix!: fix types of `Constraint`](https://github.com/runtypes/runtypes/pull/424) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
@@ -23,8 +25,6 @@
 - [feat!: add `inspect` method in place of `validate`](https://github.com/runtypes/runtypes/pull/423) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 - [refactor: wrap internal context within object](https://github.com/runtypes/runtypes/pull/422) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
-
-- [deprecate!: remove legacy decorators support](https://github.com/runtypes/runtypes/pull/421) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 ### ⭐ Recent Stars
 
