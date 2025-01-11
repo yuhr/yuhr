@@ -16,15 +16,15 @@
 
 
 
-- [refactor!: reimplement `Runtype` as class](https://github.com/runtypes/runtypes/pull/426) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [docs: remove “Installation” section from readme](https://github.com/runtypes/runtypes/pull/437) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [improvement!: revise APIs around failure](https://github.com/runtypes/runtypes/pull/425) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [fix!: fix exports](https://github.com/runtypes/runtypes/pull/436) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [fix!: fix types of `Constraint`](https://github.com/runtypes/runtypes/pull/424) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [fix!: fix logic and types of `match` utility of `Union`](https://github.com/runtypes/runtypes/pull/435) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [feat!: add `inspect` method in place of `validate`](https://github.com/runtypes/runtypes/pull/423) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [improvement: make the rest of intrinsics non-enumerable](https://github.com/runtypes/runtypes/pull/434) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [refactor: wrap internal context within object](https://github.com/runtypes/runtypes/pull/422) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [improvement!: make top-level `match` require `when`](https://github.com/runtypes/runtypes/pull/433) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 ### ⭐ Recent Stars
 
