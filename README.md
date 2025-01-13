@@ -16,6 +16,8 @@
 
 
 
+- [fix: revert behavior of parsing `Intersect` of `Object`s](https://github.com/runtypes/runtypes/pull/443) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+
 - [fix: merge parsed properties in `Intersect` of `Object`s](https://github.com/runtypes/runtypes/pull/442) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 - [improvement: remove information of received value in messages of `PROPERTY_PRESENT` and `NOTHING_EXPECTED`](https://github.com/runtypes/runtypes/pull/441) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
@@ -23,8 +25,6 @@
 - [refactor!: rename `inner` to `detail` in `Failure`](https://github.com/runtypes/runtypes/pull/440) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 - [improvement: show exact object flag in error messages](https://github.com/runtypes/runtypes/pull/439) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
-
-- [fix: use brand string in error messages](https://github.com/runtypes/runtypes/pull/438) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 ### ⭐ Recent Stars
 
