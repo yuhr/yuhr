@@ -30,6 +30,8 @@
 
 
 
+- [popzxc/stdext-rs](https://github.com/popzxc/stdext-rs) - Extensions for the Rust standard library
+
 - [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
 
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
@@ -37,5 +39,3 @@
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 
 - [KOBA789/namanushi](https://github.com/KOBA789/namanushi) - A toy loopback usb audio device
-
-- [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
