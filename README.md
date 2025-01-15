@@ -2,9 +2,9 @@
 
 
 
-- [runtypes/runtypes](https://github.com/runtypes/runtypes) - Runtime validation for static types
-
 - [yuhr/routets](https://github.com/yuhr/routets) - Vanilla filesystem-based routing for Deno.
+
+- [runtypes/runtypes](https://github.com/runtypes/runtypes) - Runtime validation for static types
 
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 
@@ -16,15 +16,15 @@
 
 
 
+- [chore: remove routes with special characters in examples temporarily](https://github.com/yuhr/routets/pull/56) on [yuhr/routets](https://github.com/yuhr/routets)
+
+- [fix: fix route pathnames written to index in `Router.write`](https://github.com/yuhr/routets/pull/55) on [yuhr/routets](https://github.com/yuhr/routets)
+
 - [fix: revert behavior of parsing `Intersect` of `Object`s](https://github.com/runtypes/runtypes/pull/443) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 - [fix: merge parsed properties in `Intersect` of `Object`s](https://github.com/runtypes/runtypes/pull/442) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 - [improvement: remove information of received value in messages of `PROPERTY_PRESENT` and `NOTHING_EXPECTED`](https://github.com/runtypes/runtypes/pull/441) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
-
-- [refactor!: rename `inner` to `detail` in `Failure`](https://github.com/runtypes/runtypes/pull/440) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
-
-- [improvement: show exact object flag in error messages](https://github.com/runtypes/runtypes/pull/439) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 ### ⭐ Recent Stars
 
