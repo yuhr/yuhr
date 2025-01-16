@@ -2,6 +2,8 @@
 
 
 
+- [denoland/std](https://github.com/denoland/std) - The Deno Standard Library
+
 - [yuhr/routets](https://github.com/yuhr/routets) - Vanilla filesystem-based routing for Deno.
 
 - [runtypes/runtypes](https://github.com/runtypes/runtypes) - Runtime validation for static types
@@ -9,8 +11,6 @@
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 
 - [yuhr/use-await-data](https://github.com/yuhr/use-await-data) - A React hook that executes an async task to populate the desired data.
-
-- [denoland/std](https://github.com/denoland/std) - The Deno Standard Library
 
 ### 🔨 My recent Pull Requests
 
@@ -30,12 +30,12 @@
 
 
 
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
+
+- [aquaproj/aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly
+
 - [popzxc/stdext-rs](https://github.com/popzxc/stdext-rs) - Extensions for the Rust standard library
 
 - [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
 
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
-
-- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-
-- [KOBA789/namanushi](https://github.com/KOBA789/namanushi) - A toy loopback usb audio device
