@@ -2,11 +2,11 @@
 
 
 
+- [runtypes/runtypes](https://github.com/runtypes/runtypes) - Runtime validation for static types
+
 - [denoland/std](https://github.com/denoland/std) - The Deno Standard Library
 
 - [yuhr/routets](https://github.com/yuhr/routets) - Vanilla filesystem-based routing for Deno.
-
-- [runtypes/runtypes](https://github.com/runtypes/runtypes) - Runtime validation for static types
 
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 
