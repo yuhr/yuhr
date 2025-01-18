@@ -16,19 +16,21 @@
 
 
 
+- [improvement: narrow `Failure` type](https://github.com/runtypes/runtypes/pull/446) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+
+- [improvement: enhance types in interface of `Tuple`](https://github.com/runtypes/runtypes/pull/445) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+
 - [chore: remove routes with special characters in examples temporarily](https://github.com/yuhr/routets/pull/56) on [yuhr/routets](https://github.com/yuhr/routets)
 
 - [fix: fix route pathnames written to index in `Router.write`](https://github.com/yuhr/routets/pull/55) on [yuhr/routets](https://github.com/yuhr/routets)
 
 - [fix: revert behavior of parsing `Intersect` of `Object`s](https://github.com/runtypes/runtypes/pull/443) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [fix: merge parsed properties in `Intersect` of `Object`s](https://github.com/runtypes/runtypes/pull/442) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
-
-- [improvement: remove information of received value in messages of `PROPERTY_PRESENT` and `NOTHING_EXPECTED`](https://github.com/runtypes/runtypes/pull/441) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
-
 ### ⭐ Recent Stars
 
 
+
+- [wvlet/wvlet](https://github.com/wvlet/wvlet) - A flow-style query language for SQL engines
 
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
 
@@ -37,5 +39,3 @@
 - [popzxc/stdext-rs](https://github.com/popzxc/stdext-rs) - Extensions for the Rust standard library
 
 - [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
-
-- [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
