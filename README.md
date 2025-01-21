@@ -16,15 +16,15 @@
 
 
 
-- [improvement: narrow `Failure` type](https://github.com/runtypes/runtypes/pull/446) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [fix: parse recursive `Object` correctly](https://github.com/runtypes/runtypes/pull/455) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [improvement: enhance types in interface of `Tuple`](https://github.com/runtypes/runtypes/pull/445) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [refactor!: rename `returns` to `resolves` in `AsyncContract`](https://github.com/runtypes/runtypes/pull/453) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [chore: remove routes with special characters in examples temporarily](https://github.com/yuhr/routets/pull/56) on [yuhr/routets](https://github.com/yuhr/routets)
+- [fix: fix types in interface of `Parser`](https://github.com/runtypes/runtypes/pull/452) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [fix: fix route pathnames written to index in `Router.write`](https://github.com/yuhr/routets/pull/55) on [yuhr/routets](https://github.com/yuhr/routets)
+- [refactor!: rename `defaultValue` to `default`](https://github.com/runtypes/runtypes/pull/451) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [fix: revert behavior of parsing `Intersect` of `Object`s](https://github.com/runtypes/runtypes/pull/443) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [docs: add tip for annotating runtypes](https://github.com/runtypes/runtypes/pull/450) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 ### ⭐ Recent Stars
 
