@@ -16,15 +16,15 @@
 
 
 
-- [fix: parse recursive `Object` correctly](https://github.com/runtypes/runtypes/pull/455) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [Update comparison with Runtypes in `README.md`](https://github.com/colinhacks/zod/pull/3949) on [colinhacks/zod](https://github.com/colinhacks/zod)
 
-- [refactor!: rename `returns` to `resolves` in `AsyncContract`](https://github.com/runtypes/runtypes/pull/453) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [chore: bump version to 7.0.0](https://github.com/runtypes/runtypes/pull/467) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [fix: fix types in interface of `Parser`](https://github.com/runtypes/runtypes/pull/452) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [build: configure JSR publish](https://github.com/runtypes/runtypes/pull/466) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [refactor!: rename `defaultValue` to `default`](https://github.com/runtypes/runtypes/pull/451) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [docs: fix examples](https://github.com/runtypes/runtypes/pull/465) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [docs: add tip for annotating runtypes](https://github.com/runtypes/runtypes/pull/450) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [docs: fix examples](https://github.com/runtypes/runtypes/pull/464) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 ### ⭐ Recent Stars
 
