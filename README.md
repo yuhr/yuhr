@@ -16,19 +16,21 @@
 
 
 
-- [Update comparison with Runtypes in `README.md`](https://github.com/colinhacks/zod/pull/3949) on [colinhacks/zod](https://github.com/colinhacks/zod)
+- [chore: bump version to 7.0.1](https://github.com/runtypes/runtypes/pull/475) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [chore: bump version to 7.0.0](https://github.com/runtypes/runtypes/pull/467) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [docs: fix wording about `Runtype.Core`](https://github.com/runtypes/runtypes/pull/474) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [build: configure JSR publish](https://github.com/runtypes/runtypes/pull/466) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [fix: fix parameter types of validation methods to work on generic runtype](https://github.com/runtypes/runtypes/pull/473) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [docs: fix examples](https://github.com/runtypes/runtypes/pull/465) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [refactor: remove unnecessary special-casing in `Maybe`](https://github.com/runtypes/runtypes/pull/472) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
-- [docs: fix examples](https://github.com/runtypes/runtypes/pull/464) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+- [fix: fix parameter type of `inspect`](https://github.com/runtypes/runtypes/pull/471) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 ### ⭐ Recent Stars
 
 
+
+- [ozekik/awesome-ontology](https://github.com/ozekik/awesome-ontology) - A curated list of ontology things
 
 - [wvlet/wvlet](https://github.com/wvlet/wvlet) - A flow-style query language for SQL engines
 
@@ -37,5 +39,3 @@
 - [aquaproj/aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly
 
 - [popzxc/stdext-rs](https://github.com/popzxc/stdext-rs) - Extensions for the Rust standard library
-
-- [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
