@@ -2,6 +2,8 @@
 
 
 
+- [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
+
 - [runtypes/runtypes](https://github.com/runtypes/runtypes) - Runtime validation for static types
 
 - [denoland/std](https://github.com/denoland/std) - The Deno Standard Library
@@ -9,8 +11,6 @@
 - [yuhr/routets](https://github.com/yuhr/routets) - Vanilla filesystem-based routing for Deno.
 
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
-
-- [yuhr/use-await-data](https://github.com/yuhr/use-await-data) - A React hook that executes an async task to populate the desired data.
 
 ### 🔨 My recent Pull Requests
 
