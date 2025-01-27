@@ -30,12 +30,12 @@
 
 
 
+- [rime/squirrel](https://github.com/rime/squirrel) - 【鼠鬚管】Rime for macOS
+
+- [littletof/charmd](https://github.com/littletof/charmd) - A simple, extendable markdown renderer for your terminal.
+
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
+
+- [rime/home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
+
 - [ozekik/awesome-ontology](https://github.com/ozekik/awesome-ontology) - A curated list of ontology things
-
-- [wvlet/wvlet](https://github.com/wvlet/wvlet) - A flow-style query language for SQL engines
-
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
-
-- [aquaproj/aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly
-
-- [popzxc/stdext-rs](https://github.com/popzxc/stdext-rs) - Extensions for the Rust standard library
