@@ -30,12 +30,12 @@
 
 
 
+- [NexaAI/Awesome-LLMs-on-device](https://github.com/NexaAI/Awesome-LLMs-on-device) - Awesome LLMs on Device: A Comprehensive Survey
+
+- [Myriad-Dreamin/typst.ts](https://github.com/Myriad-Dreamin/typst.ts) - Run Typst in JavaScriptWorld.
+
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 
 - [botoxparty/XP.css](https://github.com/botoxparty/XP.css) - A CSS framework for building faithful recreations of operating system GUIs.
 
 - [audulus/rui](https://github.com/audulus/rui) - Declarative Rust UI library
-
-- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A no-build CDN for modern web development.
-
-- [openmusic-project/openmusic](https://github.com/openmusic-project/openmusic) - The OpenMusic visual programming / computer-aided composition environment
