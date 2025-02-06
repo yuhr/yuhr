@@ -16,15 +16,15 @@
 
 
 
+- [chore: bump version to 7.0.4](https://github.com/runtypes/runtypes/pull/485) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+
+- [fix: resolve `@ts-expect-error` in validation methods](https://github.com/runtypes/runtypes/pull/484) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+
+- [chore: bump version to 7.0.3](https://github.com/runtypes/runtypes/pull/482) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+
+- [fix: narrow `any` inputs correctly](https://github.com/runtypes/runtypes/pull/481) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+
 - [fix: fix call site detection in `Router.write`](https://github.com/yuhr/routets/pull/58) on [yuhr/routets](https://github.com/yuhr/routets)
-
-- [docs: add badges](https://github.com/runtypes/runtypes/pull/479) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
-
-- [chore: bump version to 7.0.2](https://github.com/runtypes/runtypes/pull/478) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
-
-- [fix: rebind `self` of `with` modifications on every `clone`](https://github.com/runtypes/runtypes/pull/477) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
-
-- [chore: bump version to 7.0.1](https://github.com/runtypes/runtypes/pull/475) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 ### ⭐ Recent Stars
 
