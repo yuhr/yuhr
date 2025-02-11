@@ -30,12 +30,12 @@
 
 
 
+- [cargo-public-api/cargo-public-api](https://github.com/cargo-public-api/cargo-public-api) - List and diff the public API of Rust library crates between releases and commits. Detect breaking API changes and semver violations via CI or a CLI.
+
+- [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) - A standard interface for TypeScript schema validation libraries
+
 - [bfalo/buffalo-lang](https://github.com/bfalo/buffalo-lang) - Buffalo is an esoteric programming language inspired by William J. Rapaport
 
 - [zen-fs/core](https://github.com/zen-fs/core) - A filesystem, anywhere.
 
 - [cross-org/fs](https://github.com/cross-org/fs) - Cross Runtime (Deno, Node, Bun) filesystem operations for JavaScript and TypeScript
-
-- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos
-
-- [NexaAI/Awesome-LLMs-on-device](https://github.com/NexaAI/Awesome-LLMs-on-device) - Awesome LLMs on Device: A Comprehensive Survey
