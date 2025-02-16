@@ -2,6 +2,8 @@
 
 
 
+- [yuhr/ruleset](https://github.com/yuhr/ruleset) - Monotonic chart parsing.
+
 - [yuhr/distree](https://github.com/yuhr/distree) - Directory structure trees upon plain objects.
 
 - [runtypes/runtypes](https://github.com/runtypes/runtypes) - Runtime validation for static types
@@ -10,25 +12,25 @@
 
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 
-- [denoland/std](https://github.com/denoland/std) - The Deno Standard Library
-
 ### 🔨 My recent Pull Requests
 
 
 
-- [refactor: defer imports of external modules](https://github.com/yuhr/distree/pull/17) on [yuhr/distree](https://github.com/yuhr/distree)
+- [chore: fix `.gitattributes`](https://github.com/yuhr/ruleset/pull/9) on [yuhr/ruleset](https://github.com/yuhr/ruleset)
 
-- [chore: revise project configurations](https://github.com/yuhr/distree/pull/16) on [yuhr/distree](https://github.com/yuhr/distree)
+- [chore: fix `.gitattributes`](https://github.com/yuhr/ruleset/pull/8) on [yuhr/ruleset](https://github.com/yuhr/ruleset)
 
-- [docs: update readme](https://github.com/yuhr/distree/pull/15) on [yuhr/distree](https://github.com/yuhr/distree)
+- [chore: add root package as workspace member](https://github.com/yuhr/ruleset/pull/7) on [yuhr/ruleset](https://github.com/yuhr/ruleset)
 
-- [chore: materialize symlink of `LICENSE` to workaround incompatibility with GitHub&#39;s UI](https://github.com/yuhr/distree/pull/14) on [yuhr/distree](https://github.com/yuhr/distree)
+- [chore: bump version to 1.0.0](https://github.com/yuhr/ruleset/pull/6) on [yuhr/ruleset](https://github.com/yuhr/ruleset)
 
-- [test: update tests](https://github.com/yuhr/distree/pull/13) on [yuhr/distree](https://github.com/yuhr/distree)
+- [chore: prepare for release](https://github.com/yuhr/ruleset/pull/5) on [yuhr/ruleset](https://github.com/yuhr/ruleset)
 
 ### ⭐ Recent Stars
 
 
+
+- [yuhr/ruleset](https://github.com/yuhr/ruleset) - Monotonic chart parsing.
 
 - [cargo-public-api/cargo-public-api](https://github.com/cargo-public-api/cargo-public-api) - List and diff the public API of Rust library crates between releases and commits. Detect breaking API changes and semver violations via CI or a CLI.
 
@@ -37,5 +39,3 @@
 - [bfalo/buffalo-lang](https://github.com/bfalo/buffalo-lang) - Buffalo is an esoteric programming language inspired by William J. Rapaport
 
 - [zen-fs/core](https://github.com/zen-fs/core) - A filesystem, anywhere.
-
-- [cross-org/fs](https://github.com/cross-org/fs) - Cross Runtime (Deno, Node, Bun) filesystem operations for JavaScript and TypeScript
