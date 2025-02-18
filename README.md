@@ -30,6 +30,8 @@
 
 
 
+- [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
+
 - [yuhr/ruleset](https://github.com/yuhr/ruleset) - Monotonic chart parsing.
 
 - [cargo-public-api/cargo-public-api](https://github.com/cargo-public-api/cargo-public-api) - List and diff the public API of Rust library crates between releases and commits. Detect breaking API changes and semver violations via CI or a CLI.
@@ -37,5 +39,3 @@
 - [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) - A standard interface for TypeScript schema validation libraries
 
 - [bfalo/buffalo-lang](https://github.com/bfalo/buffalo-lang) - Buffalo is an esoteric programming language inspired by William J. Rapaport
-
-- [zen-fs/core](https://github.com/zen-fs/core) - A filesystem, anywhere.
