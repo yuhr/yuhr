@@ -30,6 +30,8 @@
 
 
 
+- [oligamiq/rubrc](https://github.com/oligamiq/rubrc) - Rust compiler that runs in the browser!
+
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
@@ -37,5 +39,3 @@
 - [yuhr/ruleset](https://github.com/yuhr/ruleset) - Monotonic chart parsing.
 
 - [cargo-public-api/cargo-public-api](https://github.com/cargo-public-api/cargo-public-api) - List and diff the public API of Rust library crates between releases and commits. Detect breaking API changes and semver violations via CI or a CLI.
-
-- [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) - A standard interface for TypeScript schema validation libraries
