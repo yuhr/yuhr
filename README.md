@@ -30,6 +30,8 @@
 
 
 
+- [orgsofthq/dsbuild](https://github.com/orgsofthq/dsbuild) - 📦 Build modern websites with zero added frameworks. Deno, React, JS/TS, &amp; Markdown MDX supported.
+
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 
 - [kriszyp/cbor-x](https://github.com/kriszyp/cbor-x) - Ultra-fast CBOR encoder/decoder with extensions for records and structural cloning
@@ -37,5 +39,3 @@
 - [ipfs/helia](https://github.com/ipfs/helia) - An implementation of IPFS in TypeScript
 
 - [oligamiq/rubrc](https://github.com/oligamiq/rubrc) - Rust compiler that runs in the browser!
-
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
