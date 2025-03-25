@@ -30,6 +30,8 @@
 
 
 
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
+
 - [wendigo/chrome-protocol-proxy](https://github.com/wendigo/chrome-protocol-proxy) - Chrome DevTools Protocol Proxy - intelligent proxy for debugging purposes
 
 - [nikmcfly/ANUS](https://github.com/nikmcfly/ANUS) - 
@@ -37,5 +39,3 @@
 - [facebookresearch/spiritlm](https://github.com/facebookresearch/spiritlm) - Inference code for the paper &#34;Spirit-LM Interleaved Spoken and Written Language Model&#34;.
 
 - [kmill/lean4-raytracer](https://github.com/kmill/lean4-raytracer) - A simple raytracer written in Lean 4
-
-- [orgsofthq/dsbuild](https://github.com/orgsofthq/dsbuild) - 📦 Build modern websites with zero added frameworks. Deno, React, JS/TS, &amp; Markdown MDX supported.
