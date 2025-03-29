@@ -16,6 +16,8 @@
 
 
 
+- [refactor: remove unnecessary mutability from self reference receiver of associated functions of `JsRuntime`](https://github.com/denoland/deno_core/pull/1107) on [denoland/deno_core](https://github.com/denoland/deno_core)
+
 - [chore: fix `.gitattributes`](https://github.com/yuhr/ruleset/pull/9) on [yuhr/ruleset](https://github.com/yuhr/ruleset)
 
 - [chore: fix `.gitattributes`](https://github.com/yuhr/ruleset/pull/8) on [yuhr/ruleset](https://github.com/yuhr/ruleset)
@@ -23,8 +25,6 @@
 - [chore: add root package as workspace member](https://github.com/yuhr/ruleset/pull/7) on [yuhr/ruleset](https://github.com/yuhr/ruleset)
 
 - [chore: bump version to 1.0.0](https://github.com/yuhr/ruleset/pull/6) on [yuhr/ruleset](https://github.com/yuhr/ruleset)
-
-- [chore: prepare for release](https://github.com/yuhr/ruleset/pull/5) on [yuhr/ruleset](https://github.com/yuhr/ruleset)
 
 ### ⭐ Recent Stars
 
