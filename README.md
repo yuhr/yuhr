@@ -30,12 +30,12 @@
 
 
 
+- [niklak/dom_query](https://github.com/niklak/dom_query) - A Flexible Rust Crate for DOM Querying and Manipulation
+
+- [johnstonskj/rust-xml_dom](https://github.com/johnstonskj/rust-xml_dom) - A Rust crate providing a reasonably faithful implementation of the W3C DOM Core
+
 - [typedgrammar/typed-japanese](https://github.com/typedgrammar/typed-japanese) - Learn Japanese grammar with TypeScript
 
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
 
 - [revng/revng](https://github.com/revng/revng) - revng: the core repository of the rev.ng project
-
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
-
-- [wendigo/chrome-protocol-proxy](https://github.com/wendigo/chrome-protocol-proxy) - Chrome DevTools Protocol Proxy - intelligent proxy for debugging purposes
