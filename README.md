@@ -30,12 +30,12 @@
 
 
 
+- [WebAssembly/wasi-sockets](https://github.com/WebAssembly/wasi-sockets) - WASI API proposal for managing sockets
+
+- [oh-my-fish/theme-clearance](https://github.com/oh-my-fish/theme-clearance) - A minimalist fish shell theme for people who use git
+
 - [coleam00/Archon](https://github.com/coleam00/Archon) - Archon is an AI agent that is able to create other AI agents using an advanced agentic coding workflow and framework knowledge base to unlock a new frontier of automated agents.
 
 - [ai/nanoevents](https://github.com/ai/nanoevents) - Simple and tiny (107 bytes) event emitter library for JavaScript
 
 - [creusot-rs/creusot](https://github.com/creusot-rs/creusot) - Creusot helps you prove your code is correct in an automated fashion.
-
-- [niklak/dom_query](https://github.com/niklak/dom_query) - A Flexible Rust Crate for DOM Querying and Manipulation
-
-- [johnstonskj/rust-xml_dom](https://github.com/johnstonskj/rust-xml_dom) - A Rust crate providing a reasonably faithful implementation of the W3C DOM Core
