@@ -2,6 +2,8 @@
 
 
 
+- [yuhr/routets](https://github.com/yuhr/routets) - Vanilla filesystem-based routing for Deno.
+
 - [denoland/deno_core](https://github.com/denoland/deno_core) - The core engine at the heart of Deno
 
 - [rscarson/rustyscript](https://github.com/rscarson/rustyscript) - Effortless JS integration for rust 
@@ -10,11 +12,11 @@
 
 - [yuhr/distree](https://github.com/yuhr/distree) - Directory structure trees upon plain objects.
 
-- [runtypes/runtypes](https://github.com/runtypes/runtypes) - Runtime validation for static types
-
 ### 🔨 My recent Pull Requests
 
 
+
+- [chore: upgrade development tooling](https://github.com/yuhr/routets/pull/60) on [yuhr/routets](https://github.com/yuhr/routets)
 
 - [fix(runtime): remove `deno_os::deno_os_worker` to make `WebWorker` work without snapshot](https://github.com/denoland/deno/pull/28693) on [denoland/deno](https://github.com/denoland/deno)
 
@@ -24,18 +26,16 @@
 
 - [chore: fix `.gitattributes`](https://github.com/yuhr/ruleset/pull/9) on [yuhr/ruleset](https://github.com/yuhr/ruleset)
 
-- [chore: fix `.gitattributes`](https://github.com/yuhr/ruleset/pull/8) on [yuhr/ruleset](https://github.com/yuhr/ruleset)
-
 ### ⭐ Recent Stars
 
 
 
+- [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
+
+- [huggingface/ratchet](https://github.com/huggingface/ratchet) - A cross-platform browser ML framework.
+
+- [sammhicks/picoserve](https://github.com/sammhicks/picoserve) - An async no_std HTTP server suitable for bare-metal environments, heavily inspired by axum
+
 - [WebAssembly/wasi-sockets](https://github.com/WebAssembly/wasi-sockets) - WASI API proposal for managing sockets
 
 - [oh-my-fish/theme-clearance](https://github.com/oh-my-fish/theme-clearance) - A minimalist fish shell theme for people who use git
-
-- [coleam00/Archon](https://github.com/coleam00/Archon) - Archon is an AI agent that is able to create other AI agents using an advanced agentic coding workflow and framework knowledge base to unlock a new frontier of automated agents.
-
-- [ai/nanoevents](https://github.com/ai/nanoevents) - Simple and tiny (107 bytes) event emitter library for JavaScript
-
-- [creusot-rs/creusot](https://github.com/creusot-rs/creusot) - Creusot helps you prove your code is correct in an automated fashion.
