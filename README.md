@@ -30,6 +30,8 @@
 
 
 
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
+
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 
 - [huggingface/ratchet](https://github.com/huggingface/ratchet) - A cross-platform browser ML framework.
@@ -37,5 +39,3 @@
 - [sammhicks/picoserve](https://github.com/sammhicks/picoserve) - An async no_std HTTP server suitable for bare-metal environments, heavily inspired by axum
 
 - [WebAssembly/wasi-sockets](https://github.com/WebAssembly/wasi-sockets) - WASI API proposal for managing sockets
-
-- [oh-my-fish/theme-clearance](https://github.com/oh-my-fish/theme-clearance) - A minimalist fish shell theme for people who use git
