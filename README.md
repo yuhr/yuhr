@@ -16,15 +16,15 @@
 
 
 
+- [fix: remove unwanted logging](https://github.com/yuhr/distree/pull/22) on [yuhr/distree](https://github.com/yuhr/distree)
+
+- [chore: revise project configurations](https://github.com/yuhr/distree/pull/21) on [yuhr/distree](https://github.com/yuhr/distree)
+
+- [feat: add `has` API](https://github.com/yuhr/distree/pull/20) on [yuhr/distree](https://github.com/yuhr/distree)
+
+- [feat!: allow arbitrary filesystem for `fromDirectory`](https://github.com/yuhr/distree/pull/19) on [yuhr/distree](https://github.com/yuhr/distree)
+
 - [chore: upgrade development tooling](https://github.com/yuhr/distree/pull/18) on [yuhr/distree](https://github.com/yuhr/distree)
-
-- [chore: upgrade development tooling](https://github.com/yuhr/routets/pull/60) on [yuhr/routets](https://github.com/yuhr/routets)
-
-- [fix(runtime): remove `deno_os::deno_os_worker` to make `WebWorker` work without snapshot](https://github.com/denoland/deno/pull/28693) on [denoland/deno](https://github.com/denoland/deno)
-
-- [fix: add omitted `deno_process` dependency to `io` feature](https://github.com/rscarson/rustyscript/pull/353) on [rscarson/rustyscript](https://github.com/rscarson/rustyscript)
-
-- [refactor: remove unnecessary mutability from self reference receiver of associated functions of `JsRuntime`](https://github.com/denoland/deno_core/pull/1107) on [denoland/deno_core](https://github.com/denoland/deno_core)
 
 ### ⭐ Recent Stars
 
