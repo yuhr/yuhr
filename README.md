@@ -16,15 +16,15 @@
 
 
 
-- [fix: remove unwanted logging](https://github.com/yuhr/distree/pull/22) on [yuhr/distree](https://github.com/yuhr/distree)
+- [fix: fix path resolution in default `ls` of `fromDirectory`](https://github.com/yuhr/distree/pull/28) on [yuhr/distree](https://github.com/yuhr/distree)
 
-- [chore: revise project configurations](https://github.com/yuhr/distree/pull/21) on [yuhr/distree](https://github.com/yuhr/distree)
+- [fix: handle trailing slash in `fromDirectory`](https://github.com/yuhr/distree/pull/27) on [yuhr/distree](https://github.com/yuhr/distree)
 
-- [feat: add `has` API](https://github.com/yuhr/distree/pull/20) on [yuhr/distree](https://github.com/yuhr/distree)
+- [fix: remove unwanted logging](https://github.com/yuhr/distree/pull/26) on [yuhr/distree](https://github.com/yuhr/distree)
 
-- [feat!: allow arbitrary filesystem for `fromDirectory`](https://github.com/yuhr/distree/pull/19) on [yuhr/distree](https://github.com/yuhr/distree)
+- [docs: update readme](https://github.com/yuhr/distree/pull/25) on [yuhr/distree](https://github.com/yuhr/distree)
 
-- [chore: upgrade development tooling](https://github.com/yuhr/distree/pull/18) on [yuhr/distree](https://github.com/yuhr/distree)
+- [chore: upgrade development tooling](https://github.com/yuhr/distree/pull/24) on [yuhr/distree](https://github.com/yuhr/distree)
 
 ### ⭐ Recent Stars
 
