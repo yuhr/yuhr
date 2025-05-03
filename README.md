@@ -2,9 +2,9 @@
 
 
 
-- [yuhr/distree](https://github.com/yuhr/distree) - Directory structure trees upon plain objects.
-
 - [yuhr/routets](https://github.com/yuhr/routets) - Vanilla filesystem-based routing for Deno.
+
+- [yuhr/distree](https://github.com/yuhr/distree) - Directory structure trees upon plain objects.
 
 - [denoland/deno_core](https://github.com/denoland/deno_core) - The core engine at the heart of Deno
 
@@ -16,15 +16,15 @@
 
 
 
+- [refactor: unuse `Deno` namespace where possible](https://github.com/yuhr/routets/pull/62) on [yuhr/routets](https://github.com/yuhr/routets)
+
+- [refactor: upgrade dependencies](https://github.com/yuhr/routets/pull/61) on [yuhr/routets](https://github.com/yuhr/routets)
+
 - [fix: fix path resolution in default `ls` of `fromDirectory`](https://github.com/yuhr/distree/pull/28) on [yuhr/distree](https://github.com/yuhr/distree)
 
 - [fix: handle trailing slash in `fromDirectory`](https://github.com/yuhr/distree/pull/27) on [yuhr/distree](https://github.com/yuhr/distree)
 
 - [fix: remove unwanted logging](https://github.com/yuhr/distree/pull/26) on [yuhr/distree](https://github.com/yuhr/distree)
-
-- [docs: update readme](https://github.com/yuhr/distree/pull/25) on [yuhr/distree](https://github.com/yuhr/distree)
-
-- [chore: upgrade development tooling](https://github.com/yuhr/distree/pull/24) on [yuhr/distree](https://github.com/yuhr/distree)
 
 ### ⭐ Recent Stars
 
