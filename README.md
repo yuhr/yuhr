@@ -2,7 +2,7 @@
 
 
 
-- [yuhr/routets](https://github.com/yuhr/routets) - Vanilla filesystem-based routing for Deno.
+- [yuhr/routets](https://github.com/yuhr/routets) - Vanilla filesystem-based routing for TypeScript.
 
 - [yuhr/distree](https://github.com/yuhr/distree) - Directory structure trees upon plain objects.
 
@@ -16,15 +16,15 @@
 
 
 
-- [refactor: unuse `Deno` namespace where possible](https://github.com/yuhr/routets/pull/62) on [yuhr/routets](https://github.com/yuhr/routets)
+- [refactor: make internal properties `readonly`](https://github.com/yuhr/routets/pull/67) on [yuhr/routets](https://github.com/yuhr/routets)
 
-- [refactor: upgrade dependencies](https://github.com/yuhr/routets/pull/61) on [yuhr/routets](https://github.com/yuhr/routets)
+- [fix!: handle paths in `routets` CLI correctly](https://github.com/yuhr/routets/pull/66) on [yuhr/routets](https://github.com/yuhr/routets)
 
-- [fix: fix path resolution in default `ls` of `fromDirectory`](https://github.com/yuhr/distree/pull/28) on [yuhr/distree](https://github.com/yuhr/distree)
+- [docs: update wording](https://github.com/yuhr/routets/pull/65) on [yuhr/routets](https://github.com/yuhr/routets)
 
-- [fix: handle trailing slash in `fromDirectory`](https://github.com/yuhr/distree/pull/27) on [yuhr/distree](https://github.com/yuhr/distree)
+- [fix: exit when only writing](https://github.com/yuhr/routets/pull/64) on [yuhr/routets](https://github.com/yuhr/routets)
 
-- [fix: remove unwanted logging](https://github.com/yuhr/distree/pull/26) on [yuhr/distree](https://github.com/yuhr/distree)
+- [refactor!: default write option to `undefined`](https://github.com/yuhr/routets/pull/63) on [yuhr/routets](https://github.com/yuhr/routets)
 
 ### ⭐ Recent Stars
 
