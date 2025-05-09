@@ -2,6 +2,8 @@
 
 
 
+- [yuhr/blog.yuhr.org](https://github.com/yuhr/blog.yuhr.org) - 
+
 - [yuhr/routets](https://github.com/yuhr/routets) - Vanilla filesystem-based routing for TypeScript.
 
 - [yuhr/distree](https://github.com/yuhr/distree) - Directory structure trees upon plain objects.
@@ -9,8 +11,6 @@
 - [denoland/deno_core](https://github.com/denoland/deno_core) - The core engine at the heart of Deno
 
 - [rscarson/rustyscript](https://github.com/rscarson/rustyscript) - Effortless JS integration for rust 
-
-- [yuhr/ruleset](https://github.com/yuhr/ruleset) - Monotonic chart parsing.
 
 ### 🔨 My recent Pull Requests
 
@@ -30,6 +30,8 @@
 
 
 
+- [brannondorsey/rust-incompatible-transitive-dependencies](https://github.com/brannondorsey/rust-incompatible-transitive-dependencies) - An example demonstrating how Rust and cargo support incompatible transitive dependencies (like Node.js &#43; npm not Python &#43; pip)
+
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
@@ -37,5 +39,3 @@
 - [huggingface/ratchet](https://github.com/huggingface/ratchet) - A cross-platform browser ML framework.
 
 - [sammhicks/picoserve](https://github.com/sammhicks/picoserve) - An async no_std HTTP server suitable for bare-metal environments, heavily inspired by axum
-
-- [WebAssembly/wasi-sockets](https://github.com/WebAssembly/wasi-sockets) - WASI API proposal for managing sockets
