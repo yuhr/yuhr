@@ -2,6 +2,8 @@
 
 
 
+- [runtypes/runtypes](https://github.com/runtypes/runtypes) - Runtime validation for static types
+
 - [yuhr/blog.yuhr.org](https://github.com/yuhr/blog.yuhr.org) - 
 
 - [yuhr/routets](https://github.com/yuhr/routets) - Vanilla filesystem-based routing for TypeScript.
@@ -10,21 +12,19 @@
 
 - [denoland/deno_core](https://github.com/denoland/deno_core) - The core engine at the heart of Deno
 
-- [rscarson/rustyscript](https://github.com/rscarson/rustyscript) - Effortless JS integration for rust 
-
 ### 🔨 My recent Pull Requests
 
 
+
+- [docs: add caveat about implicit parsing before constraint checks](https://github.com/runtypes/runtypes/pull/493) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
+
+- [docs: fix typos](https://github.com/runtypes/runtypes/pull/491) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 - [refactor: make internal properties `readonly`](https://github.com/yuhr/routets/pull/67) on [yuhr/routets](https://github.com/yuhr/routets)
 
 - [fix!: handle paths in `routets` CLI correctly](https://github.com/yuhr/routets/pull/66) on [yuhr/routets](https://github.com/yuhr/routets)
 
 - [docs: update wording](https://github.com/yuhr/routets/pull/65) on [yuhr/routets](https://github.com/yuhr/routets)
-
-- [fix: exit when only writing](https://github.com/yuhr/routets/pull/64) on [yuhr/routets](https://github.com/yuhr/routets)
-
-- [refactor!: default write option to `undefined`](https://github.com/yuhr/routets/pull/63) on [yuhr/routets](https://github.com/yuhr/routets)
 
 ### ⭐ Recent Stars
 
