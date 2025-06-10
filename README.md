@@ -2,6 +2,8 @@
 
 
 
+- [yuhr/use-await-data](https://github.com/yuhr/use-await-data) - A React hook that executes an async task to populate the desired data.
+
 - [runtypes/runtypes](https://github.com/runtypes/runtypes) - Runtime validation for static types
 
 - [yuhr/blog.yuhr.org](https://github.com/yuhr/blog.yuhr.org) - 
@@ -9,8 +11,6 @@
 - [yuhr/routets](https://github.com/yuhr/routets) - Vanilla filesystem-based routing for TypeScript.
 
 - [yuhr/distree](https://github.com/yuhr/distree) - Directory structure trees upon plain objects.
-
-- [denoland/deno_core](https://github.com/denoland/deno_core) - The core engine at the heart of Deno
 
 ### 🔨 My recent Pull Requests
 
