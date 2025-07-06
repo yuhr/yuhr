@@ -16,6 +16,8 @@
 
 
 
+- [refactor: reduce usage of Deno-specific APIs](https://github.com/yuhr/routets/pull/68) on [yuhr/routets](https://github.com/yuhr/routets)
+
 - [docs: add caveat about implicit parsing before constraint checks](https://github.com/runtypes/runtypes/pull/493) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 - [docs: fix typos](https://github.com/runtypes/runtypes/pull/491) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
@@ -23,8 +25,6 @@
 - [refactor: make internal properties `readonly`](https://github.com/yuhr/routets/pull/67) on [yuhr/routets](https://github.com/yuhr/routets)
 
 - [fix!: handle paths in `routets` CLI correctly](https://github.com/yuhr/routets/pull/66) on [yuhr/routets](https://github.com/yuhr/routets)
-
-- [docs: update wording](https://github.com/yuhr/routets/pull/65) on [yuhr/routets](https://github.com/yuhr/routets)
 
 ### ⭐ Recent Stars
 
