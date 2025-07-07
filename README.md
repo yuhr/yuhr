@@ -2,19 +2,21 @@
 
 
 
+- [yuhr/routets](https://github.com/yuhr/routets) - Vanilla filesystem-based routing for TypeScript.
+
 - [yuhr/use-await-data](https://github.com/yuhr/use-await-data) - A React hook that executes an async task to populate the desired data.
 
 - [runtypes/runtypes](https://github.com/runtypes/runtypes) - Runtime validation for static types
 
 - [yuhr/blog.yuhr.org](https://github.com/yuhr/blog.yuhr.org) - 
 
-- [yuhr/routets](https://github.com/yuhr/routets) - Vanilla filesystem-based routing for TypeScript.
-
 - [yuhr/distree](https://github.com/yuhr/distree) - Directory structure trees upon plain objects.
 
 ### 🔨 My recent Pull Requests
 
 
+
+- [refactor: use `URLSearchParams` instead of string concatenation](https://github.com/yuhr/routets/pull/69) on [yuhr/routets](https://github.com/yuhr/routets)
 
 - [refactor: reduce usage of Deno-specific APIs](https://github.com/yuhr/routets/pull/68) on [yuhr/routets](https://github.com/yuhr/routets)
 
@@ -23,8 +25,6 @@
 - [docs: fix typos](https://github.com/runtypes/runtypes/pull/491) on [runtypes/runtypes](https://github.com/runtypes/runtypes)
 
 - [refactor: make internal properties `readonly`](https://github.com/yuhr/routets/pull/67) on [yuhr/routets](https://github.com/yuhr/routets)
-
-- [fix!: handle paths in `routets` CLI correctly](https://github.com/yuhr/routets/pull/66) on [yuhr/routets](https://github.com/yuhr/routets)
 
 ### ⭐ Recent Stars
 
