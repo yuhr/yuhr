@@ -30,12 +30,12 @@
 
 
 
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
+
+- [guest2180/lean4-quantum](https://github.com/guest2180/lean4-quantum) - An implementation of the theory of quantum computing in the Lean programming language (using the Lean theorem prover version 4).
+
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
 
 - [jafioti/luminal](https://github.com/jafioti/luminal) - Deep learning at the speed of light.
 
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
-
-- [denismm/mystical_ps](https://github.com/denismm/mystical_ps) - 
-
-- [brannondorsey/rust-incompatible-transitive-dependencies](https://github.com/brannondorsey/rust-incompatible-transitive-dependencies) - An example demonstrating how Rust and cargo support incompatible transitive dependencies (like Node.js &#43; npm not Python &#43; pip)
