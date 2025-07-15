@@ -30,6 +30,8 @@
 
 
 
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
+
 - [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate.  QQ Chat-Group: 703260572
 
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
@@ -37,5 +39,3 @@
 - [guest2180/lean4-quantum](https://github.com/guest2180/lean4-quantum) - An implementation of the theory of quantum computing in the Lean programming language (using the Lean theorem prover version 4).
 
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-
-- [jafioti/luminal](https://github.com/jafioti/luminal) - Deep learning at the speed of light.
