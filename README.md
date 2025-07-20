@@ -30,12 +30,12 @@
 
 
 
+- [git-moss/Bitwig-Controler-API-Tutorials](https://github.com/git-moss/Bitwig-Controler-API-Tutorials) - Source code for my Bitwig Controller API Tutorials on Youtube
+
+- [marcomq/tauri-plugin-deno](https://github.com/marcomq/tauri-plugin-deno) - Tauri plugin to run deno javascript code in the backend instead of rust
+
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 
 - [bojand/infer](https://github.com/bojand/infer) - Small crate to infer file and MIME type by checking the magic number signature 
 
 - [theseus-rs/file-type](https://github.com/theseus-rs/file-type) - File type detector
-
-- [mmalecot/file-format](https://github.com/mmalecot/file-format) - Crate for determining the file format of a given file or stream
-
-- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
