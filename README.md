@@ -2,6 +2,8 @@
 
 
 
+- [yuhr/base256braille](https://github.com/yuhr/base256braille) - The Base 256 Braille encoding in pure TypeScript.
+
 - [yuhr/blog.yuhr.org](https://github.com/yuhr/blog.yuhr.org) - 
 
 - [yuhr/routets](https://github.com/yuhr/routets) - Vanilla filesystem-based routing for TypeScript.
@@ -10,21 +12,19 @@
 
 - [runtypes/runtypes](https://github.com/runtypes/runtypes) - Runtime validation for static types
 
-- [yuhr/distree](https://github.com/yuhr/distree) - Directory structure trees upon plain objects.
-
 ### 🔨 My recent Pull Requests
 
 
 
+- [docs: fix typos](https://github.com/yuhr/base256braille/pull/4) on [yuhr/base256braille](https://github.com/yuhr/base256braille)
+
+- [chore: bump version to 1.0.0](https://github.com/yuhr/base256braille/pull/3) on [yuhr/base256braille](https://github.com/yuhr/base256braille)
+
+- [chore: fix JSR exports](https://github.com/yuhr/base256braille/pull/2) on [yuhr/base256braille](https://github.com/yuhr/base256braille)
+
+- [feat!: add basic functionality](https://github.com/yuhr/base256braille/pull/1) on [yuhr/base256braille](https://github.com/yuhr/base256braille)
+
 - [refactor: refactor internal `enumerate` function](https://github.com/yuhr/routets/pull/72) on [yuhr/routets](https://github.com/yuhr/routets)
-
-- [fix: handle generated module correctly](https://github.com/yuhr/routets/pull/71) on [yuhr/routets](https://github.com/yuhr/routets)
-
-- [fix: fix `path` in route context object when run from generated module](https://github.com/yuhr/routets/pull/70) on [yuhr/routets](https://github.com/yuhr/routets)
-
-- [refactor: use `URLSearchParams` instead of string concatenation](https://github.com/yuhr/routets/pull/69) on [yuhr/routets](https://github.com/yuhr/routets)
-
-- [refactor: reduce usage of Deno-specific APIs](https://github.com/yuhr/routets/pull/68) on [yuhr/routets](https://github.com/yuhr/routets)
 
 ### ⭐ Recent Stars
 
