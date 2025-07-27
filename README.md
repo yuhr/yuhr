@@ -2,9 +2,9 @@
 
 
 
-- [yuhr/base256braille](https://github.com/yuhr/base256braille) - The Base 256 Braille encoding in pure TypeScript.
-
 - [yuhr/blog.yuhr.org](https://github.com/yuhr/blog.yuhr.org) - 
+
+- [yuhr/base256braille](https://github.com/yuhr/base256braille) - The Base 256 Braille encoding in pure TypeScript.
 
 - [yuhr/routets](https://github.com/yuhr/routets) - Vanilla filesystem-based routing for TypeScript.
 
