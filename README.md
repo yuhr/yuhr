@@ -2,6 +2,8 @@
 
 
 
+- [yuhr/lossless-cbor](https://github.com/yuhr/lossless-cbor) - 
+
 - [yuhr/blog.yuhr.org](https://github.com/yuhr/blog.yuhr.org) - 
 
 - [yuhr/base256braille](https://github.com/yuhr/base256braille) - The Base 256 Braille encoding in pure TypeScript.
@@ -9,8 +11,6 @@
 - [yuhr/routets](https://github.com/yuhr/routets) - Vanilla filesystem-based routing for TypeScript.
 
 - [yuhr/use-await-data](https://github.com/yuhr/use-await-data) - A React hook that executes an async task to populate the desired data.
-
-- [runtypes/runtypes](https://github.com/runtypes/runtypes) - Runtime validation for static types
 
 ### 🔨 My recent Pull Requests
 
