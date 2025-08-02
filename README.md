@@ -16,15 +16,15 @@
 
 
 
+- [chore: add missing `SPDX-License-Identifier`](https://github.com/yuhr/lossless-cbor/pull/3) on [yuhr/lossless-cbor](https://github.com/yuhr/lossless-cbor)
+
+- [docs: remove links that are not working](https://github.com/yuhr/lossless-cbor/pull/2) on [yuhr/lossless-cbor](https://github.com/yuhr/lossless-cbor)
+
+- [feat!: add basic functionality](https://github.com/yuhr/lossless-cbor/pull/1) on [yuhr/lossless-cbor](https://github.com/yuhr/lossless-cbor)
+
 - [docs: fix typos](https://github.com/yuhr/base256braille/pull/4) on [yuhr/base256braille](https://github.com/yuhr/base256braille)
 
 - [chore: bump version to 1.0.0](https://github.com/yuhr/base256braille/pull/3) on [yuhr/base256braille](https://github.com/yuhr/base256braille)
-
-- [chore: fix JSR exports](https://github.com/yuhr/base256braille/pull/2) on [yuhr/base256braille](https://github.com/yuhr/base256braille)
-
-- [feat!: add basic functionality](https://github.com/yuhr/base256braille/pull/1) on [yuhr/base256braille](https://github.com/yuhr/base256braille)
-
-- [refactor: refactor internal `enumerate` function](https://github.com/yuhr/routets/pull/72) on [yuhr/routets](https://github.com/yuhr/routets)
 
 ### ⭐ Recent Stars
 
