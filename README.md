@@ -2,7 +2,7 @@
 
 
 
-- [yuhr/lossless-cbor](https://github.com/yuhr/lossless-cbor) - 
+- [yuhr/lossless-cbor](https://github.com/yuhr/lossless-cbor) - A zero-dependency library to encode and decode CBOR (RFC8949) for TypeScript.
 
 - [yuhr/blog.yuhr.org](https://github.com/yuhr/blog.yuhr.org) - 
 
@@ -16,15 +16,15 @@
 
 
 
-- [chore: add missing `SPDX-License-Identifier`](https://github.com/yuhr/lossless-cbor/pull/3) on [yuhr/lossless-cbor](https://github.com/yuhr/lossless-cbor)
+- [chore: add missing `SPDX-License-Identifier`](https://github.com/yuhr/lossless-cbor/pull/11) on [yuhr/lossless-cbor](https://github.com/yuhr/lossless-cbor)
 
-- [docs: remove links that are not working](https://github.com/yuhr/lossless-cbor/pull/2) on [yuhr/lossless-cbor](https://github.com/yuhr/lossless-cbor)
+- [docs: update `README.md`](https://github.com/yuhr/lossless-cbor/pull/10) on [yuhr/lossless-cbor](https://github.com/yuhr/lossless-cbor)
 
-- [feat!: add basic functionality](https://github.com/yuhr/lossless-cbor/pull/1) on [yuhr/lossless-cbor](https://github.com/yuhr/lossless-cbor)
+- [feat: add `encode` and `decode`](https://github.com/yuhr/lossless-cbor/pull/9) on [yuhr/lossless-cbor](https://github.com/yuhr/lossless-cbor)
 
-- [docs: fix typos](https://github.com/yuhr/base256braille/pull/4) on [yuhr/base256braille](https://github.com/yuhr/base256braille)
+- [feat: add `fromValue.tag` and `DataItem.Tag`](https://github.com/yuhr/lossless-cbor/pull/8) on [yuhr/lossless-cbor](https://github.com/yuhr/lossless-cbor)
 
-- [chore: bump version to 1.0.0](https://github.com/yuhr/base256braille/pull/3) on [yuhr/base256braille](https://github.com/yuhr/base256braille)
+- [improvement: make options optional in utilities under `fromValue`](https://github.com/yuhr/lossless-cbor/pull/7) on [yuhr/lossless-cbor](https://github.com/yuhr/lossless-cbor)
 
 ### ⭐ Recent Stars
 
