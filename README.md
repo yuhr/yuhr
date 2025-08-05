@@ -30,6 +30,8 @@
 
 
 
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!
+
 - [zydou/arti](https://github.com/zydou/arti) - An implementation of Tor, in Rust. [NOT Official, Mirrors Only, NO PR here] 
 
 - [git-moss/Bitwig-Controler-API-Tutorials](https://github.com/git-moss/Bitwig-Controler-API-Tutorials) - Source code for my Bitwig Controller API Tutorials on Youtube
@@ -37,5 +39,3 @@
 - [marcomq/tauri-plugin-deno](https://github.com/marcomq/tauri-plugin-deno) - Tauri plugin to run deno javascript code in the backend instead of rust
 
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
-
-- [bojand/infer](https://github.com/bojand/infer) - Small crate to infer file and MIME type by checking the magic number signature 
