@@ -30,6 +30,8 @@
 
 
 
+- [sid030sid/did-ipfs-service-provider](https://github.com/sid030sid/did-ipfs-service-provider) - 
+
 - [yuhr/lossless-cbor](https://github.com/yuhr/lossless-cbor) - A zero-dependency library to encode and decode CBOR (RFC8949) for TypeScript.
 
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
@@ -37,5 +39,3 @@
 - [zydou/arti](https://github.com/zydou/arti) - An implementation of Tor, in Rust. [NOT Official, Mirrors Only, NO PR here] 
 
 - [git-moss/Bitwig-Controler-API-Tutorials](https://github.com/git-moss/Bitwig-Controler-API-Tutorials) - Source code for my Bitwig Controller API Tutorials on Youtube
-
-- [marcomq/tauri-plugin-deno](https://github.com/marcomq/tauri-plugin-deno) - Tauri plugin to run deno javascript code in the backend instead of rust
