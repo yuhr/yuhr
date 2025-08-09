@@ -30,12 +30,12 @@
 
 
 
+- [denoland/eszip](https://github.com/denoland/eszip) - A compact file format to losslessly serialize an ECMAScript module graph into a single file
+
+- [ipld/js-car](https://github.com/ipld/js-car) - Content Addressable aRchive format reader and writer for JavaScript
+
+- [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
+
 - [sid030sid/did-ipfs-service-provider](https://github.com/sid030sid/did-ipfs-service-provider) - 
 
 - [yuhr/lossless-cbor](https://github.com/yuhr/lossless-cbor) - A zero-dependency library to encode and decode CBOR (RFC8949) for TypeScript.
-
-- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
-
-- [zydou/arti](https://github.com/zydou/arti) - An implementation of Tor, in Rust. [NOT Official, Mirrors Only, NO PR here] 
-
-- [git-moss/Bitwig-Controler-API-Tutorials](https://github.com/git-moss/Bitwig-Controler-API-Tutorials) - Source code for my Bitwig Controller API Tutorials on Youtube
