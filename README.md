@@ -30,12 +30,12 @@
 
 
 
+- [grame-cncm/faustlive](https://github.com/grame-cncm/faustlive) - Advanced self-contained prototyping environment for the Faust programming language 
+
+- [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
+
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 
 - [samitbasu/rust-hdl](https://github.com/samitbasu/rust-hdl) - A framework for writing FPGA firmware using the Rust Programming Language
 
 - [denoland/eszip](https://github.com/denoland/eszip) - A compact file format to losslessly serialize an ECMAScript module graph into a single file
-
-- [ipld/js-car](https://github.com/ipld/js-car) - Content Addressable aRchive format reader and writer for JavaScript
-
-- [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
