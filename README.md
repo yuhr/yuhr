@@ -30,12 +30,12 @@
 
 
 
+- [Frando/rust-faust](https://github.com/Frando/rust-faust) - Easily use FAUST DSPs in Rust
+
+- [inria-emeraude/syfala](https://github.com/inria-emeraude/syfala) - A faust-to-fpga compiler toolchain
+
+- [joslarson/typed-bitwig-api](https://github.com/joslarson/typed-bitwig-api) - Typescript types definition file for Bitwig Control Surface API.
+
 - [grame-cncm/faustlive](https://github.com/grame-cncm/faustlive) - Advanced self-contained prototyping environment for the Faust programming language 
 
 - [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
-
-- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-
-- [samitbasu/rust-hdl](https://github.com/samitbasu/rust-hdl) - A framework for writing FPGA firmware using the Rust Programming Language
-
-- [denoland/eszip](https://github.com/denoland/eszip) - A compact file format to losslessly serialize an ECMAScript module graph into a single file
