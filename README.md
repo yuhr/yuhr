@@ -2,6 +2,8 @@
 
 
 
+- [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
+
 - [yuhr/routets](https://github.com/yuhr/routets) - Vanilla filesystem-based routing for TypeScript.
 
 - [yuhr/lossless-cbor](https://github.com/yuhr/lossless-cbor) - A zero-dependency library to encode and decode CBOR (RFC8949) for TypeScript.
@@ -9,8 +11,6 @@
 - [yuhr/blog.yuhr.org](https://github.com/yuhr/blog.yuhr.org) - 
 
 - [yuhr/base256braille](https://github.com/yuhr/base256braille) - The Base 256 Braille encoding in pure TypeScript.
-
-- [yuhr/use-await-data](https://github.com/yuhr/use-await-data) - A React hook that executes an async task to populate the desired data.
 
 ### 🔨 My recent Pull Requests
 
