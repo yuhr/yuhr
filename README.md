@@ -30,6 +30,8 @@
 
 
 
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
+
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
 - [opencompl/lean-mlir](https://github.com/opencompl/lean-mlir) - A minimal development of SSA theory
@@ -37,5 +39,3 @@
 - [apfaudio/soldiercrab](https://github.com/apfaudio/soldiercrab) - An embeddable FPGA SoM designed for high-speed audio and USB applications.
 
 - [Frando/rust-faust](https://github.com/Frando/rust-faust) - Easily use FAUST DSPs in Rust
-
-- [inria-emeraude/syfala](https://github.com/inria-emeraude/syfala) - A faust-to-fpga compiler toolchain
